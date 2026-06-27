@@ -1,0 +1,22 @@
+{
+  "name": "KING S3",
+  "category": "sofas",
+  "collection": "radius",
+  "subtitle": "Терракотовый модульный диван с радиусной формой",
+  "description": "Радиусный модульный диван в тёплом терракотовом тоне с мягкой фактурой букле. Становится выразительным центром гостиной, дополняется пуфом из той же коллекции.",
+  "material": "Boucle",
+  "softness": "средняя",
+  "color": "terracotta",
+  "tone": "терракотовый",
+  "form": "модульный",
+  "seats": "6",
+  "width": "430",
+  "depth": "115",
+  "height": "80",
+  "price": 1290000,
+  "featured": false,
+  "order": 3,
+  "images": [
+    "/images/catalog/sofas/kings3.jpg"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "KING S11",
+  "category": "sofas",
+  "collection": "soft-line",
+  "subtitle": "Компактный прямой диван в молочном тоне",
+  "description": "Компактный прямой диван с фактурной молочной обивкой и лаконичной формой. Подходит для небольших гостиных и зон отдыха.",
+  "material": "Рогожка",
+  "softness": "средняя",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "прямой",
+  "seats": "3",
+  "width": "240",
+  "depth": "95",
+  "height": "80",
+  "price": 640000,
+  "featured": false,
+  "order": 11,
+  "images": [
+    "/images/catalog/sofas/kings11.jpg"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "KING S9",
+  "category": "sofas",
+  "collection": "cloud",
+  "subtitle": "Молочный радиусный диван из букле",
+  "description": "Радиусный диван с мягкой молочной обивкой букле и округлой спинкой. Уютная глубокая посадка для спокойных интерьеров.",
+  "material": "Boucle",
+  "softness": "мягкая",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "радиусный",
+  "seats": "5",
+  "width": "350",
+  "depth": "110",
+  "height": "75",
+  "price": 1040000,
+  "featured": false,
+  "order": 9,
+  "images": [
+    "/images/catalog/sofas/kings9-1-copy.jpg",
+    "/images/catalog/sofas/kings9-2-copy.jpg"
+  ]
+}

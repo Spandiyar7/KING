@@ -1,0 +1,22 @@
+{
+  "name": "KING S14",
+  "category": "sofas",
+  "collection": "modulo",
+  "subtitle": "Шоколадный модульный диван из букле",
+  "description": "Модульный диван с мягкими объёмами и тёплой шоколадной обивкой букле. Глубокая посадка и уютная пластика для большой гостиной.",
+  "material": "Boucle",
+  "softness": "мягкая",
+  "color": "brown",
+  "tone": "шоколадный",
+  "form": "модульный",
+  "seats": "6",
+  "width": "415",
+  "depth": "108",
+  "height": "78",
+  "price": 1290000,
+  "featured": false,
+  "order": 14,
+  "images": [
+    "/images/catalog/sofas/kings14.jpg"
+  ]
+}

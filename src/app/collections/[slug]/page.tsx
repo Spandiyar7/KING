@@ -46,12 +46,12 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
 
   return (
     <main>
-      <PageHero eyebrow="Collection" title={collection.title} description={collection.description} image={collection.image} />
+      <PageHero eyebrow="Коллекция" title={collection.title} description={collection.description} image={collection.image} />
 
       <section className="bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-28">
         <div className="giorgio-container grid gap-10 lg:grid-cols-[0.82fr_1fr]">
           <div data-luxury-reveal>
-            <p className="text-sm uppercase tracking-[0.18em] text-black/36">Essence</p>
+            <p className="text-sm uppercase tracking-[0.18em] text-black/36">О коллекции</p>
             <h2 className="thin-title mt-5 text-[clamp(3.6rem,8vw,8rem)] leading-[0.96]">{collection.subtitle}</h2>
           </div>
           <div className="max-w-xl space-y-8 text-sm font-light leading-7 text-black/56 lg:pt-8" data-luxury-reveal>
@@ -64,7 +64,7 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
       <section className="bg-black py-20 text-white md:py-28">
         <div className="giorgio-container">
           <p className="mb-10 text-sm uppercase tracking-[0.18em] text-white/42" data-luxury-reveal>
-            Models
+            Модели
           </p>
           <div className="border-l border-t border-white/14">
             {collectionProducts.map((product) => (

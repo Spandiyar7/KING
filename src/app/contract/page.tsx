@@ -14,7 +14,7 @@ export default function ContractPage() {
   return (
     <main>
       <PageHero
-        eyebrow="Contract"
+        eyebrow="Для профессионалов"
         title="Для дизайнеров"
         description="Материалы по моделям, размеры, фото, 3D-файлы по запросу и сопровождение подбора мебели для частных и коммерческих интерьеров."
         image="/images/lookbook/lookbook-02.png"
@@ -23,9 +23,9 @@ export default function ContractPage() {
       <section className="bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-32">
         <div className="giorgio-container grid gap-12 lg:grid-cols-[0.9fr_1fr] lg:items-start">
           <div data-luxury-reveal>
-            <p className="text-sm uppercase tracking-[0.18em] text-black/36">For professionals</p>
+            <p className="text-sm uppercase tracking-[0.18em] text-black/36">Профессионалам</p>
             <h1 className="thin-title mt-5 max-w-3xl text-[clamp(3.6rem,8vw,8.8rem)] leading-[0.96]">
-              For architects, designers and private projects.
+              Для архитекторов, дизайнеров и индивидуальных проектов.
             </h1>
           </div>
           <div className="space-y-10" data-luxury-reveal>
@@ -41,9 +41,7 @@ export default function ContractPage() {
               ))}
             </div>
             <div className="flex flex-wrap gap-7">
-              <LuxuryLink href={siteConfig.catalogHref} download>
-                Запросить каталог
-              </LuxuryLink>
+              <LuxuryLink href={siteConfig.phoneHref}>{siteConfig.phone}</LuxuryLink>
               <LuxuryLink href={siteConfig.whatsappHref}>WhatsApp</LuxuryLink>
             </div>
           </div>

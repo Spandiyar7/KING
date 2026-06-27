@@ -1,0 +1,22 @@
+{
+  "name": "KING C2",
+  "category": "armchairs",
+  "collection": "cloud",
+  "subtitle": "Кресло с округлыми объёмами из букле",
+  "description": "Кресло с пышными округлыми объёмами и мягкой молочной обивкой букле. Комфортная глубокая посадка.",
+  "material": "Boucle",
+  "softness": "мягкая",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "кресло",
+  "seats": "1",
+  "width": "98",
+  "depth": "92",
+  "height": "80",
+  "price": 340000,
+  "featured": false,
+  "order": 16,
+  "images": [
+    "/images/catalog/armchairs/kingc2.jpg"
+  ]
+}

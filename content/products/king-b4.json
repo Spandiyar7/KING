@@ -1,0 +1,22 @@
+{
+  "name": "KING B4",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "Низкая кровать-платформа в стиле Japandi",
+  "description": "Низкая кровать-платформа с мягким изголовьем и обивкой букле. Тёплый минимализм в эстетике Japandi.",
+  "material": "Boucle",
+  "softness": "мягкое изголовье",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "кровать",
+  "seats": "",
+  "width": "180",
+  "depth": "210",
+  "height": "95",
+  "price": 680000,
+  "featured": false,
+  "order": 21,
+  "images": [
+    "/images/catalog/beds/bed-ai-03.jpg"
+  ]
+}

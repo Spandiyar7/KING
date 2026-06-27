@@ -1,0 +1,105 @@
+backend:
+  name: github
+  repo: spandiyar7/KING
+  branch: main
+  # OAuth-прокси для входа через GitHub на GitHub Pages (нужно развернуть один раз,
+  # см. README в репозитории). Замените на адрес вашего прокси:
+  base_url: https://REPLACE-WITH-YOUR-OAUTH-PROXY
+  auth_endpoint: /auth
+
+# Локальное тестирование: запустите `npx decap-server` и откройте /admin/ через `npm run dev`.
+local_backend: true
+
+locale: ru
+publish_mode: simple
+
+media_folder: "public/images/catalog"
+public_folder: "/images/catalog"
+
+site_url: https://spandiyar7.github.io/KING
+display_url: https://spandiyar7.github.io/KING
+
+collections:
+  - name: products
+    label: "Товары"
+    label_singular: "Товар"
+    description: "Карточки мебели. Диваны, кресла и кровати — с ценой. Шкафы, гардеробные и кухни — без цены (по запросу)."
+    folder: "content/products"
+    create: true
+    extension: json
+    format: json
+    slug: "{{fields.name}}"
+    identifier_field: name
+    summary: "{{name}} · {{category}} · {{price}} ₸"
+    sortable_fields: ["order", "name", "price"]
+    fields:
+      - { label: "Название", name: "name", widget: "string", hint: "Например: KING S15" }
+      - label: "Категория"
+        name: "category"
+        widget: "select"
+        default: "sofas"
+        options:
+          - { label: "Диваны (с ценой)", value: "sofas" }
+          - { label: "Кресла (с ценой)", value: "armchairs" }
+          - { label: "Кровати (с ценой)", value: "beds" }
+          - { label: "Пуфы (с ценой)", value: "poufs" }
+          - { label: "Шкафы (без цены, по запросу)", value: "cabinets" }
+          - { label: "Гардеробные (без цены, по запросу)", value: "wardrobes" }
+          - { label: "Кухни (без цены, по запросу)", value: "kitchens" }
+      - label: "Коллекция"
+        name: "collection"
+        widget: "select"
+        required: false
+        default: ""
+        options:
+          - { label: "— без коллекции —", value: "" }
+          - { label: "Radius", value: "radius" }
+          - { label: "Cloud", value: "cloud" }
+          - { label: "Soft Line", value: "soft-line" }
+          - { label: "Modulo", value: "modulo" }
+      - { label: "Краткое описание (подзаголовок)", name: "subtitle", widget: "string" }
+      - { label: "Полное описание (как на Kaspi)", name: "description", widget: "text" }
+      - { label: "Материал обивки", name: "material", widget: "string", hint: "Например: Boucle, Велюр, Рогожка" }
+      - { label: "Мягкость", name: "softness", widget: "string", required: false, hint: "Например: мягкая, средняя" }
+      - { label: "Цвет (код)", name: "color", widget: "string", hint: "ivory / terracotta / olive / brown / blue / grey" }
+      - { label: "Цвет (текст)", name: "tone", widget: "string", hint: "Например: молочный, терракотовый" }
+      - { label: "Форма", name: "form", widget: "string", required: false, hint: "прямой / модульный / радиусный / кресло / кровать" }
+      - { label: "Посадочные места", name: "seats", widget: "string", required: false }
+      - { label: "Ширина, см", name: "width", widget: "string", required: false }
+      - { label: "Глубина, см", name: "depth", widget: "string", required: false }
+      - { label: "Высота, см", name: "height", widget: "string", required: false }
+      - label: "Цена, ₸"
+        name: "price"
+        widget: "number"
+        required: false
+        value_type: "int"
+        min: 0
+        hint: "Для шкафов / гардеробных / кухонь оставьте пустым — будет «Цена по запросу»."
+      - { label: "Показывать на главной (featured)", name: "featured", widget: "boolean", default: false, required: false }
+      - { label: "Порядок сортировки", name: "order", widget: "number", value_type: "int", required: false, default: 100 }
+      - label: "Фотографии"
+        name: "images"
+        widget: "list"
+        summary: "{{fields.image}}"
+        field: { label: "Фото", name: "image", widget: "image" }
+
+  - name: "settings"
+    label: "Настройки сайта"
+    files:
+      - name: "site"
+        label: "Контакты и тексты"
+        file: "content/settings/site.json"
+        fields:
+          - { label: "Телефон (как показывать)", name: "phone", widget: "string" }
+          - { label: "Телефон (ссылка)", name: "phoneHref", widget: "string", hint: "Формат: tel:+77070000055" }
+          - { label: "WhatsApp (как показывать)", name: "whatsapp", widget: "string" }
+          - { label: "WhatsApp (ссылка)", name: "whatsappHref", widget: "string", hint: "Формат: https://wa.me/77070000055" }
+          - { label: "Instagram", name: "instagram", widget: "string" }
+          - { label: "Instagram (ссылка)", name: "instagramHref", widget: "string" }
+          - { label: "Email", name: "email", widget: "string" }
+          - { label: "Город", name: "city", widget: "string" }
+          - { label: "Заголовок на главной (герой)", name: "heroTitle", widget: "string" }
+          - { label: "Текст под заголовком (герой)", name: "heroSubtitle", widget: "text" }
+          - { label: "Заголовок блока «Интро»", name: "introTitle", widget: "string" }
+          - { label: "Текст блока «Интро»", name: "introText", widget: "text" }
+          - { label: "Фото мастерской (на главной)", name: "workshopImage", widget: "image" }

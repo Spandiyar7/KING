@@ -15,14 +15,14 @@ const workshopDirections = [
   "Гардеробные комнаты и встроенные модули",
   "Кухни по размерам проекта",
   "Материалы, фасады, подсветка и фурнитура под интерьер",
-  "Фото и дизайн-работы будут обновляться дизайнерами"
+  "Индивидуальные размеры и конфигурации под проект"
 ];
 
 export default function WorkshopPage() {
   return (
     <main>
       <PageHero
-        eyebrow="Workshop"
+        eyebrow="Мастерская"
         title="Мастерская"
         description="Здесь создаются мягкая и корпусная мебель KING: от эскиза и подбора материалов до производства, сборки и установки в интерьере."
         image="/images/hero/king-hero.png"
@@ -31,7 +31,7 @@ export default function WorkshopPage() {
       <section className="bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-32">
         <div className="giorgio-container grid gap-12 lg:grid-cols-[0.9fr_1fr]">
           <div data-luxury-reveal>
-            <p className="text-sm uppercase tracking-[0.18em] text-black/36">Made by KING</p>
+            <p className="text-sm uppercase tracking-[0.18em] text-black/36">Производство KING</p>
             <h1 className="thin-title mt-5 max-w-4xl text-[clamp(3.6rem,8vw,8.6rem)] leading-[0.96]">
               Мебель под архитектуру вашего пространства
             </h1>
@@ -39,8 +39,7 @@ export default function WorkshopPage() {
           <div className="space-y-8 text-sm font-light leading-7 text-black/58" data-luxury-reveal>
             <p>
               Мастерская KING работает с мягкой мебелью и корпусными решениями: шкафами, гардеробными, кухнями и
-              индивидуальными системами хранения. Этот раздел можно наполнять реальными фотографиями, визуализациями и
-              готовыми работами дизайнеров.
+              индивидуальными системами хранения. Изготавливаем мебель под размеры и архитектуру вашего пространства.
             </p>
             <div className="grid gap-4 border-t border-black/14 pt-8 sm:grid-cols-2">
               {workshopDirections.map((item) => (

@@ -1,0 +1,22 @@
+{
+  "name": "KING C3",
+  "category": "armchairs",
+  "collection": "cloud",
+  "subtitle": "Объёмное кресло-облако из букле",
+  "description": "Объёмное кресло мягкой обтекаемой формы с фактурой букле. Самостоятельный скульптурный объект в интерьере.",
+  "material": "Boucle",
+  "softness": "мягкая",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "кресло",
+  "seats": "1",
+  "width": "100",
+  "depth": "94",
+  "height": "80",
+  "price": 360000,
+  "featured": false,
+  "order": 17,
+  "images": [
+    "/images/catalog/armchairs/kingc3.jpg"
+  ]
+}

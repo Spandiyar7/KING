@@ -8,7 +8,8 @@ export function HeroMedia() {
       muted
       loop
       playsInline
-      poster={assetPath("/images/hero/king-hero.png")}
+      preload="auto"
+      poster={assetPath("/images/hero/hero-poster.jpg")}
       aria-hidden
     >
       <source src={assetPath("/videos/hero.mp4")} type="video/mp4" />

@@ -1,23 +1,34 @@
+import settings from "../../content/settings/site.json";
+
 const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://kingcollection.kz";
 
 export const siteConfig = {
   name: "KING COLLECTION",
   shortName: "KING",
   url: siteUrl,
-  city: "Almaty, Kazakhstan",
-  whatsapp: "+7 XXX XXX XX XX",
-  whatsappHref: "https://wa.me/70000000000",
-  instagram: "@king.collection",
-  instagramHref: "https://instagram.com/king.collection",
-  email: "info@kingcollection.kz",
-  catalogHref: "/catalog/king-collection-catalog.pdf",
+  city: settings.city,
+  phone: settings.phone,
+  phoneHref: settings.phoneHref,
+  whatsapp: settings.whatsapp,
+  whatsappHref: settings.whatsappHref,
+  instagram: settings.instagram,
+  instagramHref: settings.instagramHref,
+  email: settings.email,
   languages: ["RU", "EN", "KZ"] as const
+};
+
+export const homeContent = {
+  heroTitle: settings.heroTitle,
+  heroSubtitle: settings.heroSubtitle,
+  introTitle: settings.introTitle,
+  introText: settings.introText,
+  workshopImage: settings.workshopImage
 };
 
 export const navigation = [
   { label: "Главная", href: "/" },
+  { label: "Продукция", href: "/products" },
   { label: "Коллекции", href: "/collections" },
-  { label: "Продукты", href: "/products" },
   { label: "Диваны", href: "/products?category=sofas" },
   { label: "Кресла", href: "/products?category=armchairs" },
   { label: "Кровати", href: "/products?category=beds" },
@@ -30,9 +41,9 @@ export const navigation = [
 ];
 
 export const footerNavigation = [
-  { label: "Collections", href: "/collections" },
-  { label: "Products", href: "/products" },
-  { label: "Contract", href: "/contract" },
-  { label: "Workshop", href: "/workshop" },
-  { label: "Contacts", href: "/contacts" }
+  { label: "Коллекции", href: "/collections" },
+  { label: "Продукция", href: "/products" },
+  { label: "Для дизайнеров", href: "/contract" },
+  { label: "Мастерская", href: "/workshop" },
+  { label: "Контакты", href: "/contacts" }
 ];

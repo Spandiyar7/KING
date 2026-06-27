@@ -1,0 +1,22 @@
+{
+  "name": "KING S8",
+  "category": "sofas",
+  "collection": "radius",
+  "subtitle": "Радиусный диван в терракотовом велюре",
+  "description": "Изогнутый радиусный диван с бархатистым велюром терракотового оттенка. Гламурный силуэт с мягкой посадкой и выразительной пластикой.",
+  "material": "Велюр",
+  "softness": "средне-мягкая",
+  "color": "terracotta",
+  "tone": "терракотовый",
+  "form": "радиусный",
+  "seats": "5",
+  "width": "340",
+  "depth": "110",
+  "height": "76",
+  "price": 1090000,
+  "featured": false,
+  "order": 8,
+  "images": [
+    "/images/catalog/sofas/kings8-1.jpg"
+  ]
+}

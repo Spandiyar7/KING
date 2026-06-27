@@ -4,18 +4,18 @@ import { PageHero } from "@/components/PageHero";
 import { ProductCatalogue } from "@/components/ProductCatalogue";
 
 export const metadata: Metadata = {
-  title: "Продукты",
-  description: "Каталог KING COLLECTION: мягкая мебель, шкафы, гардеробные и кухни под индивидуальные интерьеры."
+  title: "Продукция",
+  description: "Каталог мебели KING COLLECTION: диваны, кресла и кровати с ценами, а также шкафы, гардеробные и кухни под размеры проекта."
 };
 
 export default function ProductsPage() {
   return (
     <main>
       <PageHero
-        eyebrow="Products"
-        title="Продукты"
-        description="Мягкая и корпусная мебель, собранная как журнальный каталог: диваны, кресла, кровати, шкафы, гардеробные и кухни под проект."
-        image="/images/products/cloud-arc/cloud-arc-01.png"
+        eyebrow="Каталог"
+        title="Продукция"
+        description="Диваны, кресла и кровати — с ценами. Шкафы, гардеробные и кухни — под размеры проекта, цена по запросу."
+        image="/images/catalog/sofas/kings2-1.jpg"
       />
       <Suspense fallback={<div className="bg-[#f8f8f7] py-24 text-center text-sm uppercase tracking-[0.18em] text-black/42">Загрузка каталога</div>}>
         <ProductCatalogue />

@@ -16,7 +16,9 @@ export function Header() {
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [query, setQuery] = useState("");
   const isHomeTop = pathname === "/" && !isScrolled && !isMenuOpen && !isSearchOpen;
-  const menuNavigation = navigation.filter((item) => !["Диваны", "Кресла", "Кровати", "Пуфы"].includes(item.label));
+  const menuNavigation = navigation.filter(
+    (item) => !["Диваны", "Кресла", "Кровати", "Шкафы", "Гардеробные", "Кухни"].includes(item.label)
+  );
 
   useEffect(() => {
     const onScroll = () => setIsScrolled(window.scrollY > 20);
@@ -78,7 +80,7 @@ export function Header() {
               aria-label="Открыть меню"
               onClick={() => setIsMenuOpen(true)}
             >
-              <span className="hidden md:inline">Menu</span>
+              <span className="hidden md:inline">Меню</span>
               <span className="flex h-8 w-11 flex-col justify-center gap-2" aria-hidden>
                 <span className="h-px w-full bg-current" />
                 <span className="h-px w-full bg-current" />
@@ -108,7 +110,7 @@ export function Header() {
                   aria-label="Закрыть меню"
                   onClick={() => setIsMenuOpen(false)}
                 >
-                  <span className="hidden md:inline">Close</span>
+                  <span className="hidden md:inline">Закрыть</span>
                   <X className="h-7 w-7" strokeWidth={1.4} />
                 </button>
               </div>

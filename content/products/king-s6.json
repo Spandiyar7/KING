@@ -1,0 +1,22 @@
+{
+  "name": "KING S6",
+  "category": "sofas",
+  "collection": "soft-line",
+  "subtitle": "Прямой диван в оливковом оттенке",
+  "description": "Прямой диван с плотной фактурной обивкой оливкового тона и деревянными опорами. Тёплый природный характер для гостиной в духе Organic Modern.",
+  "material": "Рогожка",
+  "softness": "средняя",
+  "color": "olive",
+  "tone": "оливковый",
+  "form": "прямой",
+  "seats": "4",
+  "width": "260",
+  "depth": "98",
+  "height": "80",
+  "price": 740000,
+  "featured": false,
+  "order": 6,
+  "images": [
+    "/images/catalog/sofas/kings6.jpg"
+  ]
+}

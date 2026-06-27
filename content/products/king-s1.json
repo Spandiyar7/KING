@@ -1,0 +1,22 @@
+{
+  "name": "KING S1",
+  "category": "sofas",
+  "collection": "soft-line",
+  "subtitle": "Прямой диван в эстетике Japandi с мягкой молочной обивкой",
+  "description": "Лаконичный прямой диван с округлыми подлокотниками и тёплой молочной тканью букле. Спокойный силуэт для современных гостиных в стиле Japandi и Organic Modern.",
+  "material": "Boucle",
+  "softness": "средне-мягкая",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "прямой",
+  "seats": "4",
+  "width": "280",
+  "depth": "100",
+  "height": "78",
+  "price": 690000,
+  "featured": true,
+  "order": 1,
+  "images": [
+    "/images/catalog/sofas/kings1-1.jpg"
+  ]
+}

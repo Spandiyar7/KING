@@ -1,0 +1,22 @@
+{
+  "name": "KING S10",
+  "category": "sofas",
+  "collection": "modulo",
+  "subtitle": "Терракотовый модульный диван со стёгаными объёмами",
+  "description": "Модульный диван с мягкими стёгаными секциями и тёплой терракотовой обивкой букле. Свободная компоновка для больших пространств.",
+  "material": "Boucle",
+  "softness": "мягкая",
+  "color": "terracotta",
+  "tone": "терракотовый",
+  "form": "модульный",
+  "seats": "6",
+  "width": "410",
+  "depth": "110",
+  "height": "78",
+  "price": 1240000,
+  "featured": false,
+  "order": 10,
+  "images": [
+    "/images/catalog/sofas/kings10.jpg"
+  ]
+}

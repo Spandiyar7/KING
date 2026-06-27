@@ -1,0 +1,22 @@
+{
+  "name": "KING S12",
+  "category": "sofas",
+  "collection": "modulo",
+  "subtitle": "Оливковый модульный диван для зоны отдыха",
+  "description": "Модульный диван в благородном оливковом велюре с широкой посадкой. Тёплый природный акцент для библиотеки или лаунж-зоны.",
+  "material": "Велюр",
+  "softness": "средняя",
+  "color": "olive",
+  "tone": "оливковый",
+  "form": "модульный",
+  "seats": "5",
+  "width": "380",
+  "depth": "105",
+  "height": "78",
+  "price": 1120000,
+  "featured": false,
+  "order": 12,
+  "images": [
+    "/images/catalog/sofas/kings12.jpg"
+  ]
+}

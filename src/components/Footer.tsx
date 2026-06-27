@@ -4,23 +4,32 @@ import { PillLink } from "@/components/PillLink";
 import { collections } from "@/data/products";
 import { footerNavigation, navigation, siteConfig } from "@/config/site";
 
+const categoryLabels = ["Диваны", "Кресла", "Кровати", "Шкафы", "Гардеробные", "Кухни"];
+
 export function Footer() {
   return (
     <footer>
-      <section className="grid border-y border-black/14 bg-[#f8f8f7] text-[#3f3f3f] lg:grid-cols-3">
-        {[
-          { title: "Запросить информацию", text: "Получить поддержку по модели", label: "Связаться с нами", href: "/contacts" },
-          { title: "Каталог", text: "Откройте для себя все коллекции", label: "Скачать", href: siteConfig.catalogHref, download: true },
-          { title: "Мастерская", text: "Мягкая и корпусная мебель под заказ", label: "Посмотреть", href: "/workshop" }
-        ].map((item) => (
-          <div key={item.title} className="flex min-h-[20rem] flex-col items-center justify-center border-b border-black/14 px-6 text-center last:border-b-0 lg:border-b-0 lg:border-r lg:last:border-r-0">
-            <h2 className="thin-title text-[clamp(2.5rem,3.4vw,4.5rem)] leading-none">{item.title}</h2>
-            <p className="mt-6 text-lg font-light text-black/58">{item.text}</p>
-            <PillLink href={item.href} download={item.download} className="mt-9 border-black bg-black text-white hover:bg-transparent hover:text-black">
-              {item.label}
+      <section className="border-y border-black/14 bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-28">
+        <div className="giorgio-container flex flex-col items-center text-center">
+          <BrandMark dark />
+          <p className="mt-9 text-sm uppercase tracking-[0.2em] text-black/40">
+            Звоните — подберём мебель под ваш интерьер
+          </p>
+          <a
+            href={siteConfig.phoneHref}
+            className="thin-title mt-5 block text-[clamp(2.6rem,8vw,7rem)] leading-none transition-colors hover:text-black"
+          >
+            {siteConfig.phone}
+          </a>
+          <div className="mt-10 flex flex-wrap items-center justify-center gap-5">
+            <PillLink href={siteConfig.whatsappHref} className="border-black bg-black text-white hover:bg-transparent hover:text-black">
+              WhatsApp
+            </PillLink>
+            <PillLink href="/contacts" className="border-black text-black hover:bg-black hover:text-white">
+              Связаться с нами
             </PillLink>
           </div>
-        ))}
+        </div>
       </section>
 
       <section className="bg-black py-16 text-white md:py-24">
@@ -30,22 +39,28 @@ export function Footer() {
               <BrandMark />
             </Link>
             <p className="mt-8 max-w-sm text-sm leading-7 text-white/48">
-              Премиальная мягкая и корпусная мебель для современных интерьеров, частных резиденций и индивидуальных заказов.
+              Премиальная мягкая и корпусная мебель для современных интерьеров, частных резиденций и индивидуальных
+              заказов.
             </p>
           </div>
-          <FooterColumn title="Коллекции" links={collections.map((item) => ({ label: item.title.replace(" Collection", ""), href: `/collections/${item.slug}` }))} />
+          <FooterColumn
+            title="Коллекции"
+            links={collections.map((item) => ({ label: item.title.replace(" Collection", ""), href: `/collections/${item.slug}` }))}
+          />
           <FooterColumn
             title="Продукция"
             links={navigation
-              .filter((item) => ["Диваны", "Кресла", "Кровати", "Пуфы"].includes(item.label))
-              .concat(navigation.filter((item) => ["Шкафы", "Гардеробные", "Кухни"].includes(item.label)))
+              .filter((item) => categoryLabels.includes(item.label))
               .map((item) => ({ label: item.label, href: item.href }))}
           />
-          <FooterColumn title="KING Collection" links={footerNavigation.map((item) => ({ label: item.label, href: item.href }))} />
+          <FooterColumn title="KING COLLECTION" links={footerNavigation.map((item) => ({ label: item.label, href: item.href }))} />
         </div>
-        <div className="giorgio-container mt-16 grid gap-6 border-t border-white/12 pt-8 text-sm text-white/44 md:grid-cols-3">
+        <div className="giorgio-container mt-16 grid gap-6 border-t border-white/12 pt-8 text-sm text-white/44 md:grid-cols-4">
+          <a href={siteConfig.phoneHref} className="transition-colors hover:text-white">
+            {siteConfig.phone}
+          </a>
           <a href={siteConfig.whatsappHref} className="transition-colors hover:text-white">
-            WhatsApp {siteConfig.whatsapp}
+            WhatsApp
           </a>
           <a href={siteConfig.instagramHref} className="transition-colors hover:text-white">
             Instagram {siteConfig.instagram}

@@ -1,0 +1,23 @@
+{
+  "name": "KING B1",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "Кровать с мягким изголовьем в сером тоне",
+  "description": "Кровать на платформе с мягким изголовьем и фактурной серой обивкой. Спокойная архитектура спальни в современном стиле.",
+  "material": "Рогожка",
+  "softness": "мягкое изголовье",
+  "color": "grey",
+  "tone": "серый",
+  "form": "кровать",
+  "seats": "",
+  "width": "180",
+  "depth": "210",
+  "height": "100",
+  "price": 560000,
+  "featured": false,
+  "order": 18,
+  "images": [
+    "/images/catalog/beds/kingb4.jpg",
+    "/images/catalog/beds/kingb4-2.jpg"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "KING S2",
+  "category": "sofas",
+  "collection": "cloud",
+  "subtitle": "Молочный модульный диван для просторной гостиной",
+  "description": "Большой модульный диван со светлой обивкой букле, глубокой посадкой и мягкими объёмными подушками. Создан для просторных интерьеров и лаунж-зон.",
+  "material": "Boucle",
+  "softness": "средне-мягкая",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "модульный",
+  "seats": "6-7",
+  "width": "420",
+  "depth": "105",
+  "height": "78",
+  "price": 1180000,
+  "featured": false,
+  "order": 2,
+  "images": [
+    "/images/catalog/sofas/kings2-1.jpg",
+    "/images/catalog/sofas/kings2-2.jpg",
+    "/images/catalog/sofas/kings2-3.jpg"
+  ]
+}

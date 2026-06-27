@@ -11,7 +11,7 @@ export default function CollectionsPage() {
   return (
     <main className="bg-[#f8f8f7]">
       <PageHero
-        eyebrow="Collections"
+        eyebrow="Коллекции"
         title="Наши коллекции"
         description="Крупные визуальные панели, много белого пространства и плавная горизонтальная логика просмотра."
         image="/images/hero/king-hero.png"

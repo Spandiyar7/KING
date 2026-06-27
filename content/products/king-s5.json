@@ -1,0 +1,22 @@
+{
+  "name": "KING S5",
+  "category": "sofas",
+  "collection": "cloud",
+  "subtitle": "Молочный радиусный диван с плавной дугой",
+  "description": "Радиусный диван со светлой обивкой букле и мягкой дугой спинки. Спокойный премиальный образ для светлых интерьеров.",
+  "material": "Boucle",
+  "softness": "средне-мягкая",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "радиусный",
+  "seats": "5",
+  "width": "360",
+  "depth": "110",
+  "height": "75",
+  "price": 980000,
+  "featured": false,
+  "order": 5,
+  "images": [
+    "/images/catalog/sofas/kings5.jpg"
+  ]
+}

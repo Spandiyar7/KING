@@ -1,0 +1,22 @@
+{
+  "name": "KING B2",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "Кровать с высоким мягким изголовьем",
+  "description": "Кровать с высоким мягким изголовьем и тёплой молочной обивкой. Центральный элемент спальни в духе Organic Modern.",
+  "material": "Велюр",
+  "softness": "мягкое изголовье",
+  "color": "ivory",
+  "tone": "молочный",
+  "form": "кровать",
+  "seats": "",
+  "width": "180",
+  "depth": "210",
+  "height": "110",
+  "price": 620000,
+  "featured": false,
+  "order": 19,
+  "images": [
+    "/images/catalog/beds/bed-ai-01.jpg"
+  ]
+}

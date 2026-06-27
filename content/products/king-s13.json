@@ -1,0 +1,23 @@
+{
+  "name": "KING S13",
+  "category": "sofas",
+  "collection": "modulo",
+  "subtitle": "Кофейный модульный диван премиум-класса",
+  "description": "Крупный модульный диван с насыщенным кофейным велюром и чистой архитектурной геометрией. Создан для просторных резиденций и проектов.",
+  "material": "Велюр",
+  "softness": "средне-мягкая",
+  "color": "brown",
+  "tone": "кофейный",
+  "form": "модульный",
+  "seats": "6",
+  "width": "420",
+  "depth": "110",
+  "height": "78",
+  "price": 1360000,
+  "featured": false,
+  "order": 13,
+  "images": [
+    "/images/catalog/sofas/kings13-1.jpg",
+    "/images/catalog/sofas/kings13-2.jpg"
+  ]
+}

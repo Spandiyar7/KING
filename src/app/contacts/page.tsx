@@ -13,7 +13,7 @@ export default function ContactsPage() {
   return (
     <main>
       <PageHero
-        eyebrow="Contacts"
+        eyebrow="Контакты"
         title="Контакты"
         description="Свяжитесь с KING COLLECTION для получения каталога, консультации по моделям или проектного подбора мебели."
         image="/images/products/radius-terra/radius-terra-01.png"
@@ -36,9 +36,7 @@ export default function ContactsPage() {
               </a>
             </div>
             <div className="mt-10">
-              <LuxuryLink href={siteConfig.catalogHref} download>
-                Скачать каталог PDF
-              </LuxuryLink>
+              <LuxuryLink href={siteConfig.phoneHref}>Позвонить {siteConfig.phone}</LuxuryLink>
             </div>
           </div>
           <ContactForm compact />
