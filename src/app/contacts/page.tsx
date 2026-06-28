@@ -15,7 +15,7 @@ export default function ContactsPage() {
       <PageHero
         eyebrow="Контакты"
         title="Контакты"
-        description="Свяжитесь с KING COLLECTION для получения каталога, консультации по моделям или проектного подбора мебели."
+        description="Свяжитесь с KING COLLECTION для консультации по моделям, ценам и проектному подбору мебели."
         image="/images/products/radius-terra/radius-terra-01.png"
       />
 

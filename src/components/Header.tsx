@@ -1,12 +1,12 @@
 "use client";
 
 import Link from "next/link";
-import { ChevronDown, Search, X } from "lucide-react";
+import { Search, X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import { useEffect, useMemo, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { BrandMark } from "@/components/BrandMark";
-import { navigation, siteConfig } from "@/config/site";
+import { navigation } from "@/config/site";
 import { collections, products } from "@/data/products";
 
 export function Header() {
@@ -61,9 +61,6 @@ export function Header() {
           </Link>
 
           <div className="flex items-center gap-5 md:gap-10">
-            <button type="button" className="focus-ring hidden items-center gap-2 text-lg font-light text-white/78 transition-colors hover:text-white md:inline-flex">
-              RU <ChevronDown className="h-4 w-4" strokeWidth={1.5} />
-            </button>
             <button
               type="button"
               className={`focus-ring grid h-12 w-12 place-items-center rounded-full text-white/86 transition-colors hover:text-white ${
@@ -153,13 +150,6 @@ export function Header() {
                   </div>
                   <div className="text-sm leading-7 text-white/55">
                     <p>Премиальная мягкая и корпусная мебель для резиденций, гардеробных, кухонь и индивидуальных заказов.</p>
-                    <div className="mt-8 flex gap-5 text-xs uppercase tracking-[0.24em]">
-                      {siteConfig.languages.map((language) => (
-                        <button key={language} type="button" className="focus-ring text-white/55 transition-colors hover:text-white">
-                          {language}
-                        </button>
-                      ))}
-                    </div>
                   </div>
                 </div>
               </div>

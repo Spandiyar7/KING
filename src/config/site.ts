@@ -13,8 +13,7 @@ export const siteConfig = {
   whatsappHref: settings.whatsappHref,
   instagram: settings.instagram,
   instagramHref: settings.instagramHref,
-  email: settings.email,
-  languages: ["RU", "EN", "KZ"] as const
+  email: settings.email
 };
 
 export const homeContent = {

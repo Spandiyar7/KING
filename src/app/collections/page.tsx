@@ -13,7 +13,7 @@ export default function CollectionsPage() {
       <PageHero
         eyebrow="Коллекции"
         title="Наши коллекции"
-        description="Крупные визуальные панели, много белого пространства и плавная горизонтальная логика просмотра."
+        description="Дизайнерские коллекции мягкой мебели KING: Radius, Cloud, Soft Line и Modulo."
         image="/images/hero/king-hero.png"
       />
       <CollectionRail title="Наши коллекции" />
