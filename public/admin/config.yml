@@ -103,3 +103,4 @@ collections:
           - { label: "Заголовок блока «Интро»", name: "introTitle", widget: "string" }
           - { label: "Текст блока «Интро»", name: "introText", widget: "text" }
           - { label: "Фото мастерской (на главной)", name: "workshopImage", widget: "image" }
+          - { label: "Адрес мастерской", name: "workshopAddress", widget: "string", required: false }

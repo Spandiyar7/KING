@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { assetPath } from "@/config/paths";
 import { collections } from "@/data/products";
@@ -25,14 +24,13 @@ export function CollectionRail({ title = "Наши коллекции", compact 
               href={`/collections/${collection.slug}`}
               className="group flex min-h-[76vh] min-w-[88vw] snap-center flex-col justify-between border-r border-black/14 px-8 pb-14 pt-24 md:min-w-[56vw] lg:min-h-screen lg:min-w-[42vw] lg:px-16 lg:pb-[12vh] lg:pt-[22vh]"
             >
-              <div className="relative mx-auto aspect-[4/5] w-full max-w-[560px] overflow-hidden bg-[#ece9e3]">
-                <Image
+              <div className="flex flex-1 items-center justify-center pb-10">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
                   src={assetPath(collection.image)}
                   alt={collection.title}
-                  fill
-                  priority={index === 0}
-                  sizes="(min-width: 1024px) 42vw, 82vw"
-                  className="object-contain transition-transform duration-[1600ms] ease-luxury group-hover:scale-[1.03]"
+                  loading={index === 0 ? "eager" : "lazy"}
+                  className="max-h-[46vh] w-auto max-w-full object-contain transition-transform duration-[1600ms] ease-luxury group-hover:scale-[1.03] lg:max-h-[54vh]"
                 />
               </div>
               <div className="mx-auto w-full max-w-[780px] text-center">

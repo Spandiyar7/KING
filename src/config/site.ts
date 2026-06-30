@@ -21,7 +21,8 @@ export const homeContent = {
   heroSubtitle: settings.heroSubtitle,
   introTitle: settings.introTitle,
   introText: settings.introText,
-  workshopImage: settings.workshopImage
+  workshopImage: settings.workshopImage,
+  workshopAddress: settings.workshopAddress
 };
 
 export const navigation = [

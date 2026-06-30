@@ -175,7 +175,7 @@ const collectionMeta: Omit<Collection, "productSlugs">[] = [
     subtitle: "Скульптурные округлые формы и мягкая фактура букле.",
     description:
       "King Bloom — пластичные «лепестковые» объёмы и нежная молочная фактура: скульптурные предметы, которые становятся акцентом интерьера.",
-    image: "/images/collections/bloom/bloom-01.jpg",
+    image: "/images/collections/bloom/bloom-02.jpg",
     gallery: [
       "/images/collections/bloom/bloom-01.jpg",
       "/images/collections/bloom/bloom-02.jpg",
