@@ -90,29 +90,35 @@ export function ProductCatalogue() {
               {filteredProducts.length} {pluralModels(filteredProducts.length)}
             </p>
             <div className="grid gap-x-6 gap-y-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
-              {filteredProducts.map((product) => (
-                <Link key={product.slug} href={`/products/${product.slug}`} className="group block" data-luxury-reveal>
-                  <div className="relative aspect-[4/5] overflow-hidden bg-black">
-                    <Image
-                      src={assetPath(product.heroImage)}
-                      alt={product.name}
-                      fill
-                      sizes="(min-width: 1280px) 22vw, (min-width: 1024px) 30vw, (min-width: 640px) 45vw, 100vw"
-                      className="object-cover transition-transform duration-[1400ms] ease-luxury group-hover:scale-105"
-                    />
-                  </div>
-                  <div className="pt-5">
-                    <div className="flex items-baseline justify-between gap-3">
-                      <h3 className="text-lg font-medium tracking-[0.02em]">{product.name}</h3>
-                      <p className="shrink-0 text-base font-medium text-black/80">{priceLabel(product)}</p>
+              {filteredProducts.map((product) => {
+                const dimensions = [product.width, product.depth, product.height].every(Boolean)
+                  ? `${product.width} × ${product.depth} × ${product.height} см`
+                  : null;
+                return (
+                  <Link key={product.slug} href={`/products/${product.slug}`} className="group block" data-luxury-reveal>
+                    <div className="relative aspect-[4/5] overflow-hidden bg-black">
+                      <Image
+                        src={assetPath(product.heroImage)}
+                        alt={product.subtitle || product.name}
+                        fill
+                        sizes="(min-width: 1280px) 22vw, (min-width: 1024px) 30vw, (min-width: 640px) 45vw, 100vw"
+                        className="object-cover transition-transform duration-[1400ms] ease-luxury group-hover:scale-105"
+                      />
                     </div>
-                    <p className="mt-2 text-sm font-light leading-6 text-black/55">{product.subtitle}</p>
-                    <p className="mt-3 text-xs uppercase tracking-[0.16em] text-black/40">
-                      {[product.material, product.softness].filter(Boolean).join(" · ")}
-                    </p>
-                  </div>
-                </Link>
-              ))}
+                    <div className="pt-5">
+                      <div className="flex items-baseline justify-between gap-3">
+                        <h3 className="text-base font-medium leading-snug">{product.subtitle || product.name}</h3>
+                        <p className="shrink-0 text-base font-medium text-black/80">{priceLabel(product)}</p>
+                      </div>
+                      <div className="mt-3 space-y-1 text-xs uppercase tracking-[0.16em] text-black/45">
+                        {product.material ? <p>{product.material}</p> : null}
+                        {dimensions ? <p>{dimensions}</p> : null}
+                        <p className="text-black/35">Артикул: {product.name}</p>
+                      </div>
+                    </div>
+                  </Link>
+                );
+              })}
             </div>
           </>
         ) : null}
