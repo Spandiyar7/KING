@@ -50,3 +50,8 @@ output/
 tmp/
 /video.mp4
 /src/Main.java
+
+# Client-provided source assets (processed into public/images)
+/okno/
+/collections/
+/something/

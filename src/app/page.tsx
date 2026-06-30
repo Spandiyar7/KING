@@ -120,8 +120,8 @@ export default function HomePage() {
       {/* МАСТЕРСКАЯ */}
       <section className="relative bg-[#f8f8f7] px-5 py-16 text-white md:py-28">
         <div className="relative mx-auto flex min-h-[64vh] max-w-[1420px] items-center justify-center overflow-hidden bg-black text-center">
-          <Image src={assetPath(homeContent.workshopImage)} alt="Мастерская KING ATELIER" fill sizes="100vw" className="object-cover opacity-60" />
-          <div className="absolute inset-0 bg-black/30" />
+          <Image src={assetPath(homeContent.workshopImage)} alt="Мастерская KING ATELIER" fill sizes="100vw" className="object-cover opacity-90" />
+          <div className="absolute inset-0 bg-black/45" />
           <div className="relative z-10 flex flex-col items-center px-6" data-luxury-reveal>
             <p className="mb-4 text-sm uppercase tracking-[0.2em] text-white/70">KING ATELIER</p>
             <h2 className="thin-title text-[clamp(3rem,6vw,7rem)] leading-none">Мастерская</h2>
