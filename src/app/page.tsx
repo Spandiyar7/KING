@@ -123,10 +123,10 @@ export default function HomePage() {
           <Image src={assetPath(homeContent.workshopImage)} alt="Мастерская KING ATELIER" fill sizes="100vw" className="object-cover opacity-60" />
           <div className="absolute inset-0 bg-black/30" />
           <div className="relative z-10 flex flex-col items-center px-6" data-luxury-reveal>
-            <p className="mb-4 text-sm uppercase tracking-[0.2em] text-white/70">Производство KING ATELIER</p>
+            <p className="mb-4 text-sm uppercase tracking-[0.2em] text-white/70">KING ATELIER</p>
             <h2 className="thin-title text-[clamp(3rem,6vw,7rem)] leading-none">Мастерская</h2>
             <p className="mt-6 max-w-2xl text-base font-light leading-8 text-white/76">
-              Производство премиальной мягкой и корпусной мебели под индивидуальные проекты — от эскиза до установки.
+              Мягкая и корпусная мебель премиум-сегмента под индивидуальные проекты — от разработки конструкции до установки.
             </p>
             <div className="mt-9">
               <RoundLink href="/workshop">Подробнее</RoundLink>

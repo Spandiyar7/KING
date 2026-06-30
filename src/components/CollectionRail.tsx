@@ -12,7 +12,7 @@ export function CollectionRail({ title = "Наши коллекции", compact 
   return (
     <section className="overflow-hidden bg-[#f8f8f7] text-[#3f3f3f]">
       <div className={`${compact ? "min-h-[78vh]" : "min-h-screen"} flex flex-col lg:flex-row`}>
-        <div className="flex min-h-[18rem] shrink-0 items-end border-b border-black/14 px-6 py-12 lg:min-h-screen lg:w-[45vw] lg:border-b-0 lg:border-r lg:px-6 lg:pb-[24vh]">
+        <div className="flex min-h-[18rem] shrink-0 items-end border-b border-black/14 px-6 py-12 lg:min-h-screen lg:w-[30vw] lg:border-b-0 lg:border-r lg:px-6 lg:pb-[24vh]">
           <h2 className="thin-title text-[clamp(3.2rem,5vw,6.2rem)] leading-[1.05]">{title}</h2>
         </div>
         <div
