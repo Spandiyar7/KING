@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import { CallbackForm } from "@/components/CallbackForm";
-import { PageHero } from "@/components/PageHero";
+import { assetPath } from "@/config/paths";
 import { homeContent, siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
@@ -19,17 +20,41 @@ const capabilities = [
   "Индивидуальные конструкции"
 ];
 
+const equipmentPhotos = [
+  { src: "/images/workshop/equipment-1.jpg", alt: "Форматно-раскроечный станок Altendorf" },
+  { src: "/images/workshop/equipment-2.jpg", alt: "ЧПУ-станок с числовым управлением" }
+];
+
 export default function WorkshopPage() {
   return (
     <main>
-      <PageHero
-        eyebrow="KING ATELIER"
-        title="Мастерская"
-        description={`Наша мастерская находится в Алматы по адресу: ${homeContent.workshopAddress}. Здесь мы производим премиальную мягкую и корпусную мебель под заказ: от разработки конструкции и подбора материалов до сборки, контроля качества и подготовки изделия к установке.`}
-        image="/images/workshop/masterskaya.jpg"
-      />
+      {/* HERO — фото на весь экран */}
+      <section className="relative min-h-[92vh] bg-black text-white">
+        <Image
+          src={assetPath("/images/workshop/masterskaya.jpg")}
+          alt="Мастерская KING ATELIER"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover opacity-65"
+        />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/88 via-black/35 to-black/55" />
+        <div className="giorgio-container relative z-10 flex min-h-[92vh] flex-col justify-end pb-16 pt-36 md:pb-24">
+          <p className="mb-5 text-sm uppercase tracking-[0.2em] text-white/70" data-luxury-reveal>
+            KING ATELIER
+          </p>
+          <h1 className="thin-title text-[clamp(4rem,11vw,12rem)] leading-[0.9]" data-luxury-reveal>
+            Мастерская
+          </h1>
+          <p className="mt-8 max-w-3xl text-lg font-light leading-8 text-white/82" data-luxury-reveal>
+            Наша мастерская находится в Алматы по адресу: {homeContent.workshopAddress}. Здесь мы производим премиальную
+            мягкую и корпусную мебель под заказ: от разработки конструкции и подбора материалов до сборки, контроля
+            качества и подготовки изделия к установке.
+          </p>
+        </div>
+      </section>
 
-      {/* Оборудование и процесс */}
+      {/* ОБОРУДОВАНИЕ И ПРОЦЕСС */}
       <section className="bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-32">
         <div className="giorgio-container grid gap-12 lg:grid-cols-[0.85fr_1fr] lg:items-start">
           <div data-luxury-reveal>
@@ -54,7 +79,21 @@ export default function WorkshopPage() {
           </div>
         </div>
 
-        <div className="giorgio-container mt-16 grid gap-4 border-t border-black/14 pt-10 sm:grid-cols-2 lg:grid-cols-4" data-luxury-reveal>
+        <div className="giorgio-container mt-14 grid gap-5 sm:grid-cols-2 md:mt-16 md:gap-6">
+          {equipmentPhotos.map((photo) => (
+            <div key={photo.src} className="relative aspect-[4/5] overflow-hidden bg-black" data-luxury-reveal>
+              <Image
+                src={assetPath(photo.src)}
+                alt={photo.alt}
+                fill
+                sizes="(min-width: 640px) 48vw, 100vw"
+                className="object-cover transition-transform duration-[1400ms] ease-luxury hover:scale-[1.03]"
+              />
+            </div>
+          ))}
+        </div>
+
+        <div className="giorgio-container mt-14 grid gap-4 border-t border-black/14 pt-10 sm:grid-cols-2 lg:grid-cols-4" data-luxury-reveal>
           {capabilities.map((item) => (
             <p key={item} className="border-b border-black/12 pb-5 text-xs uppercase tracking-[0.16em] text-black/48">
               {item}
@@ -63,7 +102,7 @@ export default function WorkshopPage() {
         </div>
       </section>
 
-      {/* Заявка на звонок */}
+      {/* ЗАЯВКА НА ЗВОНОК */}
       <section id="zayavka" className="scroll-mt-28 bg-black py-24 text-white md:py-32">
         <div className="giorgio-container grid gap-14 lg:grid-cols-[0.8fr_1fr] lg:items-start">
           <div data-luxury-reveal>
