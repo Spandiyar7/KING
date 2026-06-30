@@ -16,7 +16,7 @@ export function ContactForm({ compact = false }: { compact?: boolean }) {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
     const lines = [
-      "Заявка с сайта KING COLLECTION",
+      "Заявка с сайта KING ATELIER",
       data.get("name") ? `Имя: ${data.get("name")}` : "",
       data.get("company") ? `Компания: ${data.get("company")}` : "",
       data.get("phone") ? `Телефон: ${data.get("phone")}` : "",

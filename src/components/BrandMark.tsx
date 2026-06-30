@@ -18,10 +18,10 @@ export function BrandMark({ compact = false, iconOnly = false, dark = false }: B
 
   if (iconOnly) {
     return (
-      <span className="block" aria-label="KING COLLECTION">
+      <span className="block" aria-label="KING ATELIER">
         <Image
           src={assetPath(lion)}
-          alt="KING COLLECTION"
+          alt="KING ATELIER"
           width={160}
           height={160}
           className={`${iconSize} object-contain`}
@@ -47,9 +47,9 @@ export function BrandMark({ compact = false, iconOnly = false, dark = false }: B
           KING
         </span>
         <span
-          className={`${compact ? "text-xs" : "hidden text-sm md:inline"} font-light uppercase tracking-[0.2em] opacity-75`}
+          className={`${compact ? "text-xs" : "text-sm md:text-base"} font-light uppercase tracking-[0.2em] opacity-75`}
         >
-          collection
+          atelier
         </span>
       </span>
     </span>

@@ -56,8 +56,8 @@ export function Header() {
         }`}
       >
         <div className="mx-auto flex h-[6.9rem] w-full max-w-[1760px] items-center justify-between px-6 md:px-12 lg:h-[7.75rem] lg:px-[7.5rem]">
-          <Link href="/" className="focus-ring text-white" aria-label="KING COLLECTION">
-            <BrandMark iconOnly={isHomeTop} />
+          <Link href="/" className="focus-ring text-white" aria-label="KING ATELIER">
+            <BrandMark />
           </Link>
 
           <div className="flex items-center gap-5 md:gap-10">

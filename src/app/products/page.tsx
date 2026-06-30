@@ -5,7 +5,7 @@ import { ProductCatalogue } from "@/components/ProductCatalogue";
 
 export const metadata: Metadata = {
   title: "Продукция",
-  description: "Каталог мебели KING COLLECTION: диваны, кресла и кровати с ценами, а также шкафы, гардеробные и кухни под размеры проекта."
+  description: "Каталог мебели KING ATELIER: диваны, кресла и кровати с ценами, а также шкафы, гардеробные и кухни под размеры проекта."
 };
 
 export default function ProductsPage() {

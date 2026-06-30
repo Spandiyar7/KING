@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Montserrat } from "next/font/google";
+import { Cinzel, Montserrat } from "next/font/google";
 import "./globals.css";
 import { CursorFollower } from "@/components/CursorFollower";
 import { Footer } from "@/components/Footer";
@@ -16,25 +16,32 @@ const montserrat = Montserrat({
   display: "swap"
 });
 
+const cinzel = Cinzel({
+  subsets: ["latin"],
+  variable: "--font-cinzel",
+  weight: ["400", "500", "600", "700"],
+  display: "swap"
+});
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteConfig.url),
   title: {
-    default: "KING COLLECTION - премиальная мягкая мебель",
-    template: "%s - KING COLLECTION"
+    default: "KING ATELIER — премиальная мебель на заказ",
+    template: "%s — KING ATELIER"
   },
   description:
-    "KING COLLECTION создает премиальную мягкую и корпусную мебель: диваны, кресла, кровати, шкафы, гардеробные и кухни для современных интерьеров.",
+    "KING ATELIER — мебельная мастерская в Алматы: премиальная мягкая и корпусная мебель любой сложности под заказ — диваны, кресла, кровати, шкафы, гардеробные и кухни.",
   openGraph: {
-    title: "KING COLLECTION",
-    description: "Luxury furniture catalogue from Almaty, Kazakhstan.",
+    title: "KING ATELIER",
+    description: "Мебельная мастерская в Алматы. Премиальная мягкая и корпусная мебель под заказ.",
     url: siteConfig.url,
-    siteName: "KING COLLECTION",
+    siteName: "KING ATELIER",
     images: [
       {
         url: "/images/hero/king-hero.png",
         width: 1672,
         height: 941,
-        alt: "KING COLLECTION interior"
+        alt: "KING ATELIER interior"
       }
     ],
     locale: "ru_KZ",
@@ -56,7 +63,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="ru" className={montserrat.variable}>
+    <html lang="ru" className={`${montserrat.variable} ${cinzel.variable}`}>
       <body>
         <ScrollEffects />
         <CursorFollower />

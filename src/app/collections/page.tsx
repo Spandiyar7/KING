@@ -4,7 +4,7 @@ import { PageHero } from "@/components/PageHero";
 
 export const metadata: Metadata = {
   title: "Коллекции",
-  description: "Коллекции дизайнерских диванов KING COLLECTION: Radius, Cloud, Soft Line и Modulo."
+  description: "Коллекции мебели KING ATELIER: Terra, Cloud, Soft, Bloom и Savoy."
 };
 
 export default function CollectionsPage() {

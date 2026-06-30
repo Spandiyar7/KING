@@ -8,7 +8,7 @@ export type CategoryId =
   | "cabinets"
   | "wardrobes"
   | "kitchens";
-export type CollectionId = "radius" | "cloud" | "soft-line" | "modulo";
+export type CollectionId = "terra" | "cloud" | "soft" | "bloom" | "savoy";
 
 export type ProductSpecification = {
   label: string;
@@ -60,6 +60,7 @@ export type Collection = {
   subtitle: string;
   description: string;
   image: string;
+  gallery: string[];
   productSlugs: string[];
 };
 
@@ -70,7 +71,7 @@ export const categories: ProductCategory[] = [
     titleEn: "Sofas",
     subtitle: "Модульные и прямые формы для гостиных и лаунж-зон.",
     href: "/products?category=sofas",
-    image: "/images/catalog/sofas/kings4-1.jpg",
+    image: "/images/categories/sofas.jpg",
     priced: true
   },
   {
@@ -79,7 +80,7 @@ export const categories: ProductCategory[] = [
     titleEn: "Armchairs",
     subtitle: "Скульптурные акценты с мягкой посадкой.",
     href: "/products?category=armchairs",
-    image: "/images/catalog/armchairs/kingc3.jpg",
+    image: "/images/categories/armchairs.jpg",
     priced: true
   },
   {
@@ -88,7 +89,7 @@ export const categories: ProductCategory[] = [
     titleEn: "Beds",
     subtitle: "Спокойная архитектура спальни в премиальных тканях.",
     href: "/products?category=beds",
-    image: "/images/catalog/beds/kingb4.jpg",
+    image: "/images/categories/beds.jpg",
     priced: true
   },
   {
@@ -97,7 +98,7 @@ export const categories: ProductCategory[] = [
     titleEn: "Cabinets",
     subtitle: "Корпусные системы под архитектуру пространства. Цена по размерам проекта.",
     href: "/products?category=cabinets",
-    image: "/images/lookbook/lookbook-02.png",
+    image: "/images/categories/cabinets.jpg",
     priced: false
   },
   {
@@ -106,7 +107,7 @@ export const categories: ProductCategory[] = [
     titleEn: "Wardrobes",
     subtitle: "Индивидуальные гардеробные и встроенные модули. Цена по размерам проекта.",
     href: "/products?category=wardrobes",
-    image: "/images/lookbook/lookbook-01.png",
+    image: "/images/categories/wardrobes.jpg",
     priced: false
   },
   {
@@ -115,47 +116,88 @@ export const categories: ProductCategory[] = [
     titleEn: "Kitchens",
     subtitle: "Премиальные кухни по размерам проекта. Цена по размерам проекта.",
     href: "/products?category=kitchens",
-    image: "/images/lookbook/lookbook-03.png",
+    image: "/images/categories/kitchens.jpg",
     priced: false
   }
 ];
 
 const collectionMeta: Omit<Collection, "productSlugs">[] = [
   {
-    id: "radius",
-    slug: "radius",
-    title: "Radius Collection",
-    subtitle: "Плавная радиусная геометрия и выразительный терракотовый тон.",
+    id: "terra",
+    slug: "terra",
+    title: "King Terra",
+    subtitle: "Тёплый терракотовый тон и выразительная пластика.",
     description:
-      "Коллекция Radius строится вокруг мягкой дуги, глубокой посадки и тёплого цвета, который становится центральным элементом пространства.",
-    image: "/images/catalog/sofas/kings4-1.jpg"
+      "King Terra строится вокруг тёплого терракотового цвета, мягких объёмов и глубокой посадки — коллекция становится живым центром пространства.",
+    image: "/images/collections/terra/terra-01.jpg",
+    gallery: [
+      "/images/collections/terra/terra-01.jpg",
+      "/images/collections/terra/terra-02.jpg",
+      "/images/collections/terra/terra-03.jpg"
+    ]
   },
   {
     id: "cloud",
     slug: "cloud",
-    title: "Cloud Collection",
-    subtitle: "Молочная фактура букле и спокойные округлые объёмы.",
+    title: "King Cloud",
+    subtitle: "Молочные модульные дуги и спокойные округлые объёмы.",
     description:
-      "Cloud создана для светлых интерьеров, где мягкость формы важна так же, как архитектура пространства.",
-    image: "/images/catalog/sofas/kings2-1.jpg"
+      "King Cloud создана для светлых интерьеров: мягкая фактура букле, плавные радиусные формы и лёгкость композиции.",
+    image: "/images/collections/cloud/cloud-01.jpg",
+    gallery: [
+      "/images/collections/cloud/cloud-01.jpg",
+      "/images/collections/cloud/cloud-02.jpg",
+      "/images/collections/cloud/cloud-03.jpg"
+    ]
   },
   {
-    id: "soft-line",
-    slug: "soft-line",
-    title: "Soft Line Collection",
-    subtitle: "Лаконичные прямые формы с деликатной пластикой деталей.",
+    id: "soft",
+    slug: "soft",
+    title: "King Soft",
+    subtitle: "Лаконичные мягкие формы и тёплый минимализм.",
     description:
-      "Soft Line объединяет тёплую обивку, округлые подлокотники и минималистичный силуэт для современных жилых интерьеров.",
-    image: "/images/catalog/sofas/kings1-1.jpg"
+      "King Soft объединяет тёплую обивку, округлые силуэты и спокойный минимализм для современных жилых интерьеров.",
+    image: "/images/collections/soft/soft-01.jpg",
+    gallery: [
+      "/images/collections/soft/soft-01.jpg",
+      "/images/collections/soft/soft-02.jpg",
+      "/images/collections/soft/soft-03.jpg",
+      "/images/collections/soft/soft-04.jpg",
+      "/images/collections/soft/soft-05.jpg",
+      "/images/collections/soft/soft-06.jpg",
+      "/images/collections/soft/soft-07.jpg"
+    ]
   },
   {
-    id: "modulo",
-    slug: "modulo",
-    title: "Modulo Collection",
-    subtitle: "Просторная модульная система для резиденций и проектов.",
+    id: "bloom",
+    slug: "bloom",
+    title: "King Bloom",
+    subtitle: "Скульптурные округлые формы и мягкая фактура букле.",
     description:
-      "Modulo работает как архитектурный объект: широкая посадка, чистая геометрия и премиальная фактура.",
-    image: "/images/catalog/sofas/kings13-1.jpg"
+      "King Bloom — пластичные «лепестковые» объёмы и нежная молочная фактура: скульптурные предметы, которые становятся акцентом интерьера.",
+    image: "/images/collections/bloom/bloom-01.jpg",
+    gallery: [
+      "/images/collections/bloom/bloom-01.jpg",
+      "/images/collections/bloom/bloom-02.jpg",
+      "/images/collections/bloom/bloom-03.jpg",
+      "/images/collections/bloom/bloom-04.jpg",
+      "/images/collections/bloom/bloom-05.jpg"
+    ]
+  },
+  {
+    id: "savoy",
+    slug: "savoy",
+    title: "King Savoy",
+    subtitle: "Сдержанная роскошь, благородные тона и премиальная отделка.",
+    description:
+      "King Savoy — коллекция для статусных интерьеров: глубокие тона, фактурные ткани и архитектурная геометрия.",
+    image: "/images/collections/savoy/savoy-01.jpg",
+    gallery: [
+      "/images/collections/savoy/savoy-01.jpg",
+      "/images/collections/savoy/savoy-02.jpg",
+      "/images/collections/savoy/savoy-03.jpg",
+      "/images/collections/savoy/savoy-04.jpg"
+    ]
   }
 ];
 
@@ -164,7 +206,7 @@ const collectionNameById = new Map(collectionMeta.map((item) => [item.id, item.t
 export const products: Product[] = (catalog.products as Array<Omit<Product, "collectionName">>).map(
   (product) => ({
     ...product,
-    collectionName: collectionNameById.get(product.collection as CollectionId) ?? "KING COLLECTION"
+    collectionName: collectionNameById.get(product.collection as CollectionId) ?? "KING ATELIER"
   })
 );
 

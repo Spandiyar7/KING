@@ -53,7 +53,7 @@ export function Footer() {
               .filter((item) => categoryLabels.includes(item.label))
               .map((item) => ({ label: item.label, href: item.href }))}
           />
-          <FooterColumn title="KING COLLECTION" links={footerNavigation.map((item) => ({ label: item.label, href: item.href }))} />
+          <FooterColumn title="KING ATELIER" links={footerNavigation.map((item) => ({ label: item.label, href: item.href }))} />
         </div>
         <div className="giorgio-container mt-16 grid gap-6 border-t border-white/12 pt-8 text-sm text-white/44 md:grid-cols-4">
           <a href={siteConfig.phoneHref} className="transition-colors hover:text-white">

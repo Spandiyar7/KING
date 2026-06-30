@@ -182,19 +182,13 @@ body.transitioning {
   letter-spacing: -0.045em;
 }
 
-/* Hero wordmark — bolder, dimensional KING (client asked for a stronger, 3D-style logotype) */
-.hero-king {
-  font-family: var(--font-display), Arial, sans-serif;
-  font-weight: 700;
-  letter-spacing: -0.01em;
+/* Hero wordmark — KING ATELIER set in Cinzel (elegant roman serif) */
+.hero-atelier {
+  font-family: var(--font-cinzel), "Times New Roman", Georgia, serif;
+  font-weight: 600;
+  letter-spacing: 0.05em;
   color: #f6f3ec;
-  text-shadow:
-    1px 1px 0 #cdbb95,
-    2px 2px 0 #bda985,
-    3px 3px 0 #ab9670,
-    4px 4px 0 #8f7b57,
-    5px 5px 0 #6f5f43,
-    6px 8px 16px rgba(0, 0, 0, 0.55);
+  text-shadow: 0 2px 30px rgba(0, 0, 0, 0.55);
 }
 
 .thin-copy {

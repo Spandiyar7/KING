@@ -7,7 +7,7 @@ import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
   title: "Для дизайнеров",
-  description: "Проектные условия KING COLLECTION для дизайнеров, архитекторов, шоурумов и девелоперов."
+  description: "Проектные условия KING ATELIER для дизайнеров, архитекторов, шоурумов и девелоперов."
 };
 
 export default function ContractPage() {

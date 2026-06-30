@@ -6,7 +6,7 @@ import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
   title: "Мастерская",
-  description: "Мастерская KING COLLECTION: производство премиальной мягкой и корпусной мебели под индивидуальные проекты."
+  description: "Мастерская KING ATELIER: производство премиальной мягкой и корпусной мебели под индивидуальные проекты."
 };
 
 const workshopDirections = [

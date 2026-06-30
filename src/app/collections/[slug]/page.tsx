@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: CollectionPageProps): Promise
     title: collection.title,
     description: collection.description,
     openGraph: {
-      title: `${collection.title} - KING COLLECTION`,
+      title: `${collection.title} — KING ATELIER`,
       description: collection.description,
       images: [{ url: collection.image, alt: collection.title }]
     }
@@ -60,6 +60,30 @@ export default async function CollectionPage({ params }: CollectionPageProps) {
           </div>
         </div>
       </section>
+
+      {collection.gallery.length > 0 ? (
+        <section className="bg-[#f8f8f7] pb-12 md:pb-20">
+          <div className="giorgio-container grid gap-5 md:grid-cols-2 md:gap-6">
+            {collection.gallery.map((src, index) => (
+              <div
+                key={src}
+                className={`relative overflow-hidden bg-black ${
+                  index % 3 === 0 ? "aspect-[16/10] md:col-span-2" : "aspect-[4/5]"
+                }`}
+                data-luxury-reveal
+              >
+                <Image
+                  src={assetPath(src)}
+                  alt={`${collection.title} — фото ${index + 1}`}
+                  fill
+                  sizes="(min-width: 768px) 50vw, 100vw"
+                  className="object-cover transition-transform duration-[1400ms] ease-luxury hover:scale-[1.03]"
+                />
+              </div>
+            ))}
+          </div>
+        </section>
+      ) : null}
 
       <section className="bg-black py-20 text-white md:py-28">
         <div className="giorgio-container">
