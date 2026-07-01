@@ -1,0 +1,25 @@
+{
+  "name": "KING K1",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Кухня с островом в тёплом дереве",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 30,
+  "images": [
+    "/images/catalog/kitchens/king-k1-01.jpg",
+    "/images/catalog/kitchens/king-k1-02.jpg",
+    "/images/catalog/kitchens/king-k1-03.jpg",
+    "/images/catalog/kitchens/king-k1-04.jpg",
+    "/images/catalog/kitchens/king-k1-05.jpg"
+  ]
+}

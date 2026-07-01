@@ -1,0 +1,25 @@
+{
+  "name": "KING K6",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Минималистичная кухня в дереве",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 35,
+  "images": [
+    "/images/catalog/kitchens/king-k6-01.jpg",
+    "/images/catalog/kitchens/king-k6-02.jpg",
+    "/images/catalog/kitchens/king-k6-03.jpg",
+    "/images/catalog/kitchens/king-k6-04.jpg",
+    "/images/catalog/kitchens/king-k6-05.jpg"
+  ]
+}

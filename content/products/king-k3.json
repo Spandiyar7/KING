@@ -1,0 +1,25 @@
+{
+  "name": "KING K3",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Кухня в тёмном дереве с мраморным фартуком",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 32,
+  "images": [
+    "/images/catalog/kitchens/king-k3-01.jpg",
+    "/images/catalog/kitchens/king-k3-02.jpg",
+    "/images/catalog/kitchens/king-k3-03.jpg",
+    "/images/catalog/kitchens/king-k3-04.jpg",
+    "/images/catalog/kitchens/king-k3-05.jpg"
+  ]
+}

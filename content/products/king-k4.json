@@ -1,0 +1,25 @@
+{
+  "name": "KING K4",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Кухня с островом из зелёного мрамора",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 33,
+  "images": [
+    "/images/catalog/kitchens/king-k4-01.jpg",
+    "/images/catalog/kitchens/king-k4-02.jpg",
+    "/images/catalog/kitchens/king-k4-03.jpg",
+    "/images/catalog/kitchens/king-k4-04.jpg",
+    "/images/catalog/kitchens/king-k4-05.jpg"
+  ]
+}

@@ -1292,6 +1292,291 @@
           "value": "180 × 210 × 95"
         }
       ]
+    },
+    {
+      "id": "king-k1",
+      "slug": "king-k1",
+      "name": "KING K1",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня с островом в тёплом дереве",
+      "intro": "Кухня с островом в тёплом дереве",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k1-01.jpg",
+        "/images/catalog/kitchens/king-k1-02.jpg",
+        "/images/catalog/kitchens/king-k1-03.jpg",
+        "/images/catalog/kitchens/king-k1-04.jpg",
+        "/images/catalog/kitchens/king-k1-05.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k1-01.jpg",
+      "featured": false,
+      "order": 30,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "king-k2",
+      "slug": "king-k2",
+      "name": "KING K2",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Светлая кухня с мраморным островом",
+      "intro": "Светлая кухня с мраморным островом",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k2-01.jpg",
+        "/images/catalog/kitchens/king-k2-02.jpg",
+        "/images/catalog/kitchens/king-k2-03.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k2-01.jpg",
+      "featured": false,
+      "order": 31,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "king-k3",
+      "slug": "king-k3",
+      "name": "KING K3",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня в тёмном дереве с мраморным фартуком",
+      "intro": "Кухня в тёмном дереве с мраморным фартуком",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k3-01.jpg",
+        "/images/catalog/kitchens/king-k3-02.jpg",
+        "/images/catalog/kitchens/king-k3-03.jpg",
+        "/images/catalog/kitchens/king-k3-04.jpg",
+        "/images/catalog/kitchens/king-k3-05.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k3-01.jpg",
+      "featured": false,
+      "order": 32,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "king-k4",
+      "slug": "king-k4",
+      "name": "KING K4",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня с островом из зелёного мрамора",
+      "intro": "Кухня с островом из зелёного мрамора",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k4-01.jpg",
+        "/images/catalog/kitchens/king-k4-02.jpg",
+        "/images/catalog/kitchens/king-k4-03.jpg",
+        "/images/catalog/kitchens/king-k4-04.jpg",
+        "/images/catalog/kitchens/king-k4-05.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k4-01.jpg",
+      "featured": false,
+      "order": 33,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "king-k5",
+      "slug": "king-k5",
+      "name": "KING K5",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Классическая кухня с винным шкафом",
+      "intro": "Классическая кухня с винным шкафом",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k5-01.jpg",
+        "/images/catalog/kitchens/king-k5-02.jpg",
+        "/images/catalog/kitchens/king-k5-03.jpg",
+        "/images/catalog/kitchens/king-k5-04.jpg",
+        "/images/catalog/kitchens/king-k5-05.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k5-01.jpg",
+      "featured": false,
+      "order": 34,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "king-k6",
+      "slug": "king-k6",
+      "name": "KING K6",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Минималистичная кухня в дереве",
+      "intro": "Минималистичная кухня в дереве",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k6-01.jpg",
+        "/images/catalog/kitchens/king-k6-02.jpg",
+        "/images/catalog/kitchens/king-k6-03.jpg",
+        "/images/catalog/kitchens/king-k6-04.jpg",
+        "/images/catalog/kitchens/king-k6-05.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k6-01.jpg",
+      "featured": false,
+      "order": 35,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "king-k7",
+      "slug": "king-k7",
+      "name": "KING K7",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Современная кухня с чёрным островом",
+      "intro": "Современная кухня с чёрным островом",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k7-01.jpg",
+        "/images/catalog/kitchens/king-k7-02.jpg",
+        "/images/catalog/kitchens/king-k7-03.jpg",
+        "/images/catalog/kitchens/king-k7-04.jpg",
+        "/images/catalog/kitchens/king-k7-05.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k7-01.jpg",
+      "featured": false,
+      "order": 36,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "name": "KING K5",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Классическая кухня с винным шкафом",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 34,
+  "images": [
+    "/images/catalog/kitchens/king-k5-01.jpg",
+    "/images/catalog/kitchens/king-k5-02.jpg",
+    "/images/catalog/kitchens/king-k5-03.jpg",
+    "/images/catalog/kitchens/king-k5-04.jpg",
+    "/images/catalog/kitchens/king-k5-05.jpg"
+  ]
+}

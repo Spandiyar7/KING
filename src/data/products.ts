@@ -238,6 +238,20 @@ export function getCollectionBySlug(slug: string) {
   return collections.find((collection) => collection.slug === slug);
 }
 
+/** Похожие товары: сначала из той же коллекции, затем из той же категории. */
+export function getRelatedProducts(product: Product, limit = 4) {
+  const sameCollection = products.filter(
+    (item) => item.slug !== product.slug && Boolean(product.collection) && item.collection === product.collection
+  );
+  const sameCategory = products.filter(
+    (item) =>
+      item.slug !== product.slug &&
+      item.category === product.category &&
+      !sameCollection.some((collectionItem) => collectionItem.slug === item.slug)
+  );
+  return [...sameCollection, ...sameCategory].slice(0, limit);
+}
+
 export function categoryHasPrice(category: CategoryId) {
   return categories.find((item) => item.id === category)?.priced ?? false;
 }

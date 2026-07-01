@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import Image from "next/image";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ContactForm } from "@/components/ContactForm";
 import { EditorialImage } from "@/components/EditorialImage";
 import { LuxuryLink } from "@/components/LuxuryLink";
 import { assetPath } from "@/config/paths";
-import { getProductBySlug, priceLabel, products } from "@/data/products";
+import { getProductBySlug, getRelatedProducts, priceLabel, products } from "@/data/products";
 import { siteConfig } from "@/config/site";
 
 type ProductPageProps = {
@@ -47,6 +48,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
   const dimensions = [product.width, product.depth, product.height].every(Boolean)
     ? `${product.width} × ${product.depth} × ${product.height} см`
     : null;
+  const related = getRelatedProducts(product, 4);
 
   return (
     <main>
@@ -165,6 +167,38 @@ export default async function ProductPage({ params }: ProductPageProps) {
           </div>
         </div>
       </section>
+
+      {related.length > 0 ? (
+        <section className="border-t border-black/12 bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-28">
+          <div className="giorgio-container">
+            <h2 className="thin-title mb-12 text-[clamp(2.4rem,4.5vw,4.6rem)] leading-none" data-luxury-reveal>
+              С этим товаром покупают также
+            </h2>
+            <div className="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
+              {related.map((item) => (
+                <Link key={item.slug} href={`/products/${item.slug}`} className="group block" data-luxury-reveal>
+                  <div className="relative aspect-[4/5] overflow-hidden bg-black">
+                    <Image
+                      src={assetPath(item.heroImage)}
+                      alt={item.subtitle || item.name}
+                      fill
+                      sizes="(min-width: 1024px) 22vw, (min-width: 640px) 45vw, 100vw"
+                      className="object-cover transition-transform duration-[1400ms] ease-luxury group-hover:scale-105"
+                    />
+                  </div>
+                  <div className="pt-4">
+                    <div className="flex items-baseline justify-between gap-3">
+                      <h3 className="text-sm font-medium leading-snug">{item.subtitle || item.name}</h3>
+                      <p className="shrink-0 text-sm font-medium text-black/75">{priceLabel(item)}</p>
+                    </div>
+                    <p className="mt-2 text-xs uppercase tracking-[0.16em] text-black/40">Артикул: {item.name}</p>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      ) : null}
 
       <section className="bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-32">
         <div className="giorgio-container">
