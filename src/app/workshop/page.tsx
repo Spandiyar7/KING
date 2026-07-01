@@ -106,7 +106,7 @@ export default function WorkshopPage() {
       <section id="zayavka" className="scroll-mt-28 bg-black py-24 text-white md:py-32">
         <div className="giorgio-container grid gap-14 lg:grid-cols-[0.8fr_1fr] lg:items-center">
           <div data-luxury-reveal>
-            <h2 className="thin-title text-[clamp(3rem,6vw,6.6rem)] leading-[0.96]">Оставить заявку на звонок</h2>
+            <h2 className="thin-title text-[clamp(3rem,6vw,6.6rem)] leading-[0.96]">Оставить заявку</h2>
           </div>
           <div className="lg:pt-3" data-luxury-reveal>
             <CallbackForm />
