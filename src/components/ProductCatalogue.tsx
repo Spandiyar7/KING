@@ -130,8 +130,7 @@ export function ProductCatalogue() {
             </div>
             <div className="flex min-h-[30rem] flex-col justify-between border-b border-r border-black/14 p-8 md:p-12 lg:p-16">
               <div>
-                <p className="text-xs uppercase tracking-[0.22em] text-black/36">{selectedCategory.titleEn}</p>
-                <h3 className="thin-title mt-6 text-[clamp(3.2rem,7vw,8rem)] leading-[0.9]">{selectedCategory.title}</h3>
+                <h3 className="thin-title text-[clamp(3.2rem,7vw,8rem)] leading-[0.9]">{selectedCategory.title}</h3>
               </div>
               <div className="pt-14">
                 <p className="text-xl font-light text-black/66">{selectedCategory.subtitle}</p>

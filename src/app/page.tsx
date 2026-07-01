@@ -77,11 +77,8 @@ export default function HomePage() {
       {/* ПРОДУКЦИЯ — карточки категорий */}
       <section className="bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-28">
         <div className="giorgio-container">
-          <div className="mb-12 grid gap-8 lg:grid-cols-[0.55fr_1fr] lg:items-end" data-luxury-reveal>
-            <h2 className="thin-title text-[clamp(3rem,5.6vw,7rem)] leading-none">Продукция</h2>
-            <p className="max-w-2xl text-lg font-light leading-9 text-black/54">
-              Производим мягкую и корпусную мебель полного цикла — от мягких форм до корпусных систем под архитектуру дома.
-            </p>
+          <div className="mb-12" data-luxury-reveal>
+            <h2 className="thin-title text-[clamp(3rem,5.6vw,7rem)] leading-none">Каталог</h2>
           </div>
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3" data-luxury-reveal>
             {categories.map((category) => (
@@ -101,8 +98,7 @@ export default function HomePage() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/78 via-black/15 to-transparent" />
                   <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-4 p-6 md:p-7">
                     <div>
-                      <p className="text-[0.68rem] uppercase tracking-[0.24em] text-white/65">{category.titleEn}</p>
-                      <h3 className="thin-title mt-2 text-[clamp(2.2rem,3vw,3.2rem)] leading-none text-white">{category.title}</h3>
+                      <h3 className="thin-title text-[clamp(2.2rem,3vw,3.2rem)] leading-none text-white">{category.title}</h3>
                       <p className="mt-3 max-w-xs text-sm font-light leading-6 text-white/72">{category.subtitle}</p>
                     </div>
                     <ArrowRight className="mb-1 h-6 w-6 shrink-0 text-white/80 transition-transform duration-500 ease-luxury group-hover:translate-x-1.5" strokeWidth={1.3} />
@@ -125,9 +121,6 @@ export default function HomePage() {
           <div className="relative z-10 flex flex-col items-center px-6" data-luxury-reveal>
             <p className="mb-4 text-sm uppercase tracking-[0.2em] text-white/70">KING ATELIER</p>
             <h2 className="thin-title text-[clamp(3rem,6vw,7rem)] leading-none">Мастерская</h2>
-            <p className="mt-6 max-w-2xl text-base font-light leading-8 text-white/76">
-              Мягкая и корпусная мебель премиум-сегмента под индивидуальные проекты — от разработки конструкции до установки.
-            </p>
             <div className="mt-9">
               <RoundLink href="/workshop">Подробнее</RoundLink>
             </div>

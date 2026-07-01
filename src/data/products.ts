@@ -157,7 +157,7 @@ const collectionMeta: Omit<Collection, "productSlugs">[] = [
     subtitle: "Лаконичные мягкие формы и тёплый минимализм.",
     description:
       "King Soft объединяет тёплую обивку, округлые силуэты и спокойный минимализм для современных жилых интерьеров.",
-    image: "/images/collections/soft/soft-01.jpg",
+    image: "/images/collections/soft/soft-06.jpg",
     gallery: [
       "/images/collections/soft/soft-01.jpg",
       "/images/collections/soft/soft-02.jpg",
@@ -175,7 +175,7 @@ const collectionMeta: Omit<Collection, "productSlugs">[] = [
     subtitle: "Скульптурные округлые формы и мягкая фактура букле.",
     description:
       "King Bloom — пластичные «лепестковые» объёмы и нежная молочная фактура: скульптурные предметы, которые становятся акцентом интерьера.",
-    image: "/images/collections/bloom/bloom-02.jpg",
+    image: "/images/collections/bloom/bloom-05.jpg",
     gallery: [
       "/images/collections/bloom/bloom-01.jpg",
       "/images/collections/bloom/bloom-02.jpg",
