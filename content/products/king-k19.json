@@ -1,0 +1,26 @@
+{
+  "name": "KING K19",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Кухня на заказ по индивидуальному проекту",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 48,
+  "images": [
+    "/images/catalog/kitchens/king-k19-01.jpg",
+    "/images/catalog/kitchens/king-k19-02.jpg",
+    "/images/catalog/kitchens/king-k19-03.jpg",
+    "/images/catalog/kitchens/king-k19-04.jpg",
+    "/images/catalog/kitchens/king-k19-05.jpg",
+    "/images/catalog/kitchens/king-k19-06.jpg"
+  ]
+}

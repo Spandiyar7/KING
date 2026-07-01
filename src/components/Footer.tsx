@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { BrandMark } from "@/components/BrandMark";
+import { assetPath } from "@/config/paths";
 import { footerNavigation, siteConfig } from "@/config/site";
 
 const productLinks = [
@@ -52,7 +53,7 @@ export function Footer() {
           <FooterColumn title="Продукция" links={productLinks} />
           <FooterColumn title="KING ATELIER" links={footerNavigation.map((item) => ({ label: item.label, href: item.href }))} />
         </div>
-        <div className="giorgio-container mt-16 grid gap-6 border-t border-white/12 pt-8 text-sm text-white/44 md:grid-cols-3">
+        <div className="giorgio-container mt-16 grid gap-6 border-t border-white/12 pt-8 text-sm text-white/44 md:grid-cols-4">
           <a href={siteConfig.phoneHref} className="transition-colors hover:text-white">
             {siteConfig.phone}
           </a>
@@ -61,6 +62,12 @@ export function Footer() {
           </a>
           <a href={`mailto:${siteConfig.email}`} className="transition-colors hover:text-white">
             {siteConfig.email}
+          </a>
+          <a
+            href={assetPath("/admin/")}
+            className="inline-flex w-fit items-center gap-2 rounded-full border border-white/30 px-5 py-2 text-white/70 transition-colors hover:bg-white hover:text-black md:justify-self-end"
+          >
+            Админ-панель
           </a>
         </div>
       </section>

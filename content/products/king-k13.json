@@ -1,0 +1,26 @@
+{
+  "name": "KING K13",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Кухня на заказ по индивидуальному проекту",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 42,
+  "images": [
+    "/images/catalog/kitchens/king-k13-01.jpg",
+    "/images/catalog/kitchens/king-k13-02.jpg",
+    "/images/catalog/kitchens/king-k13-03.jpg",
+    "/images/catalog/kitchens/king-k13-04.jpg",
+    "/images/catalog/kitchens/king-k13-05.jpg",
+    "/images/catalog/kitchens/king-k13-06.jpg"
+  ]
+}
