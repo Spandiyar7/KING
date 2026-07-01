@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Suspense } from "react";
-import { PageHero } from "@/components/PageHero";
 import { ProductCatalogue } from "@/components/ProductCatalogue";
 
 export const metadata: Metadata = {
@@ -10,13 +9,7 @@ export const metadata: Metadata = {
 
 export default function ProductsPage() {
   return (
-    <main>
-      <PageHero
-        eyebrow="Каталог"
-        title="Продукция"
-        description="Диваны, кресла и кровати — с ценами. Шкафы, гардеробные и кухни — под размеры проекта, цена по запросу."
-        image="/images/catalog/sofas/kings2-1.jpg"
-      />
+    <main className="pt-[6.9rem] lg:pt-[7.75rem]">
       <Suspense fallback={<div className="bg-[#f8f8f7] py-24 text-center text-sm uppercase tracking-[0.18em] text-black/42">Загрузка каталога</div>}>
         <ProductCatalogue />
       </Suspense>
