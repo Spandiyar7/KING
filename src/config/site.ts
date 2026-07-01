@@ -1,6 +1,6 @@
 import settings from "../../content/settings/site.json";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://kingcollection.kz";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL ?? "https://kingatelier.kz";
 
 export const siteConfig = {
   name: "KING ATELIER",
