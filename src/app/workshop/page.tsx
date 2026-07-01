@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Image from "next/image";
 import { CallbackForm } from "@/components/CallbackForm";
 import { assetPath } from "@/config/paths";
-import { homeContent, siteConfig } from "@/config/site";
+import { homeContent } from "@/config/site";
 
 export const metadata: Metadata = {
   title: "Мастерская",
@@ -104,24 +104,9 @@ export default function WorkshopPage() {
 
       {/* ЗАЯВКА НА ЗВОНОК */}
       <section id="zayavka" className="scroll-mt-28 bg-black py-24 text-white md:py-32">
-        <div className="giorgio-container grid gap-14 lg:grid-cols-[0.8fr_1fr] lg:items-start">
+        <div className="giorgio-container grid gap-14 lg:grid-cols-[0.8fr_1fr] lg:items-center">
           <div data-luxury-reveal>
-            <p className="text-sm uppercase tracking-[0.18em] text-white/45">Заявка</p>
-            <h2 className="thin-title mt-5 text-[clamp(3rem,6vw,6.6rem)] leading-[0.96]">Оставить заявку на звонок</h2>
-            <p className="mt-8 max-w-md text-base font-light leading-8 text-white/65">
-              Оставьте имя и телефон — перезвоним, обсудим проект, размеры, материалы и сроки.
-            </p>
-            <div className="mt-9 flex flex-wrap gap-x-8 gap-y-3 text-sm text-white/55">
-              <a href={siteConfig.phoneHref} className="transition-colors hover:text-white">
-                {siteConfig.phone}
-              </a>
-              <a href={siteConfig.whatsappHref} className="transition-colors hover:text-white">
-                WhatsApp
-              </a>
-              <a href={siteConfig.instagramHref} className="transition-colors hover:text-white">
-                Instagram {siteConfig.instagram}
-              </a>
-            </div>
+            <h2 className="thin-title text-[clamp(3rem,6vw,6.6rem)] leading-[0.96]">Оставить заявку на звонок</h2>
           </div>
           <div className="lg:pt-3" data-luxury-reveal>
             <CallbackForm />
