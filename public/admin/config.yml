@@ -1,11 +1,6 @@
 backend:
-  name: github
-  repo: spandiyar7/KING
+  name: git-gateway
   branch: main
-  # OAuth-прокси для входа через GitHub на GitHub Pages (нужно развернуть один раз,
-  # см. README в репозитории). Замените на адрес вашего прокси:
-  base_url: https://REPLACE-WITH-YOUR-OAUTH-PROXY
-  auth_endpoint: /auth
 
 # Локальное тестирование: запустите `npx decap-server` и откройте /admin/ через `npm run dev`.
 local_backend: true

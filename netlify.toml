@@ -1,0 +1,8 @@
+# Netlify build config — деплой того же Next.js статик-экспорта.
+# На Netlify сайт отдаётся из корня (без basePath /KING), поэтому GITHUB_PAGES не задаём.
+[build]
+  command = "npm run build"
+  publish = "out"
+
+[build.environment]
+  NODE_VERSION = "22"
