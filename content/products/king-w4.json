@@ -1,0 +1,25 @@
+{
+  "name": "KING W4",
+  "category": "wardrobes",
+  "collection": "",
+  "subtitle": "Гардеробная по индивидуальному проекту",
+  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 203,
+  "images": [
+    "/images/catalog/wardrobes/king-w4-01.jpg",
+    "/images/catalog/wardrobes/king-w4-02.jpg",
+    "/images/catalog/wardrobes/king-w4-03.jpg",
+    "/images/catalog/wardrobes/king-w4-04.jpg",
+    "/images/catalog/wardrobes/king-w4-05.jpg"
+  ]
+}

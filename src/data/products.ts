@@ -5,6 +5,7 @@ export type CategoryId =
   | "armchairs"
   | "beds"
   | "poufs"
+  | "benches"
   | "cabinets"
   | "wardrobes"
   | "kitchens";
@@ -39,6 +40,7 @@ export type Product = {
   specifications: ProductSpecification[];
   images: string[];
   heroImage: string;
+  heroThumb: string;
   featured: boolean;
   order: number;
 };
@@ -90,6 +92,24 @@ export const categories: ProductCategory[] = [
     subtitle: "Спокойная архитектура спальни в премиальных тканях.",
     href: "/products?category=beds",
     image: "/images/categories/beds.jpg",
+    priced: true
+  },
+  {
+    id: "poufs",
+    title: "Пуфы",
+    titleEn: "Poufs",
+    subtitle: "Мягкие акценты ручной работы в премиальных тканях.",
+    href: "/products?category=poufs",
+    image: "/images/categories/poufs.jpg",
+    priced: true
+  },
+  {
+    id: "benches",
+    title: "Банкетки",
+    titleEn: "Benches",
+    subtitle: "Банкетки для спальни и прихожей в вашем размере.",
+    href: "/products?category=benches",
+    image: "/images/categories/benches.jpg",
     priced: true
   },
   {

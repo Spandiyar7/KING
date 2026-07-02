@@ -1,0 +1,24 @@
+{
+  "name": "KING W8",
+  "category": "wardrobes",
+  "collection": "",
+  "subtitle": "Гардеробная по индивидуальному проекту",
+  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 207,
+  "images": [
+    "/images/catalog/wardrobes/king-w8-01.jpg",
+    "/images/catalog/wardrobes/king-w8-02.jpg",
+    "/images/catalog/wardrobes/king-w8-03.jpg",
+    "/images/catalog/wardrobes/king-w8-04.jpg"
+  ]
+}

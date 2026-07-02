@@ -49,7 +49,7 @@ export function CallbackForm() {
       method="POST"
       data-netlify="true"
       netlify-honeypot="bot-field"
-      className="grid gap-5 sm:grid-cols-2"
+      className="grid max-w-xl gap-8"
       onSubmit={handleSubmit}
     >
       <input type="hidden" name="form-name" value="callback" />
@@ -59,33 +59,33 @@ export function CallbackForm() {
         </label>
       </p>
       <label className="group block">
-        <span className="mb-2 block text-xs uppercase tracking-[0.2em] text-white/45">Имя</span>
+        <span className="mb-3 block text-base font-medium uppercase tracking-[0.18em] text-white/80">Имя</span>
         <input
           name="name"
           type="text"
           required
-          className="focus-ring w-full border-0 border-b border-white/25 bg-transparent px-0 py-4 text-base font-light text-white outline-none transition-colors placeholder:text-white/30 group-focus-within:border-white"
+          className="focus-ring w-full border-0 border-b border-white/25 bg-transparent px-0 py-4 text-lg font-light text-white outline-none transition-colors placeholder:text-white/30 group-focus-within:border-white"
         />
       </label>
       <label className="group block">
-        <span className="mb-2 block text-xs uppercase tracking-[0.2em] text-white/45">Телефон</span>
+        <span className="mb-3 block text-base font-medium uppercase tracking-[0.18em] text-white/80">Телефон</span>
         <input
           name="phone"
           type="tel"
           required
           placeholder="+7 ___ ___ __ __"
-          className="focus-ring w-full border-0 border-b border-white/25 bg-transparent px-0 py-4 text-base font-light text-white outline-none transition-colors placeholder:text-white/30 group-focus-within:border-white"
+          className="focus-ring w-full border-0 border-b border-white/25 bg-transparent px-0 py-4 text-lg font-light text-white outline-none transition-colors placeholder:text-white/30 group-focus-within:border-white"
         />
       </label>
       <button
         type="submit"
         disabled={status === "sending"}
-        className="focus-ring mt-2 w-fit rounded-full border border-white bg-white px-9 py-4 text-sm font-medium text-black transition-colors duration-500 hover:bg-transparent hover:text-white disabled:opacity-60 sm:col-span-2"
+        className="focus-ring mt-1 w-fit rounded-full border border-white bg-white px-9 py-4 text-sm font-medium text-black transition-colors duration-500 hover:bg-transparent hover:text-white disabled:opacity-60"
       >
         {status === "sending" ? "Отправляем…" : "Оставить заявку"}
       </button>
       {status === "error" ? (
-        <p className="text-sm text-red-300 sm:col-span-2">Не удалось отправить. Позвоните нам: {siteConfig.phone}</p>
+        <p className="text-sm text-red-300">Не удалось отправить. Позвоните нам: {siteConfig.phone}</p>
       ) : null}
     </form>
   );

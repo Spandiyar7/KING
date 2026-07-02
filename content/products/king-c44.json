@@ -1,0 +1,25 @@
+{
+  "name": "KING C44",
+  "category": "armchairs",
+  "collection": "",
+  "subtitle": "Дизайнерское кресло",
+  "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 100,
+  "images": [
+    "/images/catalog/armchairs/king-c44-01.jpg",
+    "/images/catalog/armchairs/king-c44-02.jpg",
+    "/images/catalog/armchairs/king-c44-03.jpg",
+    "/images/catalog/armchairs/king-c44-04.jpg",
+    "/images/catalog/armchairs/king-c44-05.jpg"
+  ]
+}

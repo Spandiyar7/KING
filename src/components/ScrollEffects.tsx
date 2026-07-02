@@ -18,6 +18,11 @@ export function ScrollEffects() {
     const init = () => {
       ctx = gsap.context(() => {
         gsap.utils.toArray<HTMLElement>("[data-luxury-reveal]").forEach((element) => {
+          // Элементы, уже видимые на экране, не прячем — иначе при медленной
+          // загрузке страница выглядит «пустой», пока не сработает анимация.
+          if (element.getBoundingClientRect().top < window.innerHeight * 0.88) {
+            return;
+          }
           gsap.fromTo(
             element,
             { autoAlpha: 0, y: 44 },

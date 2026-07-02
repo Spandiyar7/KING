@@ -1,0 +1,21 @@
+{
+  "name": "KING W1",
+  "category": "wardrobes",
+  "collection": "",
+  "subtitle": "Гардеробная по индивидуальному проекту",
+  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 200,
+  "images": [
+    "/images/catalog/wardrobes/king-w1-01.jpg"
+  ]
+}

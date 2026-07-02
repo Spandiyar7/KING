@@ -179,7 +179,7 @@ export default async function ProductPage({ params }: ProductPageProps) {
                 <Link key={item.slug} href={`/products/${item.slug}`} className="group block" data-luxury-reveal>
                   <div className="relative aspect-[4/5] overflow-hidden bg-black">
                     <Image
-                      src={assetPath(item.heroImage)}
+                      src={assetPath(item.heroThumb || item.heroImage)}
                       alt={item.subtitle || item.name}
                       fill
                       sizes="(min-width: 1024px) 22vw, (min-width: 640px) 45vw, 100vw"

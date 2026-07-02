@@ -38,6 +38,7 @@ collections:
           - { label: "Кресла (с ценой)", value: "armchairs" }
           - { label: "Кровати (с ценой)", value: "beds" }
           - { label: "Пуфы (с ценой)", value: "poufs" }
+          - { label: "Банкетки (с ценой)", value: "benches" }
           - { label: "Шкафы (без цены, по запросу)", value: "cabinets" }
           - { label: "Гардеробные (без цены, по запросу)", value: "wardrobes" }
           - { label: "Кухни (без цены, по запросу)", value: "kitchens" }

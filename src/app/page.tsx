@@ -31,7 +31,9 @@ export default function HomePage() {
 
         <div className="giorgio-container relative z-10 flex min-h-screen items-end pb-16 pt-36 md:pb-24">
           <div className="max-w-[46rem]" data-luxury-reveal>
-            <h1 className="hero-atelier text-[clamp(2.8rem,8vw,8rem)] leading-[1.04]">{homeContent.heroTitle}</h1>
+            <h1 className="hero-atelier whitespace-nowrap text-[clamp(2.2rem,6.2vw,6.4rem)] leading-[1.04]">
+              {homeContent.heroTitle}
+            </h1>
             <p className="mt-8 max-w-xl text-lg font-light leading-8 text-white/85">{homeContent.heroSubtitle}</p>
             <a
               href="#zayavka"
@@ -63,8 +65,8 @@ export default function HomePage() {
                 key={index}
                 className={
                   index === 0
-                    ? "text-[clamp(1.6rem,2.6vw,2.6rem)] font-light leading-[1.4] text-black/80"
-                    : "text-lg font-light leading-9 text-black/56"
+                    ? "text-[clamp(2rem,3.4vw,3.4rem)] font-light leading-[1.3] text-black/85"
+                    : "text-base font-light leading-8 text-black/55"
                 }
               >
                 {paragraph}
@@ -98,8 +100,9 @@ export default function HomePage() {
                   <div className="absolute inset-0 bg-gradient-to-t from-black/78 via-black/15 to-transparent" />
                   <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-4 p-6 md:p-7">
                     <div>
-                      <h3 className="thin-title text-[clamp(2.2rem,3vw,3.2rem)] leading-none text-white">{category.title}</h3>
-                      <p className="mt-3 max-w-xs text-sm font-light leading-6 text-white/72">{category.subtitle}</p>
+                      <h3 className="text-[clamp(2rem,2.8vw,3rem)] font-semibold leading-none tracking-[0.02em] text-white">
+                        {category.title}
+                      </h3>
                     </div>
                     <ArrowRight className="mb-1 h-6 w-6 shrink-0 text-white/80 transition-transform duration-500 ease-luxury group-hover:translate-x-1.5" strokeWidth={1.3} />
                   </div>
@@ -115,13 +118,13 @@ export default function HomePage() {
 
       {/* МАСТЕРСКАЯ */}
       <section className="relative bg-[#f8f8f7] px-5 py-16 text-white md:py-28">
-        <div className="relative mx-auto flex min-h-[64vh] max-w-[1420px] items-center justify-center overflow-hidden bg-black text-center">
+        <div className="relative mx-auto flex min-h-[82vh] max-w-[1480px] items-center justify-center overflow-hidden bg-black text-center">
           <Image src={assetPath(homeContent.workshopImage)} alt="Мастерская KING ATELIER" fill sizes="100vw" className="object-cover opacity-90" />
           <div className="absolute inset-0 bg-black/45" />
           <div className="relative z-10 flex flex-col items-center px-6" data-luxury-reveal>
             <p className="mb-4 text-sm uppercase tracking-[0.2em] text-white/70">KING ATELIER</p>
-            <h2 className="thin-title text-[clamp(3rem,6vw,7rem)] leading-none">Мастерская</h2>
-            <div className="mt-9">
+            <h2 className="thin-title text-[clamp(3.2rem,7vw,8.4rem)] uppercase leading-none">Мастерская</h2>
+            <div className="mt-10">
               <RoundLink href="/workshop">Подробнее</RoundLink>
             </div>
           </div>

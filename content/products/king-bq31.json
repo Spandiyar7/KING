@@ -1,0 +1,25 @@
+{
+  "name": "KING BQ31",
+  "category": "benches",
+  "collection": "",
+  "subtitle": "Банкетка ручной работы",
+  "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 170,
+  "images": [
+    "/images/catalog/benches/king-bq31-01.jpg",
+    "/images/catalog/benches/king-bq31-02.jpg",
+    "/images/catalog/benches/king-bq31-03.jpg",
+    "/images/catalog/benches/king-bq31-04.jpg",
+    "/images/catalog/benches/king-bq31-05.jpg"
+  ]
+}

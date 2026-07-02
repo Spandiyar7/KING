@@ -1,0 +1,25 @@
+{
+  "name": "KING C22",
+  "category": "armchairs",
+  "collection": "",
+  "subtitle": "Дизайнерское кресло",
+  "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 78,
+  "images": [
+    "/images/catalog/armchairs/king-c22-01.jpg",
+    "/images/catalog/armchairs/king-c22-02.jpg",
+    "/images/catalog/armchairs/king-c22-03.jpg",
+    "/images/catalog/armchairs/king-c22-04.jpg",
+    "/images/catalog/armchairs/king-c22-05.jpg"
+  ]
+}

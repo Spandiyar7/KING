@@ -42,15 +42,10 @@ export function BrandMark({ compact = false, iconOnly = false, dark = false }: B
         aria-hidden
         priority
       />
-      <span className="flex items-baseline gap-2 leading-none">
-        <span className={`${compact ? "text-xl" : "text-2xl md:text-[1.95rem]"} font-medium tracking-[0.06em]`}>
-          KING
-        </span>
-        <span
-          className={`${compact ? "text-xs" : "text-sm md:text-base"} font-light uppercase tracking-[0.2em] opacity-75`}
-        >
-          atelier
-        </span>
+      <span
+        className={`${compact ? "text-lg" : "text-xl md:text-2xl"} whitespace-nowrap font-medium uppercase leading-none tracking-[0.14em]`}
+      >
+        KING ATELIER
       </span>
     </span>
   );

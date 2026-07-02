@@ -10,7 +10,19 @@ const root = join(here, "..");
 const productsDir = join(root, "content", "products");
 const outFile = join(root, "src", "data", "catalog.generated.json");
 
-const PRICED_CATEGORIES = new Set(["sofas", "armchairs", "beds", "poufs"]);
+const PRICED_CATEGORIES = new Set(["sofas", "armchairs", "beds", "poufs", "benches"]);
+
+/** Возвращает путь к миниатюре (-t.jpg), если она существует в public/. */
+function thumbPath(webPath) {
+  if (!webPath || !webPath.endsWith(".jpg")) return webPath;
+  const candidate = webPath.slice(0, -4) + "-t.jpg";
+  try {
+    readFileSync(join(root, "public", candidate));
+    return candidate;
+  } catch {
+    return webPath;
+  }
+}
 
 function readJson(path) {
   return JSON.parse(readFileSync(path, "utf8"));
@@ -84,6 +96,7 @@ function toProduct(slug, p) {
     price: hasPrice ? Number(p.price) : null,
     images,
     heroImage: images[0] || "/images/hero/king-hero.png",
+    heroThumb: thumbPath(images[0] || "/images/hero/king-hero.png"),
     featured: Boolean(p.featured),
     order: typeof p.order === "number" ? p.order : 999,
     shortSpecs: buildShortSpecs(p),

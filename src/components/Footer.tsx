@@ -10,8 +10,8 @@ const productLinks = [
   { label: "Шкафы", href: "/products?category=cabinets" },
   { label: "Гардеробные", href: "/products?category=wardrobes" },
   { label: "Кухни", href: "/products?category=kitchens" },
-  { label: "Пуфы", href: "/contacts" },
-  { label: "Банкетки", href: "/contacts" },
+  { label: "Пуфы", href: "/products?category=poufs" },
+  { label: "Банкетки", href: "/products?category=benches" },
   { label: "Перешивка мягкой мебели", href: "/contacts" },
   { label: "Реставрация корпусной мебели", href: "/contacts" }
 ];

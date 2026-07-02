@@ -98,7 +98,7 @@ export function ProductCatalogue() {
                   <Link key={product.slug} href={`/products/${product.slug}`} className="group block" data-luxury-reveal>
                     <div className="relative aspect-[4/5] overflow-hidden bg-black">
                       <Image
-                        src={assetPath(product.heroImage)}
+                        src={assetPath(product.heroThumb || product.heroImage)}
                         alt={product.subtitle || product.name}
                         fill
                         sizes="(min-width: 1280px) 22vw, (min-width: 1024px) 30vw, (min-width: 640px) 45vw, 100vw"
