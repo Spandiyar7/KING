@@ -54,11 +54,11 @@ export default function HomePage() {
       </section>
 
       {/* О МАСТЕРСКОЙ */}
-      <section id="intro" className="bg-[#f8f8f7] py-24 text-[#4b4b4b] md:py-32 lg:py-40">
-        <div className="giorgio-container grid gap-12 lg:grid-cols-[0.5fr_1fr] lg:items-start">
-          <p className="text-sm uppercase tracking-[0.18em] text-black/36" data-luxury-reveal>
-            {homeContent.introTitle}
-          </p>
+      <section id="intro" className="bg-[#f8f8f7] py-14 text-[#4b4b4b] md:py-20 lg:py-24">
+        <div className="giorgio-container grid gap-8 lg:grid-cols-[0.5fr_1fr] lg:items-start">
+          <h2 className="thin-title text-[clamp(3rem,5.6vw,7rem)] leading-none" data-luxury-reveal>
+            О мастерской
+          </h2>
           <div className="max-w-4xl space-y-7" data-luxury-reveal>
             {introParagraphs.map((paragraph, index) => (
               <p
@@ -77,9 +77,9 @@ export default function HomePage() {
       </section>
 
       {/* ПРОДУКЦИЯ — карточки категорий */}
-      <section className="bg-[#f8f8f7] py-20 text-[#3f3f3f] md:py-28">
+      <section className="bg-[#f8f8f7] py-12 text-[#3f3f3f] md:py-16">
         <div className="giorgio-container">
-          <div className="mb-12" data-luxury-reveal>
+          <div className="mb-10" data-luxury-reveal>
             <h2 className="thin-title text-[clamp(3rem,5.6vw,7rem)] leading-none">Каталог</h2>
           </div>
           <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3" data-luxury-reveal>
@@ -117,8 +117,8 @@ export default function HomePage() {
       <CollectionRail title="Коллекции" />
 
       {/* МАСТЕРСКАЯ */}
-      <section className="relative bg-[#f8f8f7] px-5 py-16 text-white md:py-28">
-        <div className="relative mx-auto flex min-h-[82vh] max-w-[1480px] items-center justify-center overflow-hidden bg-black text-center">
+      <section className="relative bg-[#f8f8f7] px-5 py-10 text-white md:py-14">
+        <div className="relative mx-auto flex min-h-[58vh] max-w-[1480px] items-center justify-center overflow-hidden bg-black text-center">
           <Image src={assetPath(homeContent.workshopImage)} alt="Мастерская KING ATELIER" fill sizes="100vw" className="object-cover opacity-90" />
           <div className="absolute inset-0 bg-black/45" />
           <div className="relative z-10 flex flex-col items-center px-6" data-luxury-reveal>
@@ -132,7 +132,7 @@ export default function HomePage() {
       </section>
 
       {/* ЗАЯВКА НА ЗВОНОК */}
-      <section id="zayavka" className="scroll-mt-28 bg-black py-24 text-white md:py-32">
+      <section id="zayavka" className="scroll-mt-28 bg-black py-16 text-white md:py-20">
         <div className="giorgio-container grid gap-14 lg:grid-cols-[0.8fr_1fr] lg:items-center">
           <div data-luxury-reveal>
             <h2 className="thin-title text-[clamp(3rem,6vw,6.6rem)] leading-[0.96]">Оставить заявку</h2>
