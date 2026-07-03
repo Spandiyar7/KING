@@ -12,6 +12,14 @@ const outFile = join(root, "src", "data", "catalog.generated.json");
 
 const PRICED_CATEGORIES = new Set(["sofas", "armchairs", "beds", "poufs", "benches"]);
 
+// Размеры миниатюр (для верстки без обрезки — каждое фото в своём формате).
+let THUMB_DIMS = {};
+try {
+  THUMB_DIMS = JSON.parse(readFileSync(join(root, "src", "data", "thumb-dims.json"), "utf8"));
+} catch {
+  THUMB_DIMS = {};
+}
+
 /** Возвращает путь к миниатюре (-t.jpg), если она существует в public/. */
 function thumbPath(webPath) {
   if (!webPath || !webPath.endsWith(".jpg")) return webPath;
@@ -97,6 +105,8 @@ function toProduct(slug, p) {
     images,
     heroImage: images[0] || "/images/hero/king-hero.png",
     heroThumb: thumbPath(images[0] || "/images/hero/king-hero.png"),
+    heroW: (THUMB_DIMS[thumbPath(images[0] || "")] || [4, 5])[0],
+    heroH: (THUMB_DIMS[thumbPath(images[0] || "")] || [4, 5])[1],
     featured: Boolean(p.featured),
     order: typeof p.order === "number" ? p.order : 999,
     shortSpecs: buildShortSpecs(p),

@@ -34,7 +34,6 @@ export default function HomePage() {
             <h1 className="hero-atelier whitespace-nowrap text-[clamp(2.2rem,6.2vw,6.4rem)] leading-[1.04]">
               {homeContent.heroTitle}
             </h1>
-            <p className="mt-8 max-w-xl text-lg font-light leading-8 text-white/85">{homeContent.heroSubtitle}</p>
             <a
               href="#zayavka"
               className="pill-link focus-ring mt-10 border-white/72 text-white hover:bg-white hover:text-black"

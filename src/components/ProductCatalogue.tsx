@@ -89,28 +89,34 @@ export function ProductCatalogue() {
             <p className="mb-8 text-xs uppercase tracking-[0.2em] text-black/36" data-luxury-reveal>
               {filteredProducts.length} {pluralModels(filteredProducts.length)}
             </p>
-            <div className="grid gap-x-6 gap-y-12 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+            <div className="gap-x-6 [column-fill:_balance] columns-1 sm:columns-2 lg:columns-3 xl:columns-4">
               {filteredProducts.map((product) => {
                 const dimensions = [product.width, product.depth, product.height].every(Boolean)
                   ? `${product.width} × ${product.depth} × ${product.height} см`
                   : null;
                 return (
-                  <Link key={product.slug} href={`/products/${product.slug}`} className="group block" data-luxury-reveal>
-                    <div className="relative aspect-[4/5] overflow-hidden bg-[#efeae2]">
+                  <Link
+                    key={product.slug}
+                    href={`/products/${product.slug}`}
+                    className="group mb-12 block break-inside-avoid"
+                    data-luxury-reveal
+                  >
+                    <div className="overflow-hidden bg-[#efeae2]">
                       <Image
                         src={assetPath(product.heroThumb || product.heroImage)}
                         alt={product.subtitle || product.name}
-                        fill
+                        width={product.heroW}
+                        height={product.heroH}
                         sizes="(min-width: 1280px) 22vw, (min-width: 1024px) 30vw, (min-width: 640px) 45vw, 100vw"
-                        className="object-contain transition-transform duration-[1400ms] ease-luxury group-hover:scale-[1.04]"
+                        className="h-auto w-full transition-transform duration-[1400ms] ease-luxury group-hover:scale-[1.03]"
                       />
                     </div>
-                    <div className="pt-5">
+                    <div className="pt-4">
                       <div className="flex items-baseline justify-between gap-3">
                         <h3 className="text-base font-medium leading-snug">{product.subtitle || product.name}</h3>
                         <p className="shrink-0 text-base font-medium text-black/80">{priceLabel(product)}</p>
                       </div>
-                      <div className="mt-3 space-y-1 text-xs uppercase tracking-[0.16em] text-black/45">
+                      <div className="mt-2 space-y-1 text-xs uppercase tracking-[0.16em] text-black/45">
                         {product.material ? <p>{product.material}</p> : null}
                         {dimensions ? <p>{dimensions}</p> : null}
                         <p className="text-black/35">Артикул: {product.name}</p>

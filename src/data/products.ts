@@ -41,6 +41,8 @@ export type Product = {
   images: string[];
   heroImage: string;
   heroThumb: string;
+  heroW: number;
+  heroH: number;
   featured: boolean;
   order: number;
 };
