@@ -24,6 +24,7 @@ export default function ContactsPage() {
           <div data-luxury-reveal>
             <p className="text-sm uppercase tracking-[0.18em] text-black/36">KING ATELIER</p>
             <h1 className="thin-title mt-5 text-[clamp(3.6rem,8vw,8rem)] leading-[0.96]">{siteConfig.city}</h1>
+            <p className="mt-6 text-sm font-light leading-7 text-black/58">{siteConfig.address}</p>
             <div className="mt-10 space-y-4 text-sm font-light leading-7 text-black/58">
               <a href={siteConfig.whatsappHref} className="block transition-colors hover:text-black">
                 WhatsApp {siteConfig.whatsapp}
