@@ -10229,6 +10229,7350 @@
           "value": "Гардеробная"
         }
       ]
+    },
+    {
+      "id": "king-s15",
+      "slug": "king-s15",
+      "name": "KING S15",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s15-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s15-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s15-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 400,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s16",
+      "slug": "king-s16",
+      "name": "KING S16",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s16-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s16-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s16-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 401,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s17",
+      "slug": "king-s17",
+      "name": "KING S17",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s17-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s17-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s17-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 402,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s18",
+      "slug": "king-s18",
+      "name": "KING S18",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s18-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s18-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s18-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 403,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s19",
+      "slug": "king-s19",
+      "name": "KING S19",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s19-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s19-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s19-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 562,
+      "featured": false,
+      "order": 404,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s20",
+      "slug": "king-s20",
+      "name": "KING S20",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s20-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s20-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s20-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 561,
+      "featured": false,
+      "order": 405,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s21",
+      "slug": "king-s21",
+      "name": "KING S21",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s21-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s21-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s21-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 562,
+      "featured": false,
+      "order": 406,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s22",
+      "slug": "king-s22",
+      "name": "KING S22",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s22-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s22-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s22-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 799,
+      "featured": false,
+      "order": 407,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s23",
+      "slug": "king-s23",
+      "name": "KING S23",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s23-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s23-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s23-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 799,
+      "featured": false,
+      "order": 408,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s24",
+      "slug": "king-s24",
+      "name": "KING S24",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s24-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s24-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s24-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 800,
+      "featured": false,
+      "order": 409,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s25",
+      "slug": "king-s25",
+      "name": "KING S25",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s25-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s25-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s25-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 800,
+      "featured": false,
+      "order": 410,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s26",
+      "slug": "king-s26",
+      "name": "KING S26",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s26-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s26-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s26-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 799,
+      "featured": false,
+      "order": 411,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s27",
+      "slug": "king-s27",
+      "name": "KING S27",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s27-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s27-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s27-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 800,
+      "featured": false,
+      "order": 412,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s28",
+      "slug": "king-s28",
+      "name": "KING S28",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s28-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s28-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s28-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 413,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s29",
+      "slug": "king-s29",
+      "name": "KING S29",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s29-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s29-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s29-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 414,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s30",
+      "slug": "king-s30",
+      "name": "KING S30",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s30-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s30-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s30-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 666,
+      "featured": false,
+      "order": 415,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s31",
+      "slug": "king-s31",
+      "name": "KING S31",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s31-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s31-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s31-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 666,
+      "featured": false,
+      "order": 416,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s32",
+      "slug": "king-s32",
+      "name": "KING S32",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s32-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s32-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s32-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 666,
+      "featured": false,
+      "order": 417,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s33",
+      "slug": "king-s33",
+      "name": "KING S33",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s33-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s33-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s33-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 669,
+      "featured": false,
+      "order": 418,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s34",
+      "slug": "king-s34",
+      "name": "KING S34",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s34-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s34-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s34-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 419,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s35",
+      "slug": "king-s35",
+      "name": "KING S35",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s35-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s35-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s35-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 420,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s36",
+      "slug": "king-s36",
+      "name": "KING S36",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s36-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s36-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s36-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 421,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s37",
+      "slug": "king-s37",
+      "name": "KING S37",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s37-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s37-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s37-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 422,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s38",
+      "slug": "king-s38",
+      "name": "KING S38",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s38-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s38-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s38-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 423,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s39",
+      "slug": "king-s39",
+      "name": "KING S39",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s39-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s39-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s39-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 424,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s40",
+      "slug": "king-s40",
+      "name": "KING S40",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s40-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s40-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s40-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 425,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s41",
+      "slug": "king-s41",
+      "name": "KING S41",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s41-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s41-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s41-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 426,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s42",
+      "slug": "king-s42",
+      "name": "KING S42",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s42-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s42-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s42-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 427,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s43",
+      "slug": "king-s43",
+      "name": "KING S43",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s43-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s43-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s43-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 428,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s44",
+      "slug": "king-s44",
+      "name": "KING S44",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s44-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s44-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s44-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 641,
+      "featured": false,
+      "order": 429,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s45",
+      "slug": "king-s45",
+      "name": "KING S45",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s45-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s45-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s45-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 643,
+      "featured": false,
+      "order": 430,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s46",
+      "slug": "king-s46",
+      "name": "KING S46",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s46-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s46-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s46-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 643,
+      "featured": false,
+      "order": 431,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s47",
+      "slug": "king-s47",
+      "name": "KING S47",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s47-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s47-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s47-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 984,
+      "featured": false,
+      "order": 432,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s48",
+      "slug": "king-s48",
+      "name": "KING S48",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s48-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s48-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s48-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 978,
+      "featured": false,
+      "order": 433,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s49",
+      "slug": "king-s49",
+      "name": "KING S49",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s49-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s49-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s49-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 977,
+      "featured": false,
+      "order": 434,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s50",
+      "slug": "king-s50",
+      "name": "KING S50",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s50-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s50-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s50-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 989,
+      "featured": false,
+      "order": 435,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s51",
+      "slug": "king-s51",
+      "name": "KING S51",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s51-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s51-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s51-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 989,
+      "featured": false,
+      "order": 436,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s52",
+      "slug": "king-s52",
+      "name": "KING S52",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s52-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s52-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s52-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 984,
+      "featured": false,
+      "order": 437,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s53",
+      "slug": "king-s53",
+      "name": "KING S53",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s53-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s53-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s53-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 438,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s54",
+      "slug": "king-s54",
+      "name": "KING S54",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s54-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s54-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s54-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 439,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s55",
+      "slug": "king-s55",
+      "name": "KING S55",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s55-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s55-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s55-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 440,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s56",
+      "slug": "king-s56",
+      "name": "KING S56",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s56-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s56-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s56-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 562,
+      "featured": false,
+      "order": 441,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s57",
+      "slug": "king-s57",
+      "name": "KING S57",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s57-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s57-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s57-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 562,
+      "featured": false,
+      "order": 442,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s58",
+      "slug": "king-s58",
+      "name": "KING S58",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s58-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s58-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s58-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 562,
+      "featured": false,
+      "order": 443,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s59",
+      "slug": "king-s59",
+      "name": "KING S59",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s59-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s59-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s59-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 444,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s60",
+      "slug": "king-s60",
+      "name": "KING S60",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s60-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s60-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s60-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 445,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s61",
+      "slug": "king-s61",
+      "name": "KING S61",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s61-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s61-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s61-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 446,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s62",
+      "slug": "king-s62",
+      "name": "KING S62",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s62-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s62-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s62-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 447,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s63",
+      "slug": "king-s63",
+      "name": "KING S63",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s63-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s63-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s63-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 448,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s64",
+      "slug": "king-s64",
+      "name": "KING S64",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s64-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s64-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s64-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 449,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s65",
+      "slug": "king-s65",
+      "name": "KING S65",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s65-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s65-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s65-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 450,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s66",
+      "slug": "king-s66",
+      "name": "KING S66",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s66-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s66-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s66-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 562,
+      "featured": false,
+      "order": 451,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s67",
+      "slug": "king-s67",
+      "name": "KING S67",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s67-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s67-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s67-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 452,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s68",
+      "slug": "king-s68",
+      "name": "KING S68",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s68-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s68-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s68-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 453,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s69",
+      "slug": "king-s69",
+      "name": "KING S69",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s69-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s69-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s69-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 454,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s70",
+      "slug": "king-s70",
+      "name": "KING S70",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s70-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s70-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s70-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 455,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s71",
+      "slug": "king-s71",
+      "name": "KING S71",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s71-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s71-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s71-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 456,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s72",
+      "slug": "king-s72",
+      "name": "KING S72",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s72-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s72-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s72-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 457,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s73",
+      "slug": "king-s73",
+      "name": "KING S73",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s73-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s73-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s73-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 458,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s74",
+      "slug": "king-s74",
+      "name": "KING S74",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s74-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s74-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s74-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 459,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s75",
+      "slug": "king-s75",
+      "name": "KING S75",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s75-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s75-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s75-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 460,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s76",
+      "slug": "king-s76",
+      "name": "KING S76",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s76-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s76-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s76-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 461,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s77",
+      "slug": "king-s77",
+      "name": "KING S77",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s77-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s77-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s77-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 462,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s78",
+      "slug": "king-s78",
+      "name": "KING S78",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s78-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s78-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s78-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 463,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s79",
+      "slug": "king-s79",
+      "name": "KING S79",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s79-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s79-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s79-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 464,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s80",
+      "slug": "king-s80",
+      "name": "KING S80",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s80-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s80-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s80-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 465,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s81",
+      "slug": "king-s81",
+      "name": "KING S81",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s81-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s81-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s81-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 466,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s82",
+      "slug": "king-s82",
+      "name": "KING S82",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s82-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s82-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s82-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 467,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s83",
+      "slug": "king-s83",
+      "name": "KING S83",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s83-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s83-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s83-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 468,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s84",
+      "slug": "king-s84",
+      "name": "KING S84",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s84-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s84-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s84-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 469,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s85",
+      "slug": "king-s85",
+      "name": "KING S85",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s85-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s85-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s85-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 470,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s86",
+      "slug": "king-s86",
+      "name": "KING S86",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s86-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s86-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s86-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 471,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s87",
+      "slug": "king-s87",
+      "name": "KING S87",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s87-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s87-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s87-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 750,
+      "featured": false,
+      "order": 472,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s88",
+      "slug": "king-s88",
+      "name": "KING S88",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s88-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s88-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s88-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 473,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s89",
+      "slug": "king-s89",
+      "name": "KING S89",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s89-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s89-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s89-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 474,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s90",
+      "slug": "king-s90",
+      "name": "KING S90",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s90-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s90-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s90-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 475,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s91",
+      "slug": "king-s91",
+      "name": "KING S91",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s91-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s91-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s91-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 476,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s92",
+      "slug": "king-s92",
+      "name": "KING S92",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s92-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s92-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s92-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 477,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s93",
+      "slug": "king-s93",
+      "name": "KING S93",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s93-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s93-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s93-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 478,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s94",
+      "slug": "king-s94",
+      "name": "KING S94",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s94-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s94-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s94-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 479,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s95",
+      "slug": "king-s95",
+      "name": "KING S95",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s95-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s95-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s95-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 480,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s96",
+      "slug": "king-s96",
+      "name": "KING S96",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s96-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s96-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s96-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 481,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s97",
+      "slug": "king-s97",
+      "name": "KING S97",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s97-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s97-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s97-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 482,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s98",
+      "slug": "king-s98",
+      "name": "KING S98",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s98-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s98-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s98-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 483,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s99",
+      "slug": "king-s99",
+      "name": "KING S99",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s99-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s99-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s99-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 484,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s100",
+      "slug": "king-s100",
+      "name": "KING S100",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s100-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s100-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s100-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 485,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s101",
+      "slug": "king-s101",
+      "name": "KING S101",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s101-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s101-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s101-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 486,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s102",
+      "slug": "king-s102",
+      "name": "KING S102",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s102-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s102-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s102-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 487,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s103",
+      "slug": "king-s103",
+      "name": "KING S103",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s103-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s103-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s103-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 488,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s104",
+      "slug": "king-s104",
+      "name": "KING S104",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s104-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s104-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s104-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 996,
+      "featured": false,
+      "order": 489,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s105",
+      "slug": "king-s105",
+      "name": "KING S105",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s105-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s105-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s105-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 996,
+      "featured": false,
+      "order": 490,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s106",
+      "slug": "king-s106",
+      "name": "KING S106",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s106-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s106-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s106-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 996,
+      "featured": false,
+      "order": 491,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s107",
+      "slug": "king-s107",
+      "name": "KING S107",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s107-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s107-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s107-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 800,
+      "featured": false,
+      "order": 492,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s108",
+      "slug": "king-s108",
+      "name": "KING S108",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s108-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s108-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s108-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 800,
+      "featured": false,
+      "order": 493,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s109",
+      "slug": "king-s109",
+      "name": "KING S109",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s109-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s109-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s109-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 800,
+      "featured": false,
+      "order": 494,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s110",
+      "slug": "king-s110",
+      "name": "KING S110",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s110-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s110-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s110-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 495,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s111",
+      "slug": "king-s111",
+      "name": "KING S111",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s111-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s111-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s111-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 496,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s112",
+      "slug": "king-s112",
+      "name": "KING S112",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s112-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s112-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s112-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 497,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s113",
+      "slug": "king-s113",
+      "name": "KING S113",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s113-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s113-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s113-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 498,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s114",
+      "slug": "king-s114",
+      "name": "KING S114",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s114-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s114-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s114-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 499,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s115",
+      "slug": "king-s115",
+      "name": "KING S115",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s115-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s115-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s115-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 500,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s116",
+      "slug": "king-s116",
+      "name": "KING S116",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s116-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s116-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s116-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 501,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s117",
+      "slug": "king-s117",
+      "name": "KING S117",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s117-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s117-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s117-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 502,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s118",
+      "slug": "king-s118",
+      "name": "KING S118",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s118-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s118-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s118-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 503,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s119",
+      "slug": "king-s119",
+      "name": "KING S119",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s119-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s119-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s119-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 504,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s120",
+      "slug": "king-s120",
+      "name": "KING S120",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s120-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s120-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s120-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 505,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s121",
+      "slug": "king-s121",
+      "name": "KING S121",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s121-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s121-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s121-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 506,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s122",
+      "slug": "king-s122",
+      "name": "KING S122",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s122-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s122-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s122-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 507,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s123",
+      "slug": "king-s123",
+      "name": "KING S123",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s123-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s123-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s123-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 508,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s124",
+      "slug": "king-s124",
+      "name": "KING S124",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s124-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s124-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s124-01-t.jpg",
+      "heroW": 827,
+      "heroH": 1000,
+      "featured": false,
+      "order": 509,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s125",
+      "slug": "king-s125",
+      "name": "KING S125",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s125-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s125-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s125-01-t.jpg",
+      "heroW": 827,
+      "heroH": 1000,
+      "featured": false,
+      "order": 510,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s126",
+      "slug": "king-s126",
+      "name": "KING S126",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s126-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s126-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s126-01-t.jpg",
+      "heroW": 827,
+      "heroH": 1000,
+      "featured": false,
+      "order": 511,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s127",
+      "slug": "king-s127",
+      "name": "KING S127",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s127-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s127-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s127-01-t.jpg",
+      "heroW": 827,
+      "heroH": 1000,
+      "featured": false,
+      "order": 512,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s128",
+      "slug": "king-s128",
+      "name": "KING S128",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s128-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s128-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s128-01-t.jpg",
+      "heroW": 827,
+      "heroH": 1000,
+      "featured": false,
+      "order": 513,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s129",
+      "slug": "king-s129",
+      "name": "KING S129",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s129-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s129-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s129-01-t.jpg",
+      "heroW": 827,
+      "heroH": 1000,
+      "featured": false,
+      "order": 514,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s130",
+      "slug": "king-s130",
+      "name": "KING S130",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s130-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s130-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s130-01-t.jpg",
+      "heroW": 827,
+      "heroH": 1000,
+      "featured": false,
+      "order": 515,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s131",
+      "slug": "king-s131",
+      "name": "KING S131",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s131-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s131-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s131-01-t.jpg",
+      "heroW": 827,
+      "heroH": 1000,
+      "featured": false,
+      "order": 516,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s132",
+      "slug": "king-s132",
+      "name": "KING S132",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s132-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s132-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s132-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 517,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s133",
+      "slug": "king-s133",
+      "name": "KING S133",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s133-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s133-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s133-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 518,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s134",
+      "slug": "king-s134",
+      "name": "KING S134",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s134-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s134-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s134-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 519,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s135",
+      "slug": "king-s135",
+      "name": "KING S135",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s135-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s135-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s135-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 520,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s136",
+      "slug": "king-s136",
+      "name": "KING S136",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s136-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s136-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s136-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 521,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s137",
+      "slug": "king-s137",
+      "name": "KING S137",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s137-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s137-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s137-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 522,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s138",
+      "slug": "king-s138",
+      "name": "KING S138",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s138-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s138-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s138-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 523,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s139",
+      "slug": "king-s139",
+      "name": "KING S139",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s139-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s139-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s139-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 524,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s140",
+      "slug": "king-s140",
+      "name": "KING S140",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s140-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s140-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s140-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 525,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s141",
+      "slug": "king-s141",
+      "name": "KING S141",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s141-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s141-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s141-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 526,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s142",
+      "slug": "king-s142",
+      "name": "KING S142",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s142-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s142-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s142-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 527,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s143",
+      "slug": "king-s143",
+      "name": "KING S143",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s143-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s143-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s143-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 528,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s144",
+      "slug": "king-s144",
+      "name": "KING S144",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s144-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s144-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s144-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 529,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s145",
+      "slug": "king-s145",
+      "name": "KING S145",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s145-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s145-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s145-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 530,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s146",
+      "slug": "king-s146",
+      "name": "KING S146",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s146-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s146-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s146-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 531,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s147",
+      "slug": "king-s147",
+      "name": "KING S147",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s147-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s147-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s147-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 532,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s148",
+      "slug": "king-s148",
+      "name": "KING S148",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s148-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s148-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s148-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 533,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s149",
+      "slug": "king-s149",
+      "name": "KING S149",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s149-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s149-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s149-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 534,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s150",
+      "slug": "king-s150",
+      "name": "KING S150",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s150-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s150-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s150-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 535,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s151",
+      "slug": "king-s151",
+      "name": "KING S151",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s151-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s151-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s151-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 536,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s152",
+      "slug": "king-s152",
+      "name": "KING S152",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s152-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s152-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s152-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 537,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s153",
+      "slug": "king-s153",
+      "name": "KING S153",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s153-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s153-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s153-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 538,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s154",
+      "slug": "king-s154",
+      "name": "KING S154",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s154-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s154-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s154-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 539,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s155",
+      "slug": "king-s155",
+      "name": "KING S155",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s155-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s155-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s155-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 540,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s156",
+      "slug": "king-s156",
+      "name": "KING S156",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s156-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s156-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s156-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 541,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s157",
+      "slug": "king-s157",
+      "name": "KING S157",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s157-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s157-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s157-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 542,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s158",
+      "slug": "king-s158",
+      "name": "KING S158",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s158-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s158-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s158-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 543,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s159",
+      "slug": "king-s159",
+      "name": "KING S159",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s159-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s159-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s159-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 544,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s160",
+      "slug": "king-s160",
+      "name": "KING S160",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s160-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s160-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s160-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 545,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s161",
+      "slug": "king-s161",
+      "name": "KING S161",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s161-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s161-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s161-01-t.jpg",
+      "heroW": 823,
+      "heroH": 1000,
+      "featured": false,
+      "order": 546,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s162",
+      "slug": "king-s162",
+      "name": "KING S162",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s162-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s162-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s162-01-t.jpg",
+      "heroW": 823,
+      "heroH": 1000,
+      "featured": false,
+      "order": 547,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s163",
+      "slug": "king-s163",
+      "name": "KING S163",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s163-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s163-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s163-01-t.jpg",
+      "heroW": 823,
+      "heroH": 1000,
+      "featured": false,
+      "order": 548,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s164",
+      "slug": "king-s164",
+      "name": "KING S164",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s164-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s164-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s164-01-t.jpg",
+      "heroW": 826,
+      "heroH": 1000,
+      "featured": false,
+      "order": 549,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s165",
+      "slug": "king-s165",
+      "name": "KING S165",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s165-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s165-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s165-01-t.jpg",
+      "heroW": 826,
+      "heroH": 1000,
+      "featured": false,
+      "order": 550,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s166",
+      "slug": "king-s166",
+      "name": "KING S166",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s166-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s166-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s166-01-t.jpg",
+      "heroW": 823,
+      "heroH": 1000,
+      "featured": false,
+      "order": 551,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s167",
+      "slug": "king-s167",
+      "name": "KING S167",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s167-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s167-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s167-01-t.jpg",
+      "heroW": 823,
+      "heroH": 1000,
+      "featured": false,
+      "order": 552,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s168",
+      "slug": "king-s168",
+      "name": "KING S168",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s168-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s168-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s168-01-t.jpg",
+      "heroW": 823,
+      "heroH": 1000,
+      "featured": false,
+      "order": 553,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s169",
+      "slug": "king-s169",
+      "name": "KING S169",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s169-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s169-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s169-01-t.jpg",
+      "heroW": 823,
+      "heroH": 1000,
+      "featured": false,
+      "order": 554,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s170",
+      "slug": "king-s170",
+      "name": "KING S170",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s170-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s170-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s170-01-t.jpg",
+      "heroW": 826,
+      "heroH": 1000,
+      "featured": false,
+      "order": 555,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s171",
+      "slug": "king-s171",
+      "name": "KING S171",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s171-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s171-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s171-01-t.jpg",
+      "heroW": 826,
+      "heroH": 1000,
+      "featured": false,
+      "order": 556,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s172",
+      "slug": "king-s172",
+      "name": "KING S172",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s172-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s172-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s172-01-t.jpg",
+      "heroW": 826,
+      "heroH": 1000,
+      "featured": false,
+      "order": 557,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s173",
+      "slug": "king-s173",
+      "name": "KING S173",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s173-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s173-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s173-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 667,
+      "featured": false,
+      "order": 558,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s174",
+      "slug": "king-s174",
+      "name": "KING S174",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s174-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s174-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s174-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 664,
+      "featured": false,
+      "order": 559,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s175",
+      "slug": "king-s175",
+      "name": "KING S175",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s175-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s175-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s175-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 667,
+      "featured": false,
+      "order": 560,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s176",
+      "slug": "king-s176",
+      "name": "KING S176",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s176-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s176-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s176-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 667,
+      "featured": false,
+      "order": 561,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s177",
+      "slug": "king-s177",
+      "name": "KING S177",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s177-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s177-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s177-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 667,
+      "featured": false,
+      "order": 562,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s178",
+      "slug": "king-s178",
+      "name": "KING S178",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s178-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s178-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s178-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 667,
+      "featured": false,
+      "order": 563,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s179",
+      "slug": "king-s179",
+      "name": "KING S179",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s179-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s179-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s179-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 564,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s180",
+      "slug": "king-s180",
+      "name": "KING S180",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s180-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s180-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s180-01-t.jpg",
+      "heroW": 754,
+      "heroH": 1000,
+      "featured": false,
+      "order": 565,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s181",
+      "slug": "king-s181",
+      "name": "KING S181",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s181-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s181-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s181-01-t.jpg",
+      "heroW": 754,
+      "heroH": 1000,
+      "featured": false,
+      "order": 566,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s182",
+      "slug": "king-s182",
+      "name": "KING S182",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s182-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s182-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s182-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 567,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s183",
+      "slug": "king-s183",
+      "name": "KING S183",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s183-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s183-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s183-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 568,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s184",
+      "slug": "king-s184",
+      "name": "KING S184",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s184-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s184-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s184-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 569,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s185",
+      "slug": "king-s185",
+      "name": "KING S185",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s185-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s185-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s185-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 570,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s186",
+      "slug": "king-s186",
+      "name": "KING S186",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s186-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s186-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s186-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 571,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s187",
+      "slug": "king-s187",
+      "name": "KING S187",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s187-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s187-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s187-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 639,
+      "featured": false,
+      "order": 572,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s188",
+      "slug": "king-s188",
+      "name": "KING S188",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s188-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s188-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s188-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 642,
+      "featured": false,
+      "order": 573,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s189",
+      "slug": "king-s189",
+      "name": "KING S189",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s189-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s189-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s189-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 639,
+      "featured": false,
+      "order": 574,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s190",
+      "slug": "king-s190",
+      "name": "KING S190",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s190-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s190-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s190-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 571,
+      "featured": false,
+      "order": 575,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s191",
+      "slug": "king-s191",
+      "name": "KING S191",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s191-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s191-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s191-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 571,
+      "featured": false,
+      "order": 576,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s192",
+      "slug": "king-s192",
+      "name": "KING S192",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s192-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s192-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s192-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 571,
+      "featured": false,
+      "order": 577,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s193",
+      "slug": "king-s193",
+      "name": "KING S193",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s193-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s193-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s193-01-t.jpg",
+      "heroW": 853,
+      "heroH": 1000,
+      "featured": false,
+      "order": 578,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s194",
+      "slug": "king-s194",
+      "name": "KING S194",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s194-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s194-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s194-01-t.jpg",
+      "heroW": 853,
+      "heroH": 1000,
+      "featured": false,
+      "order": 579,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s195",
+      "slug": "king-s195",
+      "name": "KING S195",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s195-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s195-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s195-01-t.jpg",
+      "heroW": 853,
+      "heroH": 1000,
+      "featured": false,
+      "order": 580,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s196",
+      "slug": "king-s196",
+      "name": "KING S196",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s196-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s196-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s196-01-t.jpg",
+      "heroW": 853,
+      "heroH": 1000,
+      "featured": false,
+      "order": 581,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s197",
+      "slug": "king-s197",
+      "name": "KING S197",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s197-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s197-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s197-01-t.jpg",
+      "heroW": 853,
+      "heroH": 1000,
+      "featured": false,
+      "order": 582,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s198",
+      "slug": "king-s198",
+      "name": "KING S198",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s198-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s198-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s198-01-t.jpg",
+      "heroW": 853,
+      "heroH": 1000,
+      "featured": false,
+      "order": 583,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s199",
+      "slug": "king-s199",
+      "name": "KING S199",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s199-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s199-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s199-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 674,
+      "featured": false,
+      "order": 584,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s200",
+      "slug": "king-s200",
+      "name": "KING S200",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s200-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s200-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s200-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 674,
+      "featured": false,
+      "order": 585,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s201",
+      "slug": "king-s201",
+      "name": "KING S201",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s201-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s201-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s201-01-t.jpg",
+      "heroW": 850,
+      "heroH": 1000,
+      "featured": false,
+      "order": 586,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s202",
+      "slug": "king-s202",
+      "name": "KING S202",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s202-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s202-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s202-01-t.jpg",
+      "heroW": 850,
+      "heroH": 1000,
+      "featured": false,
+      "order": 587,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s203",
+      "slug": "king-s203",
+      "name": "KING S203",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s203-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s203-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s203-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 674,
+      "featured": false,
+      "order": 588,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s204",
+      "slug": "king-s204",
+      "name": "KING S204",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s204-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s204-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s204-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 674,
+      "featured": false,
+      "order": 589,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s205",
+      "slug": "king-s205",
+      "name": "KING S205",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s205-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s205-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s205-01-t.jpg",
+      "heroW": 875,
+      "heroH": 1000,
+      "featured": false,
+      "order": 590,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s206",
+      "slug": "king-s206",
+      "name": "KING S206",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s206-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s206-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s206-01-t.jpg",
+      "heroW": 875,
+      "heroH": 1000,
+      "featured": false,
+      "order": 591,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s207",
+      "slug": "king-s207",
+      "name": "KING S207",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s207-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s207-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s207-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 592,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s208",
+      "slug": "king-s208",
+      "name": "KING S208",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s208-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s208-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s208-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 593,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s209",
+      "slug": "king-s209",
+      "name": "KING S209",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s209-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s209-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s209-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 594,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s210",
+      "slug": "king-s210",
+      "name": "KING S210",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s210-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s210-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s210-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 595,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s211",
+      "slug": "king-s211",
+      "name": "KING S211",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s211-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s211-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s211-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 596,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s212",
+      "slug": "king-s212",
+      "name": "KING S212",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s212-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s212-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s212-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 597,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s213",
+      "slug": "king-s213",
+      "name": "KING S213",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s213-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s213-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s213-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 598,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s214",
+      "slug": "king-s214",
+      "name": "KING S214",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s214-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s214-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s214-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 599,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s215",
+      "slug": "king-s215",
+      "name": "KING S215",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s215-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s215-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s215-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 600,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s216",
+      "slug": "king-s216",
+      "name": "KING S216",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s216-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s216-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s216-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 601,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s217",
+      "slug": "king-s217",
+      "name": "KING S217",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s217-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s217-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s217-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 602,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
+    },
+    {
+      "id": "king-s218",
+      "slug": "king-s218",
+      "name": "KING S218",
+      "category": "sofas",
+      "collection": "",
+      "subtitle": "Диван",
+      "intro": "Диван",
+      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/sofas/king-s218-01.jpg"
+      ],
+      "heroImage": "/images/catalog/sofas/king-s218-01.jpg",
+      "heroThumb": "/images/catalog/sofas/king-s218-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 603,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Диван"
+        }
+      ]
     }
   ]
 }
