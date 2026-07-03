@@ -119,14 +119,13 @@ export default async function ProductPage({ params }: ProductPageProps) {
             <div className="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
               {related.map((item) => (
                 <Link key={item.slug} href={`/products/${item.slug}`} className="group block" data-luxury-reveal>
-                  <div className="overflow-hidden bg-[#efeae2]">
+                  <div className="relative aspect-[4/5] overflow-hidden bg-[#efeae2]">
                     <Image
                       src={assetPath(item.heroThumb || item.heroImage)}
                       alt={item.subtitle || item.name}
-                      width={item.heroW}
-                      height={item.heroH}
+                      fill
                       sizes="(min-width: 1024px) 22vw, (min-width: 640px) 45vw, 100vw"
-                      className="h-auto w-full transition-transform duration-[1400ms] ease-luxury group-hover:scale-[1.03]"
+                      className="object-contain transition-transform duration-[1400ms] ease-luxury group-hover:scale-[1.03]"
                     />
                   </div>
                   <div className="pt-4">
