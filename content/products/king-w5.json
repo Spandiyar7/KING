@@ -2,8 +2,8 @@
   "name": "KING W5",
   "category": "wardrobes",
   "collection": "",
-  "subtitle": "Гардеробная по индивидуальному проекту",
-  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "subtitle": "Гардеробная с распашными и стеклянными шкафами",
+  "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
   "material": "",
   "softness": "",
   "color": "",
@@ -14,10 +14,8 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 204,
+  "order": 304,
   "images": [
-    "/images/catalog/wardrobes/king-w5-01.jpg",
-    "/images/catalog/wardrobes/king-w5-02.jpg",
-    "/images/catalog/wardrobes/king-w5-03.jpg"
+    "/images/catalog/wardrobes/king-w5-01.jpg"
   ]
 }

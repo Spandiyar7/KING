@@ -2,8 +2,8 @@
   "name": "KING W3",
   "category": "wardrobes",
   "collection": "",
-  "subtitle": "Гардеробная по индивидуальному проекту",
-  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "subtitle": "Гардеробная с деревянным островом-комодом",
+  "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
   "material": "",
   "softness": "",
   "color": "",
@@ -14,11 +14,8 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 202,
+  "order": 302,
   "images": [
-    "/images/catalog/wardrobes/king-w3-01.jpg",
-    "/images/catalog/wardrobes/king-w3-02.jpg",
-    "/images/catalog/wardrobes/king-w3-03.jpg",
-    "/images/catalog/wardrobes/king-w3-04.jpg"
+    "/images/catalog/wardrobes/king-w3-01.jpg"
   ]
 }

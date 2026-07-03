@@ -2,8 +2,8 @@
   "name": "KING W7",
   "category": "wardrobes",
   "collection": "",
-  "subtitle": "Гардеробная по индивидуальному проекту",
-  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "subtitle": "Симметричная гардеробная с зеркалом и туалетным столиком",
+  "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
   "material": "",
   "softness": "",
   "color": "",
@@ -14,11 +14,8 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 206,
+  "order": 306,
   "images": [
-    "/images/catalog/wardrobes/king-w7-01.jpg",
-    "/images/catalog/wardrobes/king-w7-02.jpg",
-    "/images/catalog/wardrobes/king-w7-03.jpg",
-    "/images/catalog/wardrobes/king-w7-04.jpg"
+    "/images/catalog/wardrobes/king-w7-01.jpg"
   ]
 }

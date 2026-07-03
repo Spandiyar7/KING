@@ -2465,14 +2465,14 @@
       ]
     },
     {
-      "id": "king-c4",
-      "slug": "king-c4",
-      "name": "KING C4",
+      "id": "king-a1",
+      "slug": "king-a1",
+      "name": "KING A1",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло-шезлонг из букле на деревянном основании",
+      "intro": "Кресло-шезлонг из букле на деревянном основании",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2484,10 +2484,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c4-01.jpg"
+        "/images/catalog/armchairs/king-a1-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c4-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c4-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a1-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a1-01-t.jpg",
       "featured": false,
       "order": 60,
       "shortSpecs": [],
@@ -2499,14 +2499,14 @@
       ]
     },
     {
-      "id": "king-c5",
-      "slug": "king-c5",
-      "name": "KING C5",
+      "id": "king-a2",
+      "slug": "king-a2",
+      "name": "KING A2",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кожаное кресло карамельного цвета",
+      "intro": "Кожаное кресло карамельного цвета",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2518,10 +2518,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c5-01.jpg"
+        "/images/catalog/armchairs/king-a2-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c5-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c5-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a2-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a2-01-t.jpg",
       "featured": false,
       "order": 61,
       "shortSpecs": [],
@@ -2533,14 +2533,14 @@
       ]
     },
     {
-      "id": "king-c6",
-      "slug": "king-c6",
-      "name": "KING C6",
+      "id": "king-a3",
+      "slug": "king-a3",
+      "name": "KING A3",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло на деревянном каркасе с фисташковыми подушками",
+      "intro": "Кресло на деревянном каркасе с фисташковыми подушками",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2552,10 +2552,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c6-01.jpg"
+        "/images/catalog/armchairs/king-a3-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c6-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c6-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a3-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a3-01-t.jpg",
       "featured": false,
       "order": 62,
       "shortSpecs": [],
@@ -2567,14 +2567,14 @@
       ]
     },
     {
-      "id": "king-c7",
-      "slug": "king-c7",
-      "name": "KING C7",
+      "id": "king-a4",
+      "slug": "king-a4",
+      "name": "KING A4",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Скульптурное велюровое кресло цвета какао",
+      "intro": "Скульптурное велюровое кресло цвета какао",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2586,10 +2586,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c7-01.jpg"
+        "/images/catalog/armchairs/king-a4-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c7-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c7-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a4-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a4-01-t.jpg",
       "featured": false,
       "order": 63,
       "shortSpecs": [],
@@ -2601,14 +2601,14 @@
       ]
     },
     {
-      "id": "king-c8",
-      "slug": "king-c8",
-      "name": "KING C8",
+      "id": "king-a5",
+      "slug": "king-a5",
+      "name": "KING A5",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Круглое кресло с анималистичным принтом",
+      "intro": "Круглое кресло с анималистичным принтом",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2620,10 +2620,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c8-01.jpg"
+        "/images/catalog/armchairs/king-a5-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c8-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c8-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a5-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a5-01-t.jpg",
       "featured": false,
       "order": 64,
       "shortSpecs": [],
@@ -2635,14 +2635,14 @@
       ]
     },
     {
-      "id": "king-c9",
-      "slug": "king-c9",
-      "name": "KING C9",
+      "id": "king-a6",
+      "slug": "king-a6",
+      "name": "KING A6",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Поворотное кресло из букле с золотым узором",
+      "intro": "Поворотное кресло из букле с золотым узором",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2654,10 +2654,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c9-01.jpg"
+        "/images/catalog/armchairs/king-a6-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c9-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c9-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a6-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a6-01-t.jpg",
       "featured": false,
       "order": 65,
       "shortSpecs": [],
@@ -2669,14 +2669,14 @@
       ]
     },
     {
-      "id": "king-c10",
-      "slug": "king-c10",
-      "name": "KING C10",
+      "id": "king-a7",
+      "slug": "king-a7",
+      "name": "KING A7",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло с принтом «леопарды»",
+      "intro": "Кресло с принтом «леопарды»",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2688,10 +2688,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c10-01.jpg"
+        "/images/catalog/armchairs/king-a7-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c10-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c10-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a7-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a7-01-t.jpg",
       "featured": false,
       "order": 66,
       "shortSpecs": [],
@@ -2703,14 +2703,14 @@
       ]
     },
     {
-      "id": "king-c11",
-      "slug": "king-c11",
-      "name": "KING C11",
+      "id": "king-a8",
+      "slug": "king-a8",
+      "name": "KING A8",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Волнообразное кресло на круглом основании",
+      "intro": "Волнообразное кресло на круглом основании",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2722,10 +2722,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c11-01.jpg"
+        "/images/catalog/armchairs/king-a8-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c11-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c11-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a8-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a8-01-t.jpg",
       "featured": false,
       "order": 67,
       "shortSpecs": [],
@@ -2737,14 +2737,14 @@
       ]
     },
     {
-      "id": "king-c12",
-      "slug": "king-c12",
-      "name": "KING C12",
+      "id": "king-a9",
+      "slug": "king-a9",
+      "name": "KING A9",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Низкое кресло из рогожки",
+      "intro": "Низкое кресло из рогожки",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2756,10 +2756,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c12-01.jpg"
+        "/images/catalog/armchairs/king-a9-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c12-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c12-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a9-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a9-01-t.jpg",
       "featured": false,
       "order": 68,
       "shortSpecs": [],
@@ -2771,14 +2771,14 @@
       ]
     },
     {
-      "id": "king-c13",
-      "slug": "king-c13",
-      "name": "KING C13",
+      "id": "king-a10",
+      "slug": "king-a10",
+      "name": "KING A10",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло букле у туалетного столика",
+      "intro": "Кресло букле у туалетного столика",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2790,10 +2790,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c13-01.jpg"
+        "/images/catalog/armchairs/king-a10-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c13-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c13-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a10-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a10-01-t.jpg",
       "featured": false,
       "order": 69,
       "shortSpecs": [],
@@ -2805,14 +2805,14 @@
       ]
     },
     {
-      "id": "king-c14",
-      "slug": "king-c14",
-      "name": "KING C14",
+      "id": "king-a11",
+      "slug": "king-a11",
+      "name": "KING A11",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Круглое кресло букле, коричневое",
+      "intro": "Круглое кресло букле, коричневое",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2824,10 +2824,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c14-01.jpg"
+        "/images/catalog/armchairs/king-a11-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c14-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c14-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a11-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a11-01-t.jpg",
       "featured": false,
       "order": 70,
       "shortSpecs": [],
@@ -2839,14 +2839,14 @@
       ]
     },
     {
-      "id": "king-c15",
-      "slug": "king-c15",
-      "name": "KING C15",
+      "id": "king-a12",
+      "slug": "king-a12",
+      "name": "KING A12",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Белое поворотное кресло букле",
+      "intro": "Белое поворотное кресло букле",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2858,10 +2858,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c15-01.jpg"
+        "/images/catalog/armchairs/king-a12-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c15-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c15-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a12-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a12-01-t.jpg",
       "featured": false,
       "order": 71,
       "shortSpecs": [],
@@ -2873,14 +2873,14 @@
       ]
     },
     {
-      "id": "king-c16",
-      "slug": "king-c16",
-      "name": "KING C16",
+      "id": "king-a13",
+      "slug": "king-a13",
+      "name": "KING A13",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло букле с подушкой, светлое",
+      "intro": "Кресло букле с подушкой, светлое",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2892,10 +2892,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c16-01.jpg"
+        "/images/catalog/armchairs/king-a13-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c16-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c16-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a13-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a13-01-t.jpg",
       "featured": false,
       "order": 72,
       "shortSpecs": [],
@@ -2907,14 +2907,14 @@
       ]
     },
     {
-      "id": "king-c17",
-      "slug": "king-c17",
-      "name": "KING C17",
+      "id": "king-a14",
+      "slug": "king-a14",
+      "name": "KING A14",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло букле оливковое",
+      "intro": "Кресло букле оливковое",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2926,13 +2926,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c17-01.jpg",
-        "/images/catalog/armchairs/king-c17-02.jpg",
-        "/images/catalog/armchairs/king-c17-03.jpg",
-        "/images/catalog/armchairs/king-c17-04.jpg"
+        "/images/catalog/armchairs/king-a14-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c17-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c17-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a14-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a14-01-t.jpg",
       "featured": false,
       "order": 73,
       "shortSpecs": [],
@@ -2944,14 +2941,14 @@
       ]
     },
     {
-      "id": "king-c18",
-      "slug": "king-c18",
-      "name": "KING C18",
+      "id": "king-a15",
+      "slug": "king-a15",
+      "name": "KING A15",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло букле на туалетном столике",
+      "intro": "Кресло букле на туалетном столике",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2963,11 +2960,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c18-01.jpg",
-        "/images/catalog/armchairs/king-c18-02.jpg"
+        "/images/catalog/armchairs/king-a15-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c18-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c18-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a15-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a15-01-t.jpg",
       "featured": false,
       "order": 74,
       "shortSpecs": [],
@@ -2979,14 +2975,14 @@
       ]
     },
     {
-      "id": "king-c19",
-      "slug": "king-c19",
-      "name": "KING C19",
+      "id": "king-a16",
+      "slug": "king-a16",
+      "name": "KING A16",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Мягкое кресло букле бежевое",
+      "intro": "Мягкое кресло букле бежевое",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -2998,10 +2994,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c19-01.jpg"
+        "/images/catalog/armchairs/king-a16-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c19-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c19-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a16-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a16-01-t.jpg",
       "featured": false,
       "order": 75,
       "shortSpecs": [],
@@ -3013,14 +3009,14 @@
       ]
     },
     {
-      "id": "king-c20",
-      "slug": "king-c20",
-      "name": "KING C20",
+      "id": "king-a17",
+      "slug": "king-a17",
+      "name": "KING A17",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло с оттоманкой, коричневый велюр",
+      "intro": "Кресло с оттоманкой, коричневый велюр",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -3032,10 +3028,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c20-01.jpg"
+        "/images/catalog/armchairs/king-a17-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c20-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c20-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a17-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a17-01-t.jpg",
       "featured": false,
       "order": 76,
       "shortSpecs": [],
@@ -3047,14 +3043,14 @@
       ]
     },
     {
-      "id": "king-c21",
-      "slug": "king-c21",
-      "name": "KING C21",
+      "id": "king-a18",
+      "slug": "king-a18",
+      "name": "KING A18",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло на деревянном каркасе, бежевый букле",
+      "intro": "Кресло на деревянном каркасе, бежевый букле",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -3066,10 +3062,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c21-01.jpg"
+        "/images/catalog/armchairs/king-a18-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c21-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c21-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a18-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a18-01-t.jpg",
       "featured": false,
       "order": 77,
       "shortSpecs": [],
@@ -3081,14 +3077,14 @@
       ]
     },
     {
-      "id": "king-c22",
-      "slug": "king-c22",
-      "name": "KING C22",
+      "id": "king-a19",
+      "slug": "king-a19",
+      "name": "KING A19",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло букле с деревянными подлокотниками",
+      "intro": "Кресло букле с деревянными подлокотниками",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -3100,14 +3096,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c22-01.jpg",
-        "/images/catalog/armchairs/king-c22-02.jpg",
-        "/images/catalog/armchairs/king-c22-03.jpg",
-        "/images/catalog/armchairs/king-c22-04.jpg",
-        "/images/catalog/armchairs/king-c22-05.jpg"
+        "/images/catalog/armchairs/king-a19-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c22-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c22-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a19-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a19-01-t.jpg",
       "featured": false,
       "order": 78,
       "shortSpecs": [],
@@ -3119,14 +3111,14 @@
       ]
     },
     {
-      "id": "king-c23",
-      "slug": "king-c23",
-      "name": "KING C23",
+      "id": "king-a20",
+      "slug": "king-a20",
+      "name": "KING A20",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Кресло на металлической опоре, зелёный текстиль",
+      "intro": "Кресло на металлической опоре, зелёный текстиль",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -3138,10 +3130,10 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c23-01.jpg"
+        "/images/catalog/armchairs/king-a20-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c23-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c23-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a20-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a20-01-t.jpg",
       "featured": false,
       "order": 79,
       "shortSpecs": [],
@@ -3153,14 +3145,14 @@
       ]
     },
     {
-      "id": "king-c24",
-      "slug": "king-c24",
-      "name": "KING C24",
+      "id": "king-a21",
+      "slug": "king-a21",
+      "name": "KING A21",
       "category": "armchairs",
       "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
+      "subtitle": "Мягкое кресло с фактурной обивк( сотовый узор)",
+      "intro": "Мягкое кресло с фактурной обивк( сотовый узор)",
+      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани и выразительный силуэт. Изготовим в вашей ткани и размере.",
       "color": "",
       "tone": "",
       "material": "",
@@ -3172,707 +3164,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/armchairs/king-c24-01.jpg"
+        "/images/catalog/armchairs/king-a21-01.jpg"
       ],
-      "heroImage": "/images/catalog/armchairs/king-c24-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c24-01-t.jpg",
+      "heroImage": "/images/catalog/armchairs/king-a21-01.jpg",
+      "heroThumb": "/images/catalog/armchairs/king-a21-01-t.jpg",
       "featured": false,
       "order": 80,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c25",
-      "slug": "king-c25",
-      "name": "KING C25",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c25-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c25-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c25-01-t.jpg",
-      "featured": false,
-      "order": 81,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c26",
-      "slug": "king-c26",
-      "name": "KING C26",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c26-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c26-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c26-01-t.jpg",
-      "featured": false,
-      "order": 82,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c27",
-      "slug": "king-c27",
-      "name": "KING C27",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c27-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c27-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c27-01-t.jpg",
-      "featured": false,
-      "order": 83,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c28",
-      "slug": "king-c28",
-      "name": "KING C28",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c28-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c28-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c28-01-t.jpg",
-      "featured": false,
-      "order": 84,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c29",
-      "slug": "king-c29",
-      "name": "KING C29",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c29-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c29-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c29-01-t.jpg",
-      "featured": false,
-      "order": 85,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c30",
-      "slug": "king-c30",
-      "name": "KING C30",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c30-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c30-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c30-01-t.jpg",
-      "featured": false,
-      "order": 86,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c31",
-      "slug": "king-c31",
-      "name": "KING C31",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c31-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c31-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c31-01-t.jpg",
-      "featured": false,
-      "order": 87,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c32",
-      "slug": "king-c32",
-      "name": "KING C32",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c32-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c32-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c32-01-t.jpg",
-      "featured": false,
-      "order": 88,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c33",
-      "slug": "king-c33",
-      "name": "KING C33",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c33-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c33-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c33-01-t.jpg",
-      "featured": false,
-      "order": 89,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c34",
-      "slug": "king-c34",
-      "name": "KING C34",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c34-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c34-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c34-01-t.jpg",
-      "featured": false,
-      "order": 90,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c35",
-      "slug": "king-c35",
-      "name": "KING C35",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c35-01.jpg",
-        "/images/catalog/armchairs/king-c35-02.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c35-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c35-01-t.jpg",
-      "featured": false,
-      "order": 91,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c36",
-      "slug": "king-c36",
-      "name": "KING C36",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c36-01.jpg",
-        "/images/catalog/armchairs/king-c36-02.jpg",
-        "/images/catalog/armchairs/king-c36-03.jpg",
-        "/images/catalog/armchairs/king-c36-04.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c36-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c36-01-t.jpg",
-      "featured": false,
-      "order": 92,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c37",
-      "slug": "king-c37",
-      "name": "KING C37",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c37-01.jpg",
-        "/images/catalog/armchairs/king-c37-02.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c37-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c37-01-t.jpg",
-      "featured": false,
-      "order": 93,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c38",
-      "slug": "king-c38",
-      "name": "KING C38",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c38-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c38-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c38-01-t.jpg",
-      "featured": false,
-      "order": 94,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c39",
-      "slug": "king-c39",
-      "name": "KING C39",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c39-01.jpg",
-        "/images/catalog/armchairs/king-c39-02.jpg",
-        "/images/catalog/armchairs/king-c39-03.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c39-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c39-01-t.jpg",
-      "featured": false,
-      "order": 95,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c40",
-      "slug": "king-c40",
-      "name": "KING C40",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c40-01.jpg",
-        "/images/catalog/armchairs/king-c40-02.jpg",
-        "/images/catalog/armchairs/king-c40-03.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c40-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c40-01-t.jpg",
-      "featured": false,
-      "order": 96,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c41",
-      "slug": "king-c41",
-      "name": "KING C41",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c41-01.jpg",
-        "/images/catalog/armchairs/king-c41-02.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c41-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c41-01-t.jpg",
-      "featured": false,
-      "order": 97,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c42",
-      "slug": "king-c42",
-      "name": "KING C42",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c42-01.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c42-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c42-01-t.jpg",
-      "featured": false,
-      "order": 98,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c43",
-      "slug": "king-c43",
-      "name": "KING C43",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c43-01.jpg",
-        "/images/catalog/armchairs/king-c43-02.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c43-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c43-01-t.jpg",
-      "featured": false,
-      "order": 99,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
-      "id": "king-c44",
-      "slug": "king-c44",
-      "name": "KING C44",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c44-01.jpg",
-        "/images/catalog/armchairs/king-c44-02.jpg",
-        "/images/catalog/armchairs/king-c44-03.jpg",
-        "/images/catalog/armchairs/king-c44-04.jpg",
-        "/images/catalog/armchairs/king-c44-05.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c44-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c44-01-t.jpg",
-      "featured": false,
-      "order": 100,
       "shortSpecs": [],
       "specifications": [
         {
@@ -3887,9 +3184,9 @@
       "name": "KING P1",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф с узором на деревянном основании",
+      "intro": "Пуф с узором на деревянном основании",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -3901,8 +3198,7 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/poufs/king-p1-01.jpg",
-        "/images/catalog/poufs/king-p1-02.jpg"
+        "/images/catalog/poufs/king-p1-01.jpg"
       ],
       "heroImage": "/images/catalog/poufs/king-p1-01.jpg",
       "heroThumb": "/images/catalog/poufs/king-p1-01-t.jpg",
@@ -3917,52 +3213,14 @@
       ]
     },
     {
-      "id": "king-c45",
-      "slug": "king-c45",
-      "name": "KING C45",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c45-01.jpg",
-        "/images/catalog/armchairs/king-c45-02.jpg",
-        "/images/catalog/armchairs/king-c45-03.jpg",
-        "/images/catalog/armchairs/king-c45-04.jpg",
-        "/images/catalog/armchairs/king-c45-05.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c45-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c45-01-t.jpg",
-      "featured": false,
-      "order": 101,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
       "id": "king-p2",
       "slug": "king-p2",
       "name": "KING P2",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф круглый с деревянным корпусом и кожаным верхом",
+      "intro": "Пуф круглый с деревянным корпусом и кожаным верхом",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -3989,50 +3247,14 @@
       ]
     },
     {
-      "id": "king-c46",
-      "slug": "king-c46",
-      "name": "KING C46",
-      "category": "armchairs",
-      "collection": "",
-      "subtitle": "Дизайнерское кресло",
-      "intro": "Дизайнерское кресло",
-      "description": "Дизайнерское кресло KING ATELIER: премиальные ткани, плотная посадка и выразительный силуэт. Изготовим в вашем размере и ткани.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/armchairs/king-c46-01.jpg",
-        "/images/catalog/armchairs/king-c46-02.jpg",
-        "/images/catalog/armchairs/king-c46-03.jpg"
-      ],
-      "heroImage": "/images/catalog/armchairs/king-c46-01.jpg",
-      "heroThumb": "/images/catalog/armchairs/king-c46-01-t.jpg",
-      "featured": false,
-      "order": 102,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кресло"
-        }
-      ]
-    },
-    {
       "id": "king-p3",
       "slug": "king-p3",
       "name": "KING P3",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф круглый с деревянным основанием",
+      "intro": "Пуф круглый с деревянным основанием",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4064,9 +3286,9 @@
       "name": "KING P4",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф на деревянных ножках-дугах",
+      "intro": "Пуф на деревянных ножках-дугах",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4098,9 +3320,9 @@
       "name": "KING P5",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф из букле на деревянном основании",
+      "intro": "Пуф из букле на деревянном основании",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4132,9 +3354,9 @@
       "name": "KING P6",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф шестигранный с узором",
+      "intro": "Пуф шестигранный с узором",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4166,9 +3388,9 @@
       "name": "KING P7",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф с цветочным узором на шарообразных ножках",
+      "intro": "Пуф с цветочным узором на шарообразных ножках",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4200,9 +3422,9 @@
       "name": "KING P8",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф круглый с рельефным узором",
+      "intro": "Пуф круглый с рельефным узором",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4234,9 +3456,9 @@
       "name": "KING P9",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф с орнаментальным верхом и кожаным корпусом",
+      "intro": "Пуф с орнаментальным верхом и кожаным корпусом",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4268,9 +3490,9 @@
       "name": "KING P10",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф с зеркальным основанием",
+      "intro": "Пуф с зеркальным основанием",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4302,9 +3524,9 @@
       "name": "KING P11",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф в графическом принте",
+      "intro": "Пуф в графическом принте",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4336,9 +3558,9 @@
       "name": "KING P12",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф с сине-бежевым узором",
+      "intro": "Пуф с сине-бежевым узором",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4370,9 +3592,9 @@
       "name": "KING P13",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф круглый с деревянным основанием",
+      "intro": "Пуф круглый с деревянным основанием",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4404,9 +3626,9 @@
       "name": "KING P14",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф меховой круглый на металлической ножке",
+      "intro": "Пуф меховой круглый на металлической ножке",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4438,9 +3660,9 @@
       "name": "KING P15",
       "category": "poufs",
       "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+      "subtitle": "Пуф прямоугольный велюровый",
+      "intro": "Пуф прямоугольный велюровый",
+      "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4467,326 +3689,14 @@
       ]
     },
     {
-      "id": "king-p16",
-      "slug": "king-p16",
-      "name": "KING P16",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p16-01.jpg",
-        "/images/catalog/poufs/king-p16-02.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p16-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p16-01-t.jpg",
-      "featured": false,
-      "order": 115,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
-      "id": "king-p17",
-      "slug": "king-p17",
-      "name": "KING P17",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p17-01.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p17-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p17-01-t.jpg",
-      "featured": false,
-      "order": 116,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
-      "id": "king-p18",
-      "slug": "king-p18",
-      "name": "KING P18",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p18-01.jpg",
-        "/images/catalog/poufs/king-p18-02.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p18-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p18-01-t.jpg",
-      "featured": false,
-      "order": 117,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
-      "id": "king-p19",
-      "slug": "king-p19",
-      "name": "KING P19",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p19-01.jpg",
-        "/images/catalog/poufs/king-p19-02.jpg",
-        "/images/catalog/poufs/king-p19-03.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p19-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p19-01-t.jpg",
-      "featured": false,
-      "order": 118,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
-      "id": "king-p20",
-      "slug": "king-p20",
-      "name": "KING P20",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p20-01.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p20-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p20-01-t.jpg",
-      "featured": false,
-      "order": 119,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
-      "id": "king-p21",
-      "slug": "king-p21",
-      "name": "KING P21",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p21-01.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p21-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p21-01-t.jpg",
-      "featured": false,
-      "order": 120,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
-      "id": "king-p22",
-      "slug": "king-p22",
-      "name": "KING P22",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p22-01.jpg",
-        "/images/catalog/poufs/king-p22-02.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p22-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p22-01-t.jpg",
-      "featured": false,
-      "order": 121,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
-      "id": "king-p23",
-      "slug": "king-p23",
-      "name": "KING P23",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p23-01.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p23-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p23-01-t.jpg",
-      "featured": false,
-      "order": 122,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
-      "id": "king-p24",
-      "slug": "king-p24",
-      "name": "KING P24",
-      "category": "poufs",
-      "collection": "",
-      "subtitle": "Дизайнерский пуф",
-      "intro": "Дизайнерский пуф",
-      "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/poufs/king-p24-01.jpg",
-        "/images/catalog/poufs/king-p24-02.jpg"
-      ],
-      "heroImage": "/images/catalog/poufs/king-p24-01.jpg",
-      "heroThumb": "/images/catalog/poufs/king-p24-01-t.jpg",
-      "featured": false,
-      "order": 123,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Пуф"
-        }
-      ]
-    },
-    {
       "id": "king-bq1",
       "slug": "king-bq1",
       "name": "KING BQ1",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка на деревянном основании с валиком",
+      "intro": "Банкетка на деревянном основании с валиком",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4798,13 +3708,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/benches/king-bq1-01.jpg",
-        "/images/catalog/benches/king-bq1-02.jpg"
+        "/images/catalog/benches/king-bq1-01.jpg"
       ],
       "heroImage": "/images/catalog/benches/king-bq1-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq1-01-t.jpg",
       "featured": false,
-      "order": 140,
+      "order": 200,
       "shortSpecs": [],
       "specifications": [
         {
@@ -4819,9 +3728,9 @@
       "name": "KING BQ2",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка из букле на деревянных ножках",
+      "intro": "Банкетка из букле на деревянных ножках",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4838,7 +3747,7 @@
       "heroImage": "/images/catalog/benches/king-bq2-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq2-01-t.jpg",
       "featured": false,
-      "order": 141,
+      "order": 201,
       "shortSpecs": [],
       "specifications": [
         {
@@ -4853,9 +3762,9 @@
       "name": "KING BQ3",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с боковыми валиками и деревянными опорами",
+      "intro": "Банкетка с боковыми валиками и деревянными опорами",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4872,7 +3781,7 @@
       "heroImage": "/images/catalog/benches/king-bq3-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq3-01-t.jpg",
       "featured": false,
-      "order": 142,
+      "order": 202,
       "shortSpecs": [],
       "specifications": [
         {
@@ -4887,9 +3796,9 @@
       "name": "KING BQ4",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка в ёлочку с деревянной перекладиной",
+      "intro": "Банкетка в ёлочку с деревянной перекладиной",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4906,7 +3815,7 @@
       "heroImage": "/images/catalog/benches/king-bq4-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq4-01-t.jpg",
       "featured": false,
-      "order": 143,
+      "order": 203,
       "shortSpecs": [],
       "specifications": [
         {
@@ -4921,9 +3830,9 @@
       "name": "KING BQ5",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка из букле на деревянном подстолье",
+      "intro": "Банкетка из букле на деревянном подстолье",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4940,7 +3849,7 @@
       "heroImage": "/images/catalog/benches/king-bq5-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq5-01-t.jpg",
       "featured": false,
-      "order": 144,
+      "order": 204,
       "shortSpecs": [],
       "specifications": [
         {
@@ -4955,9 +3864,9 @@
       "name": "KING BQ6",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с изогнутыми подлокотниками, велюр",
+      "intro": "Банкетка с изогнутыми подлокотниками, велюр",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -4974,7 +3883,7 @@
       "heroImage": "/images/catalog/benches/king-bq6-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq6-01-t.jpg",
       "featured": false,
-      "order": 145,
+      "order": 205,
       "shortSpecs": [],
       "specifications": [
         {
@@ -4989,9 +3898,9 @@
       "name": "KING BQ7",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка из букле на массивных опорах",
+      "intro": "Банкетка из букле на массивных опорах",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5008,7 +3917,7 @@
       "heroImage": "/images/catalog/benches/king-bq7-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq7-01-t.jpg",
       "featured": false,
-      "order": 146,
+      "order": 206,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5023,9 +3932,9 @@
       "name": "KING BQ8",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка из букле на двух опорах",
+      "intro": "Банкетка из букле на двух опорах",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5042,7 +3951,7 @@
       "heroImage": "/images/catalog/benches/king-bq8-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq8-01-t.jpg",
       "featured": false,
-      "order": 147,
+      "order": 207,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5057,9 +3966,9 @@
       "name": "KING BQ9",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка терракотовая с драпировкой",
+      "intro": "Банкетка терракотовая с драпировкой",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5076,7 +3985,7 @@
       "heroImage": "/images/catalog/benches/king-bq9-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq9-01-t.jpg",
       "featured": false,
-      "order": 148,
+      "order": 208,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5091,9 +4000,9 @@
       "name": "KING BQ10",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка велюровая на устойчивых ножках",
+      "intro": "Банкетка велюровая на устойчивых ножках",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5110,7 +4019,7 @@
       "heroImage": "/images/catalog/benches/king-bq10-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq10-01-t.jpg",
       "featured": false,
-      "order": 149,
+      "order": 209,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5125,9 +4034,9 @@
       "name": "KING BQ11",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с изогнутыми ножками, бордовая",
+      "intro": "Банкетка с изогнутыми ножками, бордовая",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5139,13 +4048,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/benches/king-bq11-01.jpg",
-        "/images/catalog/benches/king-bq11-02.jpg"
+        "/images/catalog/benches/king-bq11-01.jpg"
       ],
       "heroImage": "/images/catalog/benches/king-bq11-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq11-01-t.jpg",
       "featured": false,
-      "order": 150,
+      "order": 210,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5160,9 +4068,9 @@
       "name": "KING BQ12",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с валиками, оливковый велюр",
+      "intro": "Банкетка с валиками, оливковый велюр",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5179,7 +4087,7 @@
       "heroImage": "/images/catalog/benches/king-bq12-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq12-01-t.jpg",
       "featured": false,
-      "order": 151,
+      "order": 211,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5194,9 +4102,9 @@
       "name": "KING BQ13",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка букле на деревянных ножках",
+      "intro": "Банкетка букле на деревянных ножках",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5213,7 +4121,7 @@
       "heroImage": "/images/catalog/benches/king-bq13-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq13-01-t.jpg",
       "featured": false,
-      "order": 152,
+      "order": 212,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5228,9 +4136,9 @@
       "name": "KING BQ14",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка букле на деревянном основании",
+      "intro": "Банкетка букле на деревянном основании",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5247,7 +4155,7 @@
       "heroImage": "/images/catalog/benches/king-bq14-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq14-01-t.jpg",
       "featured": false,
-      "order": 153,
+      "order": 213,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5262,9 +4170,9 @@
       "name": "KING BQ15",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с валиками, рогожка",
+      "intro": "Банкетка с валиками, рогожка",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5281,7 +4189,7 @@
       "heroImage": "/images/catalog/benches/king-bq15-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq15-01-t.jpg",
       "featured": false,
-      "order": 154,
+      "order": 214,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5296,9 +4204,9 @@
       "name": "KING BQ16",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка со спинкой, узорная ткань",
+      "intro": "Банкетка со спинкой, узорная ткань",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5315,7 +4223,7 @@
       "heroImage": "/images/catalog/benches/king-bq16-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq16-01-t.jpg",
       "featured": false,
-      "order": 155,
+      "order": 215,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5330,9 +4238,9 @@
       "name": "KING BQ17",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка на латунных ножках с кожаной спинкой",
+      "intro": "Банкетка на латунных ножках с кожаной спинкой",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5349,7 +4257,7 @@
       "heroImage": "/images/catalog/benches/king-bq17-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq17-01-t.jpg",
       "featured": false,
-      "order": 156,
+      "order": 216,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5364,9 +4272,9 @@
       "name": "KING BQ18",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с боковинами из капового дерева",
+      "intro": "Банкетка с боковинами из капового дерева",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5383,7 +4291,7 @@
       "heroImage": "/images/catalog/benches/king-bq18-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq18-01-t.jpg",
       "featured": false,
-      "order": 157,
+      "order": 217,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5398,9 +4306,9 @@
       "name": "KING BQ19",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с валиками, светлая рогожка",
+      "intro": "Банкетка с валиками, светлая рогожка",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5417,7 +4325,7 @@
       "heroImage": "/images/catalog/benches/king-bq19-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq19-01-t.jpg",
       "featured": false,
-      "order": 158,
+      "order": 218,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5432,9 +4340,9 @@
       "name": "KING BQ20",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка-каскад с цветочным принтом",
+      "intro": "Банкетка-каскад с цветочным принтом",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5451,7 +4359,7 @@
       "heroImage": "/images/catalog/benches/king-bq20-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq20-01-t.jpg",
       "featured": false,
-      "order": 159,
+      "order": 219,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5466,9 +4374,9 @@
       "name": "KING BQ21",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с боковыми спинками, светлое сиденье",
+      "intro": "Банкетка с боковыми спинками, светлое сиденье",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5485,7 +4393,7 @@
       "heroImage": "/images/catalog/benches/king-bq21-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq21-01-t.jpg",
       "featured": false,
-      "order": 160,
+      "order": 220,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5500,9 +4408,9 @@
       "name": "KING BQ22",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка на деревянных опорах из капа, светлая обивка",
+      "intro": "Банкетка на деревянных опорах из капа, светлая обивка",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5519,7 +4427,7 @@
       "heroImage": "/images/catalog/benches/king-bq22-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq22-01-t.jpg",
       "featured": false,
-      "order": 161,
+      "order": 221,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5534,9 +4442,9 @@
       "name": "KING BQ23",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка велюровая на тёмном основании",
+      "intro": "Банкетка велюровая на тёмном основании",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5548,14 +4456,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/benches/king-bq23-01.jpg",
-        "/images/catalog/benches/king-bq23-02.jpg",
-        "/images/catalog/benches/king-bq23-03.jpg"
+        "/images/catalog/benches/king-bq23-01.jpg"
       ],
       "heroImage": "/images/catalog/benches/king-bq23-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq23-01-t.jpg",
       "featured": false,
-      "order": 162,
+      "order": 222,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5570,9 +4476,9 @@
       "name": "KING BQ24",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Кожаная банкетка каскадной формы",
+      "intro": "Кожаная банкетка каскадной формы",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5589,7 +4495,7 @@
       "heroImage": "/images/catalog/benches/king-bq24-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq24-01-t.jpg",
       "featured": false,
-      "order": 163,
+      "order": 223,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5604,9 +4510,9 @@
       "name": "KING BQ25",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка с ящиком для хранения",
+      "intro": "Банкетка с ящиком для хранения",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5623,7 +4529,7 @@
       "heroImage": "/images/catalog/benches/king-bq25-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq25-01-t.jpg",
       "featured": false,
-      "order": 164,
+      "order": 224,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5638,9 +4544,9 @@
       "name": "KING BQ26",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка терракотовая мягкая",
+      "intro": "Банкетка терракотовая мягкая",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5657,7 +4563,7 @@
       "heroImage": "/images/catalog/benches/king-bq26-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq26-01-t.jpg",
       "featured": false,
-      "order": 165,
+      "order": 225,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5672,9 +4578,9 @@
       "name": "KING BQ27",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка белая букле",
+      "intro": "Банкетка белая букле",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5686,13 +4592,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/benches/king-bq27-01.jpg",
-        "/images/catalog/benches/king-bq27-02.jpg"
+        "/images/catalog/benches/king-bq27-01.jpg"
       ],
       "heroImage": "/images/catalog/benches/king-bq27-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq27-01-t.jpg",
       "featured": false,
-      "order": 166,
+      "order": 226,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5707,9 +4612,9 @@
       "name": "KING BQ28",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка на конусных ножках, букле",
+      "intro": "Банкетка на конусных ножках, букле",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5726,7 +4631,7 @@
       "heroImage": "/images/catalog/benches/king-bq28-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq28-01-t.jpg",
       "featured": false,
-      "order": 167,
+      "order": 227,
       "shortSpecs": [],
       "specifications": [
         {
@@ -5741,9 +4646,9 @@
       "name": "KING BQ29",
       "category": "benches",
       "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+      "subtitle": "Банкетка на круглых деревянных ножках",
+      "intro": "Банкетка на круглых деревянных ножках",
+      "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
       "color": "",
       "tone": "",
       "material": "",
@@ -5760,837 +4665,7 @@
       "heroImage": "/images/catalog/benches/king-bq29-01.jpg",
       "heroThumb": "/images/catalog/benches/king-bq29-01-t.jpg",
       "featured": false,
-      "order": 168,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq30",
-      "slug": "king-bq30",
-      "name": "KING BQ30",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq30-01.jpg",
-        "/images/catalog/benches/king-bq30-02.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq30-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq30-01-t.jpg",
-      "featured": false,
-      "order": 169,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq31",
-      "slug": "king-bq31",
-      "name": "KING BQ31",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq31-01.jpg",
-        "/images/catalog/benches/king-bq31-02.jpg",
-        "/images/catalog/benches/king-bq31-03.jpg",
-        "/images/catalog/benches/king-bq31-04.jpg",
-        "/images/catalog/benches/king-bq31-05.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq31-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq31-01-t.jpg",
-      "featured": false,
-      "order": 170,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq32",
-      "slug": "king-bq32",
-      "name": "KING BQ32",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq32-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq32-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq32-01-t.jpg",
-      "featured": false,
-      "order": 171,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq33",
-      "slug": "king-bq33",
-      "name": "KING BQ33",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq33-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq33-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq33-01-t.jpg",
-      "featured": false,
-      "order": 172,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq34",
-      "slug": "king-bq34",
-      "name": "KING BQ34",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq34-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq34-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq34-01-t.jpg",
-      "featured": false,
-      "order": 173,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq35",
-      "slug": "king-bq35",
-      "name": "KING BQ35",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq35-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq35-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq35-01-t.jpg",
-      "featured": false,
-      "order": 174,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq36",
-      "slug": "king-bq36",
-      "name": "KING BQ36",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq36-01.jpg",
-        "/images/catalog/benches/king-bq36-02.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq36-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq36-01-t.jpg",
-      "featured": false,
-      "order": 175,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq37",
-      "slug": "king-bq37",
-      "name": "KING BQ37",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq37-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq37-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq37-01-t.jpg",
-      "featured": false,
-      "order": 176,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq38",
-      "slug": "king-bq38",
-      "name": "KING BQ38",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq38-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq38-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq38-01-t.jpg",
-      "featured": false,
-      "order": 177,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq39",
-      "slug": "king-bq39",
-      "name": "KING BQ39",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq39-01.jpg",
-        "/images/catalog/benches/king-bq39-02.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq39-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq39-01-t.jpg",
-      "featured": false,
-      "order": 178,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq40",
-      "slug": "king-bq40",
-      "name": "KING BQ40",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq40-01.jpg",
-        "/images/catalog/benches/king-bq40-02.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq40-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq40-01-t.jpg",
-      "featured": false,
-      "order": 179,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq41",
-      "slug": "king-bq41",
-      "name": "KING BQ41",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq41-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq41-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq41-01-t.jpg",
-      "featured": false,
-      "order": 180,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq42",
-      "slug": "king-bq42",
-      "name": "KING BQ42",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq42-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq42-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq42-01-t.jpg",
-      "featured": false,
-      "order": 181,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq43",
-      "slug": "king-bq43",
-      "name": "KING BQ43",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq43-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq43-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq43-01-t.jpg",
-      "featured": false,
-      "order": 182,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq44",
-      "slug": "king-bq44",
-      "name": "KING BQ44",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq44-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq44-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq44-01-t.jpg",
-      "featured": false,
-      "order": 183,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq45",
-      "slug": "king-bq45",
-      "name": "KING BQ45",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq45-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq45-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq45-01-t.jpg",
-      "featured": false,
-      "order": 184,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq46",
-      "slug": "king-bq46",
-      "name": "KING BQ46",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq46-01.jpg",
-        "/images/catalog/benches/king-bq46-02.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq46-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq46-01-t.jpg",
-      "featured": false,
-      "order": 185,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq47",
-      "slug": "king-bq47",
-      "name": "KING BQ47",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq47-01.jpg",
-        "/images/catalog/benches/king-bq47-02.jpg",
-        "/images/catalog/benches/king-bq47-03.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq47-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq47-01-t.jpg",
-      "featured": false,
-      "order": 186,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq48",
-      "slug": "king-bq48",
-      "name": "KING BQ48",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq48-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq48-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq48-01-t.jpg",
-      "featured": false,
-      "order": 187,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq49",
-      "slug": "king-bq49",
-      "name": "KING BQ49",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq49-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq49-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq49-01-t.jpg",
-      "featured": false,
-      "order": 188,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq50",
-      "slug": "king-bq50",
-      "name": "KING BQ50",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq50-01.jpg",
-        "/images/catalog/benches/king-bq50-02.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq50-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq50-01-t.jpg",
-      "featured": false,
-      "order": 189,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq51",
-      "slug": "king-bq51",
-      "name": "KING BQ51",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq51-01.jpg",
-        "/images/catalog/benches/king-bq51-02.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq51-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq51-01-t.jpg",
-      "featured": false,
-      "order": 190,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq52",
-      "slug": "king-bq52",
-      "name": "KING BQ52",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq52-01.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq52-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq52-01-t.jpg",
-      "featured": false,
-      "order": 191,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "benches"
-        }
-      ]
-    },
-    {
-      "id": "king-bq53",
-      "slug": "king-bq53",
-      "name": "KING BQ53",
-      "category": "benches",
-      "collection": "",
-      "subtitle": "Банкетка ручной работы",
-      "intro": "Банкетка ручной работы",
-      "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/benches/king-bq53-01.jpg",
-        "/images/catalog/benches/king-bq53-02.jpg"
-      ],
-      "heroImage": "/images/catalog/benches/king-bq53-01.jpg",
-      "heroThumb": "/images/catalog/benches/king-bq53-01-t.jpg",
-      "featured": false,
-      "order": 192,
+      "order": 228,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6605,9 +4680,9 @@
       "name": "KING W1",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Гардеробная система со стеклянными витринами",
+      "intro": "Гардеробная система со стеклянными витринами",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6624,7 +4699,7 @@
       "heroImage": "/images/catalog/wardrobes/king-w1-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w1-01-t.jpg",
       "featured": false,
-      "order": 200,
+      "order": 300,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6639,9 +4714,9 @@
       "name": "KING W2",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Гардеробная со стеклянными шкафами и островом",
+      "intro": "Гардеробная со стеклянными шкафами и островом",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6653,13 +4728,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/wardrobes/king-w2-01.jpg",
-        "/images/catalog/wardrobes/king-w2-02.jpg"
+        "/images/catalog/wardrobes/king-w2-01.jpg"
       ],
       "heroImage": "/images/catalog/wardrobes/king-w2-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w2-01-t.jpg",
       "featured": false,
-      "order": 201,
+      "order": 301,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6674,9 +4748,9 @@
       "name": "KING W3",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Гардеробная с деревянным островом-комодом",
+      "intro": "Гардеробная с деревянным островом-комодом",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6688,15 +4762,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/wardrobes/king-w3-01.jpg",
-        "/images/catalog/wardrobes/king-w3-02.jpg",
-        "/images/catalog/wardrobes/king-w3-03.jpg",
-        "/images/catalog/wardrobes/king-w3-04.jpg"
+        "/images/catalog/wardrobes/king-w3-01.jpg"
       ],
       "heroImage": "/images/catalog/wardrobes/king-w3-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w3-01-t.jpg",
       "featured": false,
-      "order": 202,
+      "order": 302,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6711,9 +4782,9 @@
       "name": "KING W4",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Угловой шкаф-гардероб с дымчатыми стёклами",
+      "intro": "Угловой шкаф-гардероб с дымчатыми стёклами",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6725,16 +4796,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/wardrobes/king-w4-01.jpg",
-        "/images/catalog/wardrobes/king-w4-02.jpg",
-        "/images/catalog/wardrobes/king-w4-03.jpg",
-        "/images/catalog/wardrobes/king-w4-04.jpg",
-        "/images/catalog/wardrobes/king-w4-05.jpg"
+        "/images/catalog/wardrobes/king-w4-01.jpg"
       ],
       "heroImage": "/images/catalog/wardrobes/king-w4-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w4-01-t.jpg",
       "featured": false,
-      "order": 203,
+      "order": 303,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6749,9 +4816,9 @@
       "name": "KING W5",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Гардеробная с распашными и стеклянными шкафами",
+      "intro": "Гардеробная с распашными и стеклянными шкафами",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6763,14 +4830,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/wardrobes/king-w5-01.jpg",
-        "/images/catalog/wardrobes/king-w5-02.jpg",
-        "/images/catalog/wardrobes/king-w5-03.jpg"
+        "/images/catalog/wardrobes/king-w5-01.jpg"
       ],
       "heroImage": "/images/catalog/wardrobes/king-w5-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w5-01-t.jpg",
       "featured": false,
-      "order": 204,
+      "order": 304,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6785,9 +4850,9 @@
       "name": "KING W6",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Гардеробная система с обувными полками",
+      "intro": "Гардеробная система с обувными полками",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6799,13 +4864,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/wardrobes/king-w6-01.jpg",
-        "/images/catalog/wardrobes/king-w6-02.jpg"
+        "/images/catalog/wardrobes/king-w6-01.jpg"
       ],
       "heroImage": "/images/catalog/wardrobes/king-w6-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w6-01-t.jpg",
       "featured": false,
-      "order": 205,
+      "order": 305,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6820,9 +4884,9 @@
       "name": "KING W7",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Симметричная гардеробная с зеркалом и туалетным столиком",
+      "intro": "Симметричная гардеробная с зеркалом и туалетным столиком",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6834,15 +4898,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/wardrobes/king-w7-01.jpg",
-        "/images/catalog/wardrobes/king-w7-02.jpg",
-        "/images/catalog/wardrobes/king-w7-03.jpg",
-        "/images/catalog/wardrobes/king-w7-04.jpg"
+        "/images/catalog/wardrobes/king-w7-01.jpg"
       ],
       "heroImage": "/images/catalog/wardrobes/king-w7-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w7-01-t.jpg",
       "featured": false,
-      "order": 206,
+      "order": 306,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6857,9 +4918,9 @@
       "name": "KING W8",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Гардеробная в бежевых тонах с островом",
+      "intro": "Гардеробная в бежевых тонах с островом",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6871,15 +4932,12 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/wardrobes/king-w8-01.jpg",
-        "/images/catalog/wardrobes/king-w8-02.jpg",
-        "/images/catalog/wardrobes/king-w8-03.jpg",
-        "/images/catalog/wardrobes/king-w8-04.jpg"
+        "/images/catalog/wardrobes/king-w8-01.jpg"
       ],
       "heroImage": "/images/catalog/wardrobes/king-w8-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w8-01-t.jpg",
       "featured": false,
-      "order": 207,
+      "order": 307,
       "shortSpecs": [],
       "specifications": [
         {
@@ -6894,9 +4952,9 @@
       "name": "KING W9",
       "category": "wardrobes",
       "collection": "",
-      "subtitle": "Гардеробная по индивидуальному проекту",
-      "intro": "Гардеробная по индивидуальному проекту",
-      "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+      "subtitle": "Гардеробная со стеклянной витриной и островом",
+      "intro": "Гардеробная со стеклянной витриной и островом",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
       "color": "",
       "tone": "",
       "material": "",
@@ -6908,13 +4966,420 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/wardrobes/king-w9-01.jpg",
-        "/images/catalog/wardrobes/king-w9-02.jpg"
+        "/images/catalog/wardrobes/king-w9-01.jpg"
       ],
       "heroImage": "/images/catalog/wardrobes/king-w9-01.jpg",
       "heroThumb": "/images/catalog/wardrobes/king-w9-01-t.jpg",
       "featured": false,
-      "order": 208,
+      "order": 308,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w10",
+      "slug": "king-w10",
+      "name": "KING W10",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардеробная с открытым хранением и островом-комодом",
+      "intro": "Гардеробная с открытым хранением и островом-комодом",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w10-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w10-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w10-01-t.jpg",
+      "featured": false,
+      "order": 309,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w11",
+      "slug": "king-w11",
+      "name": "KING W11",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардеробная комната с подсветкой",
+      "intro": "Гардеробная комната с подсветкой",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w11-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w11-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w11-01-t.jpg",
+      "featured": false,
+      "order": 310,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w12",
+      "slug": "king-w12",
+      "name": "KING W12",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардеробная стенка с ящиками",
+      "intro": "Гардеробная стенка с ящиками",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w12-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w12-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w12-01-t.jpg",
+      "featured": false,
+      "order": 311,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w13",
+      "slug": "king-w13",
+      "name": "KING W13",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Выдвижной органайзер для украшений",
+      "intro": "Выдвижной органайзер для украшений",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w13-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w13-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w13-01-t.jpg",
+      "featured": false,
+      "order": 312,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w14",
+      "slug": "king-w14",
+      "name": "KING W14",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардеробная с открытыми полками",
+      "intro": "Гардеробная с открытыми полками",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w14-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w14-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w14-01-t.jpg",
+      "featured": false,
+      "order": 313,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w15",
+      "slug": "king-w15",
+      "name": "KING W15",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардеробная комната с зеркалом",
+      "intro": "Гардеробная комната с зеркалом",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w15-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w15-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w15-01-t.jpg",
+      "featured": false,
+      "order": 314,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w16",
+      "slug": "king-w16",
+      "name": "KING W16",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардеробная со стеклянными фасадами",
+      "intro": "Гардеробная со стеклянными фасадами",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w16-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w16-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w16-01-t.jpg",
+      "featured": false,
+      "order": 315,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w17",
+      "slug": "king-w17",
+      "name": "KING W17",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Угловая гардеробная система",
+      "intro": "Угловая гардеробная система",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w17-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w17-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w17-01-t.jpg",
+      "featured": false,
+      "order": 316,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w18",
+      "slug": "king-w18",
+      "name": "KING W18",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардеробная комната с туалетным столиком",
+      "intro": "Гардеробная комната с туалетным столиком",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w18-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w18-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w18-01-t.jpg",
+      "featured": false,
+      "order": 317,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w19",
+      "slug": "king-w19",
+      "name": "KING W19",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Шкаф-витрина с обувными полками",
+      "intro": "Шкаф-витрина с обувными полками",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w19-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w19-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w19-01-t.jpg",
+      "featured": false,
+      "order": 318,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w20",
+      "slug": "king-w20",
+      "name": "KING W20",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардероб за стеклянными дверцами",
+      "intro": "Гардероб за стеклянными дверцами",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w20-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w20-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w20-01-t.jpg",
+      "featured": false,
+      "order": 319,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Гардеробная"
+        }
+      ]
+    },
+    {
+      "id": "king-w21",
+      "slug": "king-w21",
+      "name": "KING W21",
+      "category": "wardrobes",
+      "collection": "",
+      "subtitle": "Гардеробная с открытыми стеллажами",
+      "intro": "Гардеробная с открытыми стеллажами",
+      "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/wardrobes/king-w21-01.jpg"
+      ],
+      "heroImage": "/images/catalog/wardrobes/king-w21-01.jpg",
+      "heroThumb": "/images/catalog/wardrobes/king-w21-01-t.jpg",
+      "featured": false,
+      "order": 320,
       "shortSpecs": [],
       "specifications": [
         {

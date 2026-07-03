@@ -2,8 +2,8 @@
   "name": "KING BQ11",
   "category": "benches",
   "collection": "",
-  "subtitle": "Банкетка ручной работы",
-  "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+  "subtitle": "Банкетка с изогнутыми ножками, бордовая",
+  "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
   "material": "",
   "softness": "",
   "color": "",
@@ -14,9 +14,8 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 150,
+  "order": 210,
   "images": [
-    "/images/catalog/benches/king-bq11-01.jpg",
-    "/images/catalog/benches/king-bq11-02.jpg"
+    "/images/catalog/benches/king-bq11-01.jpg"
   ]
 }

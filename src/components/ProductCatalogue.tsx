@@ -96,13 +96,13 @@ export function ProductCatalogue() {
                   : null;
                 return (
                   <Link key={product.slug} href={`/products/${product.slug}`} className="group block" data-luxury-reveal>
-                    <div className="relative aspect-[4/5] overflow-hidden bg-black">
+                    <div className="relative aspect-[4/5] overflow-hidden bg-[#efeae2]">
                       <Image
                         src={assetPath(product.heroThumb || product.heroImage)}
                         alt={product.subtitle || product.name}
                         fill
                         sizes="(min-width: 1280px) 22vw, (min-width: 1024px) 30vw, (min-width: 640px) 45vw, 100vw"
-                        className="object-cover transition-transform duration-[1400ms] ease-luxury group-hover:scale-105"
+                        className="object-contain transition-transform duration-[1400ms] ease-luxury group-hover:scale-[1.04]"
                       />
                     </div>
                     <div className="pt-5">

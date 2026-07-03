@@ -2,8 +2,8 @@
   "name": "KING BQ23",
   "category": "benches",
   "collection": "",
-  "subtitle": "Банкетка ручной работы",
-  "description": "Банкетка KING ATELIER: премиальные ткани, ручная работа, деликатные детали. Изготовим в вашем размере и ткани под интерьер.",
+  "subtitle": "Банкетка велюровая на тёмном основании",
+  "description": "Банкетка KING ATELIER ручной работы: премиальные ткани и деликатные детали. Изготовим в вашем размере и ткани.",
   "material": "",
   "softness": "",
   "color": "",
@@ -14,10 +14,8 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 162,
+  "order": 222,
   "images": [
-    "/images/catalog/benches/king-bq23-01.jpg",
-    "/images/catalog/benches/king-bq23-02.jpg",
-    "/images/catalog/benches/king-bq23-03.jpg"
+    "/images/catalog/benches/king-bq23-01.jpg"
   ]
 }

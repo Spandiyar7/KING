@@ -2,8 +2,8 @@
   "name": "KING W6",
   "category": "wardrobes",
   "collection": "",
-  "subtitle": "Гардеробная по индивидуальному проекту",
-  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "subtitle": "Гардеробная система с обувными полками",
+  "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
   "material": "",
   "softness": "",
   "color": "",
@@ -14,9 +14,8 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 205,
+  "order": 305,
   "images": [
-    "/images/catalog/wardrobes/king-w6-01.jpg",
-    "/images/catalog/wardrobes/king-w6-02.jpg"
+    "/images/catalog/wardrobes/king-w6-01.jpg"
   ]
 }

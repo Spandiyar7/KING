@@ -2,8 +2,8 @@
   "name": "KING W2",
   "category": "wardrobes",
   "collection": "",
-  "subtitle": "Гардеробная по индивидуальному проекту",
-  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "subtitle": "Гардеробная со стеклянными шкафами и островом",
+  "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
   "material": "",
   "softness": "",
   "color": "",
@@ -14,9 +14,8 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 201,
+  "order": 301,
   "images": [
-    "/images/catalog/wardrobes/king-w2-01.jpg",
-    "/images/catalog/wardrobes/king-w2-02.jpg"
+    "/images/catalog/wardrobes/king-w2-01.jpg"
   ]
 }

@@ -2,8 +2,8 @@
   "name": "KING W4",
   "category": "wardrobes",
   "collection": "",
-  "subtitle": "Гардеробная по индивидуальному проекту",
-  "description": "Гардеробная, изготовленная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Стоимость рассчитывается по размерам и конфигурации проекта.",
+  "subtitle": "Угловой шкаф-гардероб с дымчатыми стёклами",
+  "description": "Гардеробная по индивидуальному проекту KING ATELIER: планировка под ваше пространство, премиальные материалы, подсветка и системы хранения. Цена по размерам проекта.",
   "material": "",
   "softness": "",
   "color": "",
@@ -14,12 +14,8 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 203,
+  "order": 303,
   "images": [
-    "/images/catalog/wardrobes/king-w4-01.jpg",
-    "/images/catalog/wardrobes/king-w4-02.jpg",
-    "/images/catalog/wardrobes/king-w4-03.jpg",
-    "/images/catalog/wardrobes/king-w4-04.jpg",
-    "/images/catalog/wardrobes/king-w4-05.jpg"
+    "/images/catalog/wardrobes/king-w4-01.jpg"
   ]
 }

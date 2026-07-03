@@ -53,8 +53,8 @@ export default async function ProductPage({ params }: ProductPageProps) {
   return (
     <main>
       <section className="relative min-h-screen bg-black text-white">
-        <Image src={assetPath(product.heroImage)} alt={product.name} fill priority sizes="100vw" className="object-cover opacity-78" />
-        <div className="absolute inset-0 bg-gradient-to-r from-black/72 via-black/22 to-black/8" />
+        <Image src={assetPath(product.heroImage)} alt={product.name} fill priority sizes="100vw" className="object-cover opacity-80" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/85 via-black/35 to-black/20" />
         <div className="giorgio-container relative z-10 flex min-h-screen items-end pb-16 pt-36 md:pb-24">
           <div className="max-w-4xl" data-luxury-reveal>
             <p className="mb-7 text-sm uppercase tracking-[0.18em] text-white/62">{product.collectionName}</p>
@@ -177,13 +177,13 @@ export default async function ProductPage({ params }: ProductPageProps) {
             <div className="grid gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4">
               {related.map((item) => (
                 <Link key={item.slug} href={`/products/${item.slug}`} className="group block" data-luxury-reveal>
-                  <div className="relative aspect-[4/5] overflow-hidden bg-black">
+                  <div className="relative aspect-[4/5] overflow-hidden bg-[#efeae2]">
                     <Image
                       src={assetPath(item.heroThumb || item.heroImage)}
                       alt={item.subtitle || item.name}
                       fill
                       sizes="(min-width: 1024px) 22vw, (min-width: 640px) 45vw, 100vw"
-                      className="object-cover transition-transform duration-[1400ms] ease-luxury group-hover:scale-105"
+                      className="object-contain transition-transform duration-[1400ms] ease-luxury group-hover:scale-[1.04]"
                     />
                   </div>
                   <div className="pt-4">

@@ -211,7 +211,7 @@ const collectionMeta: Omit<Collection, "productSlugs">[] = [
     subtitle: "Сдержанная роскошь, благородные тона и премиальная отделка.",
     description:
       "King Savoy — коллекция для статусных интерьеров: глубокие тона, фактурные ткани и архитектурная геометрия.",
-    image: "/images/collections/savoy/savoy-01.jpg",
+    image: "/images/collections/savoy/savoy-hero.jpg",
     gallery: [
       "/images/collections/savoy/savoy-01.jpg",
       "/images/collections/savoy/savoy-02.jpg",

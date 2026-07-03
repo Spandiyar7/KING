@@ -2,8 +2,8 @@
   "name": "KING P1",
   "category": "poufs",
   "collection": "",
-  "subtitle": "Дизайнерский пуф",
-  "description": "Дизайнерский пуф KING ATELIER: премиальные ткани и аккуратная ручная работа. Изготовим в вашей ткани и размере.",
+  "subtitle": "Пуф с узором на деревянном основании",
+  "description": "Дизайнерский пуф KING ATELIER ручной работы. Изготовим в вашей ткани и размере под интерьер.",
   "material": "",
   "softness": "",
   "color": "",
@@ -16,7 +16,6 @@
   "featured": false,
   "order": 100,
   "images": [
-    "/images/catalog/poufs/king-p1-01.jpg",
-    "/images/catalog/poufs/king-p1-02.jpg"
+    "/images/catalog/poufs/king-p1-01.jpg"
   ]
 }
