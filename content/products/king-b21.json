@@ -1,0 +1,23 @@
+{
+  "name": "KING B21",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B21",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 37,
+  "images": [
+    "/images/catalog/beds/king-b21-01.jpg",
+    "/images/catalog/beds/king-b21-02.jpg",
+    "/images/catalog/beds/king-b21-03.jpg"
+  ]
+}

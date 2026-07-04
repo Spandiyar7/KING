@@ -1,0 +1,23 @@
+{
+  "name": "KING B26",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B26",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 41,
+  "images": [
+    "/images/catalog/beds/king-b26-01.jpg",
+    "/images/catalog/beds/king-b26-02.jpg",
+    "/images/catalog/beds/king-b26-03.jpg"
+  ]
+}

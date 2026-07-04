@@ -1,0 +1,23 @@
+{
+  "name": "KING B32",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B32",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 47,
+  "images": [
+    "/images/catalog/beds/king-b32-01.jpg",
+    "/images/catalog/beds/king-b32-02.jpg",
+    "/images/catalog/beds/king-b32-03.jpg"
+  ]
+}

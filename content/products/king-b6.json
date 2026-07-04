@@ -1,0 +1,24 @@
+{
+  "name": "KING B6",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B6",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 22,
+  "images": [
+    "/images/catalog/beds/king-b6-01.jpg",
+    "/images/catalog/beds/king-b6-02.jpg",
+    "/images/catalog/beds/king-b6-03.jpg",
+    "/images/catalog/beds/king-b6-04.jpg"
+  ]
+}

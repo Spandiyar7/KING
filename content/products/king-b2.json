@@ -1,22 +1,21 @@
 {
   "name": "KING B2",
   "category": "beds",
-  "collection": "soft",
-  "subtitle": "Кровать с высоким мягким изголовьем",
-  "description": "Кровать с высоким мягким изголовьем и тёплой молочной обивкой. Центральный элемент спальни в духе Organic Modern.",
-  "material": "Велюр",
-  "softness": "мягкое изголовье",
-  "color": "ivory",
-  "tone": "молочный",
-  "form": "кровать",
+  "collection": "",
+  "subtitle": "B2",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
   "seats": "",
-  "width": "180",
-  "depth": "210",
-  "height": "110",
-  "price": 620000,
+  "width": "",
+  "depth": "",
+  "height": "",
   "featured": false,
   "order": 19,
   "images": [
-    "/images/catalog/beds/bed-ai-01.jpg"
+    "/images/catalog/beds/king-b2-01.jpg"
   ]
 }

@@ -1,22 +1,21 @@
 {
   "name": "KING B3",
   "category": "beds",
-  "collection": "soft",
-  "subtitle": "Кровать в молочном велюре с чистой геометрией",
-  "description": "Кровать на низкой платформе с мягким изголовьем и молочным велюром. Сдержанный силуэт для современной спальни.",
-  "material": "Велюр",
-  "softness": "мягкое изголовье",
-  "color": "ivory",
-  "tone": "молочный",
-  "form": "кровать",
+  "collection": "",
+  "subtitle": "B3",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
   "seats": "",
-  "width": "180",
-  "depth": "210",
-  "height": "105",
-  "price": 640000,
+  "width": "",
+  "depth": "",
+  "height": "",
   "featured": false,
   "order": 20,
   "images": [
-    "/images/catalog/beds/bed-ai-02.jpg"
+    "/images/catalog/beds/king-b3-01.jpg"
   ]
 }

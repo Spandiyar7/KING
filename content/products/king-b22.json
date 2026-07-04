@@ -1,0 +1,25 @@
+{
+  "name": "KING B22",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B22",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 38,
+  "images": [
+    "/images/catalog/beds/king-b22-01.jpg",
+    "/images/catalog/beds/king-b22-02.jpg",
+    "/images/catalog/beds/king-b22-03.jpg",
+    "/images/catalog/beds/king-b22-04.jpg",
+    "/images/catalog/beds/king-b22-05.jpg"
+  ]
+}

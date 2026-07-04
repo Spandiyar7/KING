@@ -1,0 +1,24 @@
+{
+  "name": "KING B30",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B30",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 45,
+  "images": [
+    "/images/catalog/beds/king-b30-01.jpg",
+    "/images/catalog/beds/king-b30-02.jpg",
+    "/images/catalog/beds/king-b30-03.jpg",
+    "/images/catalog/beds/king-b30-04.jpg"
+  ]
+}

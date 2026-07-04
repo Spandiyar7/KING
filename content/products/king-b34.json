@@ -1,0 +1,24 @@
+{
+  "name": "KING B34",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B34",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 49,
+  "images": [
+    "/images/catalog/beds/king-b34-01.jpg",
+    "/images/catalog/beds/king-b34-02.jpg",
+    "/images/catalog/beds/king-b34-03.jpg",
+    "/images/catalog/beds/king-b34-04.jpg"
+  ]
+}

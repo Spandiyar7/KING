@@ -1,0 +1,23 @@
+{
+  "name": "KING B40",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B40",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 55,
+  "images": [
+    "/images/catalog/beds/king-b40-01.jpg",
+    "/images/catalog/beds/king-b40-02.jpg",
+    "/images/catalog/beds/king-b40-03.jpg"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "KING B8",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B8",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 24,
+  "images": [
+    "/images/catalog/beds/king-b8-01.jpg",
+    "/images/catalog/beds/king-b8-02.jpg",
+    "/images/catalog/beds/king-b8-03.jpg",
+    "/images/catalog/beds/king-b8-04.jpg"
+  ]
+}

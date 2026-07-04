@@ -1,0 +1,23 @@
+{
+  "name": "KING B31",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B31",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 46,
+  "images": [
+    "/images/catalog/beds/king-b31-01.jpg",
+    "/images/catalog/beds/king-b31-02.jpg",
+    "/images/catalog/beds/king-b31-03.jpg"
+  ]
+}

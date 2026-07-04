@@ -1,0 +1,27 @@
+{
+  "name": "KING B38",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B38",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 53,
+  "images": [
+    "/images/catalog/beds/king-b38-01.jpg",
+    "/images/catalog/beds/king-b38-02.jpg",
+    "/images/catalog/beds/king-b38-03.jpg",
+    "/images/catalog/beds/king-b38-04.jpg",
+    "/images/catalog/beds/king-b38-05.jpg",
+    "/images/catalog/beds/king-b38-06.jpg",
+    "/images/catalog/beds/king-b38-07.jpg"
+  ]
+}

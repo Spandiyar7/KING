@@ -1,0 +1,24 @@
+{
+  "name": "KING B18",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B18",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 34,
+  "images": [
+    "/images/catalog/beds/king-b18-01.jpg",
+    "/images/catalog/beds/king-b18-02.jpg",
+    "/images/catalog/beds/king-b18-03.jpg",
+    "/images/catalog/beds/king-b18-04.jpg"
+  ]
+}

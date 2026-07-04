@@ -1,0 +1,23 @@
+{
+  "name": "KING B20",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B20",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 36,
+  "images": [
+    "/images/catalog/beds/king-b20-01.jpg",
+    "/images/catalog/beds/king-b20-02.jpg",
+    "/images/catalog/beds/king-b20-03.jpg"
+  ]
+}

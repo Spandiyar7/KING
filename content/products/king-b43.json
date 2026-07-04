@@ -1,0 +1,23 @@
+{
+  "name": "KING B43",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B43",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 58,
+  "images": [
+    "/images/catalog/beds/king-b43-01.jpg",
+    "/images/catalog/beds/king-b43-02.jpg",
+    "/images/catalog/beds/king-b43-03.jpg"
+  ]
+}

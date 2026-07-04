@@ -1,0 +1,28 @@
+{
+  "name": "KING B35",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B35",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 50,
+  "images": [
+    "/images/catalog/beds/king-b35-01.jpg",
+    "/images/catalog/beds/king-b35-02.jpg",
+    "/images/catalog/beds/king-b35-03.jpg",
+    "/images/catalog/beds/king-b35-04.jpg",
+    "/images/catalog/beds/king-b35-05.jpg",
+    "/images/catalog/beds/king-b35-06.jpg",
+    "/images/catalog/beds/king-b35-07.jpg",
+    "/images/catalog/beds/king-b35-08.jpg"
+  ]
+}

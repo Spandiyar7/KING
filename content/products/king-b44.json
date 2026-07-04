@@ -1,0 +1,27 @@
+{
+  "name": "KING B44",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B44",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 59,
+  "images": [
+    "/images/catalog/beds/king-b44-01.jpg",
+    "/images/catalog/beds/king-b44-02.jpg",
+    "/images/catalog/beds/king-b44-03.jpg",
+    "/images/catalog/beds/king-b44-04.jpg",
+    "/images/catalog/beds/king-b44-05.jpg",
+    "/images/catalog/beds/king-b44-06.jpg",
+    "/images/catalog/beds/king-b44-07.jpg"
+  ]
+}

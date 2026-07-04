@@ -1,0 +1,31 @@
+{
+  "name": "KING B33",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B33",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 48,
+  "images": [
+    "/images/catalog/beds/king-b33-01.jpg",
+    "/images/catalog/beds/king-b33-02.jpg",
+    "/images/catalog/beds/king-b33-03.jpg",
+    "/images/catalog/beds/king-b33-04.jpg",
+    "/images/catalog/beds/king-b33-05.jpg",
+    "/images/catalog/beds/king-b33-06.jpg",
+    "/images/catalog/beds/king-b33-07.jpg",
+    "/images/catalog/beds/king-b33-08.jpg",
+    "/images/catalog/beds/king-b33-09.jpg",
+    "/images/catalog/beds/king-b33-10.jpg",
+    "/images/catalog/beds/king-b33-11.jpg"
+  ]
+}
