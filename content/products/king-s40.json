@@ -16,7 +16,10 @@
   "featured": false,
   "order": 425,
   "images": [
-    "/images/catalog/sofas/king-s40-01.jpg"
+    "/images/catalog/sofas/king-s40-01.jpg",
+    "/images/catalog/sofas/king-s41-01.jpg",
+    "/images/catalog/sofas/king-s43-01.jpg",
+    "/images/catalog/sofas/king-s43-02.jpg"
   ],
   "price": 1150000
 }

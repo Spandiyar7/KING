@@ -12546,7 +12546,8 @@
       "price": 1720000,
       "images": [
         "/images/catalog/sofas/king-s39-01.jpg",
-        "/images/catalog/sofas/king-s39-02.jpg"
+        "/images/catalog/sofas/king-s39-02.jpg",
+        "/images/catalog/sofas/king-s42-01.jpg"
       ],
       "heroImage": "/images/catalog/sofas/king-s39-01.jpg",
       "heroThumb": "/images/catalog/sofas/king-s39-01-t.jpg",
@@ -12582,7 +12583,10 @@
       "height": "",
       "price": 1150000,
       "images": [
-        "/images/catalog/sofas/king-s40-01.jpg"
+        "/images/catalog/sofas/king-s40-01.jpg",
+        "/images/catalog/sofas/king-s41-01.jpg",
+        "/images/catalog/sofas/king-s43-01.jpg",
+        "/images/catalog/sofas/king-s43-02.jpg"
       ],
       "heroImage": "/images/catalog/sofas/king-s40-01.jpg",
       "heroThumb": "/images/catalog/sofas/king-s40-01-t.jpg",
@@ -12590,115 +12594,6 @@
       "heroH": 1000,
       "featured": false,
       "order": 425,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s41",
-      "slug": "king-s41",
-      "name": "KING S41",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S41",
-      "intro": "S41",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s41-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s41-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s41-01-t.jpg",
-      "heroW": 823,
-      "heroH": 1000,
-      "featured": false,
-      "order": 426,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s42",
-      "slug": "king-s42",
-      "name": "KING S42",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S42",
-      "intro": "S42",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s42-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s42-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s42-01-t.jpg",
-      "heroW": 826,
-      "heroH": 1000,
-      "featured": false,
-      "order": 427,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s43",
-      "slug": "king-s43",
-      "name": "KING S43",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S43",
-      "intro": "S43",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 1230000,
-      "images": [
-        "/images/catalog/sofas/king-s43-01.jpg",
-        "/images/catalog/sofas/king-s43-02.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s43-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s43-01-t.jpg",
-      "heroW": 826,
-      "heroH": 1000,
-      "featured": false,
-      "order": 428,
       "shortSpecs": [],
       "specifications": [
         {
@@ -13061,7 +12956,10 @@
       "price": 1600000,
       "images": [
         "/images/catalog/sofas/king-s53-01.jpg",
-        "/images/catalog/sofas/king-s53-02.jpg"
+        "/images/catalog/sofas/king-s53-02.jpg",
+        "/images/catalog/sofas/king-s54-01.jpg",
+        "/images/catalog/sofas/king-s54-02.jpg",
+        "/images/catalog/sofas/king-s55-01.jpg"
       ],
       "heroImage": "/images/catalog/sofas/king-s53-01.jpg",
       "heroThumb": "/images/catalog/sofas/king-s53-01-t.jpg",
@@ -13069,79 +12967,6 @@
       "heroH": 571,
       "featured": false,
       "order": 438,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s54",
-      "slug": "king-s54",
-      "name": "KING S54",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S54",
-      "intro": "S54",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 2500000,
-      "images": [
-        "/images/catalog/sofas/king-s54-01.jpg",
-        "/images/catalog/sofas/king-s54-02.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s54-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s54-01-t.jpg",
-      "heroW": 853,
-      "heroH": 1000,
-      "featured": false,
-      "order": 439,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s55",
-      "slug": "king-s55",
-      "name": "KING S55",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S55",
-      "intro": "S55",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s55-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s55-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s55-01-t.jpg",
-      "heroW": 853,
-      "heroH": 1000,
-      "featured": false,
-      "order": 440,
       "shortSpecs": [],
       "specifications": [
         {
@@ -13288,7 +13113,9 @@
         "/images/catalog/sofas/king-s59-02.jpg",
         "/images/catalog/sofas/king-s59-03.jpg",
         "/images/catalog/sofas/king-s59-04.jpg",
-        "/images/catalog/sofas/king-s59-05.jpg"
+        "/images/catalog/sofas/king-s59-05.jpg",
+        "/images/catalog/sofas/king-s60-01.jpg",
+        "/images/catalog/sofas/king-s60-02.jpg"
       ],
       "heroImage": "/images/catalog/sofas/king-s59-01.jpg",
       "heroThumb": "/images/catalog/sofas/king-s59-01-t.jpg",
@@ -13296,43 +13123,6 @@
       "heroH": 1000,
       "featured": false,
       "order": 444,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s60",
-      "slug": "king-s60",
-      "name": "KING S60",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S60",
-      "intro": "S60",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s60-01.jpg",
-        "/images/catalog/sofas/king-s60-02.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s60-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s60-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 445,
       "shortSpecs": [],
       "specifications": [
         {
@@ -14181,42 +13971,6 @@
       "heroH": 750,
       "featured": false,
       "order": 721,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s84",
-      "slug": "king-s84",
-      "name": "KING S84",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S84",
-      "intro": "S84",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s84-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s84-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s84-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 524,
-      "featured": false,
-      "order": 722,
       "shortSpecs": [],
       "specifications": [
         {
@@ -15641,42 +15395,6 @@
       "heroH": 750,
       "featured": false,
       "order": 761,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s124",
-      "slug": "king-s124",
-      "name": "KING S124",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S124",
-      "intro": "S124",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s124-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s124-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s124-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 762,
       "shortSpecs": [],
       "specifications": [
         {
