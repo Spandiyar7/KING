@@ -14,12 +14,9 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 632,
+  "order": 90,
   "images": [
     "/images/catalog/kitchens/king-k61-01.jpg",
-    "/images/catalog/kitchens/king-k61-02.jpg",
-    "/images/catalog/kitchens/king-k61-03.jpg",
-    "/images/catalog/kitchens/king-k61-04.jpg",
-    "/images/catalog/kitchens/king-k61-05.jpg"
+    "/images/catalog/kitchens/king-k61-02.jpg"
   ]
 }

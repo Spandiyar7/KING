@@ -14,10 +14,16 @@
   "depth": "",
   "height": "",
   "featured": false,
-  "order": 634,
+  "order": 92,
   "images": [
     "/images/catalog/kitchens/king-k63-01.jpg",
     "/images/catalog/kitchens/king-k63-02.jpg",
-    "/images/catalog/kitchens/king-k63-03.jpg"
+    "/images/catalog/kitchens/king-k63-03.jpg",
+    "/images/catalog/kitchens/king-k63-04.jpg",
+    "/images/catalog/kitchens/king-k63-05.jpg",
+    "/images/catalog/kitchens/king-k63-06.jpg",
+    "/images/catalog/kitchens/king-k63-07.jpg",
+    "/images/catalog/kitchens/king-k63-08.jpg",
+    "/images/catalog/kitchens/king-k63-09.jpg"
   ]
 }

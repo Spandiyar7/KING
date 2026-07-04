@@ -1381,12 +1381,19 @@
         "/images/catalog/kitchens/king-k1-03.jpg",
         "/images/catalog/kitchens/king-k1-04.jpg",
         "/images/catalog/kitchens/king-k1-05.jpg",
-        "/images/catalog/kitchens/king-k1-06.jpg"
+        "/images/catalog/kitchens/king-k1-06.jpg",
+        "/images/catalog/kitchens/king-k1-07.jpg",
+        "/images/catalog/kitchens/king-k1-08.jpg",
+        "/images/catalog/kitchens/king-k1-09.jpg",
+        "/images/catalog/kitchens/king-k1-10.jpg",
+        "/images/catalog/kitchens/king-k1-11.jpg",
+        "/images/catalog/kitchens/king-k1-12.jpg",
+        "/images/catalog/kitchens/king-k1-13.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k1-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k1-01-t.jpg",
-      "heroW": 799,
-      "heroH": 1000,
+      "heroW": 1000,
+      "heroH": 629,
       "featured": false,
       "order": 30,
       "shortSpecs": [],
@@ -1425,7 +1432,9 @@
         "/images/catalog/kitchens/king-k2-02.jpg",
         "/images/catalog/kitchens/king-k2-03.jpg",
         "/images/catalog/kitchens/king-k2-04.jpg",
-        "/images/catalog/kitchens/king-k2-05.jpg"
+        "/images/catalog/kitchens/king-k2-05.jpg",
+        "/images/catalog/kitchens/king-k2-06.jpg",
+        "/images/catalog/kitchens/king-k2-07.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k2-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k2-01-t.jpg",
@@ -1466,7 +1475,10 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k3-01.jpg",
-        "/images/catalog/kitchens/king-k3-02.jpg"
+        "/images/catalog/kitchens/king-k3-02.jpg",
+        "/images/catalog/kitchens/king-k3-03.jpg",
+        "/images/catalog/kitchens/king-k3-04.jpg",
+        "/images/catalog/kitchens/king-k3-05.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k3-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k3-01-t.jpg",
@@ -1511,7 +1523,35 @@
         "/images/catalog/kitchens/king-k4-03.jpg",
         "/images/catalog/kitchens/king-k4-04.jpg",
         "/images/catalog/kitchens/king-k4-05.jpg",
-        "/images/catalog/kitchens/king-k4-06.jpg"
+        "/images/catalog/kitchens/king-k4-06.jpg",
+        "/images/catalog/kitchens/king-k4-07.jpg",
+        "/images/catalog/kitchens/king-k4-08.jpg",
+        "/images/catalog/kitchens/king-k4-09.jpg",
+        "/images/catalog/kitchens/king-k4-10.jpg",
+        "/images/catalog/kitchens/king-k4-11.jpg",
+        "/images/catalog/kitchens/king-k4-12.jpg",
+        "/images/catalog/kitchens/king-k4-13.jpg",
+        "/images/catalog/kitchens/king-k4-14.jpg",
+        "/images/catalog/kitchens/king-k4-15.jpg",
+        "/images/catalog/kitchens/king-k4-16.jpg",
+        "/images/catalog/kitchens/king-k4-17.jpg",
+        "/images/catalog/kitchens/king-k4-18.jpg",
+        "/images/catalog/kitchens/king-k4-19.jpg",
+        "/images/catalog/kitchens/king-k4-20.jpg",
+        "/images/catalog/kitchens/king-k4-21.jpg",
+        "/images/catalog/kitchens/king-k4-22.jpg",
+        "/images/catalog/kitchens/king-k4-23.jpg",
+        "/images/catalog/kitchens/king-k4-24.jpg",
+        "/images/catalog/kitchens/king-k4-25.jpg",
+        "/images/catalog/kitchens/king-k4-26.jpg",
+        "/images/catalog/kitchens/king-k4-27.jpg",
+        "/images/catalog/kitchens/king-k4-28.jpg",
+        "/images/catalog/kitchens/king-k4-29.jpg",
+        "/images/catalog/kitchens/king-k4-30.jpg",
+        "/images/catalog/kitchens/king-k4-31.jpg",
+        "/images/catalog/kitchens/king-k4-32.jpg",
+        "/images/catalog/kitchens/king-k4-33.jpg",
+        "/images/catalog/kitchens/king-k4-34.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k4-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k4-01-t.jpg",
@@ -1555,7 +1595,17 @@
         "/images/catalog/kitchens/king-k5-02.jpg",
         "/images/catalog/kitchens/king-k5-03.jpg",
         "/images/catalog/kitchens/king-k5-04.jpg",
-        "/images/catalog/kitchens/king-k5-05.jpg"
+        "/images/catalog/kitchens/king-k5-05.jpg",
+        "/images/catalog/kitchens/king-k5-06.jpg",
+        "/images/catalog/kitchens/king-k5-07.jpg",
+        "/images/catalog/kitchens/king-k5-08.jpg",
+        "/images/catalog/kitchens/king-k5-09.jpg",
+        "/images/catalog/kitchens/king-k5-10.jpg",
+        "/images/catalog/kitchens/king-k5-11.jpg",
+        "/images/catalog/kitchens/king-k5-12.jpg",
+        "/images/catalog/kitchens/king-k5-13.jpg",
+        "/images/catalog/kitchens/king-k5-14.jpg",
+        "/images/catalog/kitchens/king-k5-15.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k5-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k5-01-t.jpg",
@@ -1683,7 +1733,18 @@
       "images": [
         "/images/catalog/kitchens/king-k8-01.jpg",
         "/images/catalog/kitchens/king-k8-02.jpg",
-        "/images/catalog/kitchens/king-k8-03.jpg"
+        "/images/catalog/kitchens/king-k8-03.jpg",
+        "/images/catalog/kitchens/king-k8-04.jpg",
+        "/images/catalog/kitchens/king-k8-05.jpg",
+        "/images/catalog/kitchens/king-k8-06.jpg",
+        "/images/catalog/kitchens/king-k8-07.jpg",
+        "/images/catalog/kitchens/king-k8-08.jpg",
+        "/images/catalog/kitchens/king-k8-09.jpg",
+        "/images/catalog/kitchens/king-k8-10.jpg",
+        "/images/catalog/kitchens/king-k8-11.jpg",
+        "/images/catalog/kitchens/king-k8-12.jpg",
+        "/images/catalog/kitchens/king-k8-13.jpg",
+        "/images/catalog/kitchens/king-k8-14.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k8-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k8-01-t.jpg",
@@ -1767,7 +1828,9 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k10-01.jpg",
-        "/images/catalog/kitchens/king-k10-02.jpg"
+        "/images/catalog/kitchens/king-k10-02.jpg",
+        "/images/catalog/kitchens/king-k10-03.jpg",
+        "/images/catalog/kitchens/king-k10-04.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k10-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k10-01-t.jpg",
@@ -1808,7 +1871,8 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k11-01.jpg",
-        "/images/catalog/kitchens/king-k11-02.jpg"
+        "/images/catalog/kitchens/king-k11-02.jpg",
+        "/images/catalog/kitchens/king-k11-03.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k11-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k11-01-t.jpg",
@@ -1849,7 +1913,12 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k12-01.jpg",
-        "/images/catalog/kitchens/king-k12-02.jpg"
+        "/images/catalog/kitchens/king-k12-02.jpg",
+        "/images/catalog/kitchens/king-k12-03.jpg",
+        "/images/catalog/kitchens/king-k12-04.jpg",
+        "/images/catalog/kitchens/king-k12-05.jpg",
+        "/images/catalog/kitchens/king-k12-06.jpg",
+        "/images/catalog/kitchens/king-k12-07.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k12-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k12-01-t.jpg",
@@ -1890,15 +1959,11 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k13-01.jpg",
-        "/images/catalog/kitchens/king-k13-02.jpg",
-        "/images/catalog/kitchens/king-k13-03.jpg",
-        "/images/catalog/kitchens/king-k13-04.jpg",
-        "/images/catalog/kitchens/king-k13-05.jpg",
-        "/images/catalog/kitchens/king-k13-06.jpg"
+        "/images/catalog/kitchens/king-k13-02.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k13-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k13-01-t.jpg",
-      "heroW": 799,
+      "heroW": 800,
       "heroH": 1000,
       "featured": false,
       "order": 42,
@@ -1935,12 +2000,16 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k14-01.jpg",
-        "/images/catalog/kitchens/king-k14-02.jpg"
+        "/images/catalog/kitchens/king-k14-02.jpg",
+        "/images/catalog/kitchens/king-k14-03.jpg",
+        "/images/catalog/kitchens/king-k14-04.jpg",
+        "/images/catalog/kitchens/king-k14-05.jpg",
+        "/images/catalog/kitchens/king-k14-06.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k14-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k14-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
+      "heroW": 1000,
+      "heroH": 665,
       "featured": false,
       "order": 43,
       "shortSpecs": [],
@@ -1978,14 +2047,12 @@
         "/images/catalog/kitchens/king-k15-01.jpg",
         "/images/catalog/kitchens/king-k15-02.jpg",
         "/images/catalog/kitchens/king-k15-03.jpg",
-        "/images/catalog/kitchens/king-k15-04.jpg",
-        "/images/catalog/kitchens/king-k15-05.jpg",
-        "/images/catalog/kitchens/king-k15-06.jpg"
+        "/images/catalog/kitchens/king-k15-04.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k15-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k15-01-t.jpg",
       "heroW": 1000,
-      "heroH": 665,
+      "heroH": 750,
       "featured": false,
       "order": 44,
       "shortSpecs": [],
@@ -2021,12 +2088,35 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k16-01.jpg",
-        "/images/catalog/kitchens/king-k16-02.jpg"
+        "/images/catalog/kitchens/king-k16-02.jpg",
+        "/images/catalog/kitchens/king-k16-03.jpg",
+        "/images/catalog/kitchens/king-k16-04.jpg",
+        "/images/catalog/kitchens/king-k16-05.jpg",
+        "/images/catalog/kitchens/king-k16-06.jpg",
+        "/images/catalog/kitchens/king-k16-07.jpg",
+        "/images/catalog/kitchens/king-k16-08.jpg",
+        "/images/catalog/kitchens/king-k16-09.jpg",
+        "/images/catalog/kitchens/king-k16-10.jpg",
+        "/images/catalog/kitchens/king-k16-11.jpg",
+        "/images/catalog/kitchens/king-k16-12.jpg",
+        "/images/catalog/kitchens/king-k16-13.jpg",
+        "/images/catalog/kitchens/king-k16-14.jpg",
+        "/images/catalog/kitchens/king-k16-15.jpg",
+        "/images/catalog/kitchens/king-k16-16.jpg",
+        "/images/catalog/kitchens/king-k16-17.jpg",
+        "/images/catalog/kitchens/king-k16-18.jpg",
+        "/images/catalog/kitchens/king-k16-19.jpg",
+        "/images/catalog/kitchens/king-k16-20.jpg",
+        "/images/catalog/kitchens/king-k16-21.jpg",
+        "/images/catalog/kitchens/king-k16-22.jpg",
+        "/images/catalog/kitchens/king-k16-23.jpg",
+        "/images/catalog/kitchens/king-k16-24.jpg",
+        "/images/catalog/kitchens/king-k16-25.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k16-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k16-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 750,
+      "heroW": 751,
+      "heroH": 1000,
       "featured": false,
       "order": 45,
       "shortSpecs": [],
@@ -2062,11 +2152,21 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k17-01.jpg",
-        "/images/catalog/kitchens/king-k17-02.jpg"
+        "/images/catalog/kitchens/king-k17-02.jpg",
+        "/images/catalog/kitchens/king-k17-03.jpg",
+        "/images/catalog/kitchens/king-k17-04.jpg",
+        "/images/catalog/kitchens/king-k17-05.jpg",
+        "/images/catalog/kitchens/king-k17-06.jpg",
+        "/images/catalog/kitchens/king-k17-07.jpg",
+        "/images/catalog/kitchens/king-k17-08.jpg",
+        "/images/catalog/kitchens/king-k17-09.jpg",
+        "/images/catalog/kitchens/king-k17-10.jpg",
+        "/images/catalog/kitchens/king-k17-11.jpg",
+        "/images/catalog/kitchens/king-k17-12.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k17-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k17-01-t.jpg",
-      "heroW": 751,
+      "heroW": 750,
       "heroH": 1000,
       "featured": false,
       "order": 46,
@@ -2103,8 +2203,7 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k18-01.jpg",
-        "/images/catalog/kitchens/king-k18-02.jpg",
-        "/images/catalog/kitchens/king-k18-03.jpg"
+        "/images/catalog/kitchens/king-k18-02.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k18-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k18-01-t.jpg",
@@ -2149,7 +2248,14 @@
         "/images/catalog/kitchens/king-k19-03.jpg",
         "/images/catalog/kitchens/king-k19-04.jpg",
         "/images/catalog/kitchens/king-k19-05.jpg",
-        "/images/catalog/kitchens/king-k19-06.jpg"
+        "/images/catalog/kitchens/king-k19-06.jpg",
+        "/images/catalog/kitchens/king-k19-07.jpg",
+        "/images/catalog/kitchens/king-k19-08.jpg",
+        "/images/catalog/kitchens/king-k19-09.jpg",
+        "/images/catalog/kitchens/king-k19-10.jpg",
+        "/images/catalog/kitchens/king-k19-11.jpg",
+        "/images/catalog/kitchens/king-k19-12.jpg",
+        "/images/catalog/kitchens/king-k19-13.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k19-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k19-01-t.jpg",
@@ -2239,7 +2345,14 @@
         "/images/catalog/kitchens/king-k21-03.jpg",
         "/images/catalog/kitchens/king-k21-04.jpg",
         "/images/catalog/kitchens/king-k21-05.jpg",
-        "/images/catalog/kitchens/king-k21-06.jpg"
+        "/images/catalog/kitchens/king-k21-06.jpg",
+        "/images/catalog/kitchens/king-k21-07.jpg",
+        "/images/catalog/kitchens/king-k21-08.jpg",
+        "/images/catalog/kitchens/king-k21-09.jpg",
+        "/images/catalog/kitchens/king-k21-10.jpg",
+        "/images/catalog/kitchens/king-k21-11.jpg",
+        "/images/catalog/kitchens/king-k21-12.jpg",
+        "/images/catalog/kitchens/king-k21-13.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k21-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k21-01-t.jpg",
@@ -2280,11 +2393,15 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k22-01.jpg",
-        "/images/catalog/kitchens/king-k22-02.jpg"
+        "/images/catalog/kitchens/king-k22-02.jpg",
+        "/images/catalog/kitchens/king-k22-03.jpg",
+        "/images/catalog/kitchens/king-k22-04.jpg",
+        "/images/catalog/kitchens/king-k22-05.jpg",
+        "/images/catalog/kitchens/king-k22-06.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k22-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k22-01-t.jpg",
-      "heroW": 750,
+      "heroW": 800,
       "heroH": 1000,
       "featured": false,
       "order": 51,
@@ -2325,11 +2442,17 @@
         "/images/catalog/kitchens/king-k23-03.jpg",
         "/images/catalog/kitchens/king-k23-04.jpg",
         "/images/catalog/kitchens/king-k23-05.jpg",
-        "/images/catalog/kitchens/king-k23-06.jpg"
+        "/images/catalog/kitchens/king-k23-06.jpg",
+        "/images/catalog/kitchens/king-k23-07.jpg",
+        "/images/catalog/kitchens/king-k23-08.jpg",
+        "/images/catalog/kitchens/king-k23-09.jpg",
+        "/images/catalog/kitchens/king-k23-10.jpg",
+        "/images/catalog/kitchens/king-k23-11.jpg",
+        "/images/catalog/kitchens/king-k23-12.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k23-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k23-01-t.jpg",
-      "heroW": 750,
+      "heroW": 800,
       "heroH": 1000,
       "featured": false,
       "order": 52,
@@ -2366,13 +2489,12 @@
       "price": null,
       "images": [
         "/images/catalog/kitchens/king-k24-01.jpg",
-        "/images/catalog/kitchens/king-k24-02.jpg",
-        "/images/catalog/kitchens/king-k24-03.jpg"
+        "/images/catalog/kitchens/king-k24-02.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k24-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k24-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 667,
+      "heroW": 801,
+      "heroH": 1000,
       "featured": false,
       "order": 53,
       "shortSpecs": [],
@@ -2407,16 +2529,11 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/kitchens/king-k25-01.jpg",
-        "/images/catalog/kitchens/king-k25-02.jpg",
-        "/images/catalog/kitchens/king-k25-03.jpg",
-        "/images/catalog/kitchens/king-k25-04.jpg",
-        "/images/catalog/kitchens/king-k25-05.jpg",
-        "/images/catalog/kitchens/king-k25-06.jpg"
+        "/images/catalog/kitchens/king-k25-01.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k25-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k25-01-t.jpg",
-      "heroW": 750,
+      "heroW": 800,
       "heroH": 1000,
       "featured": false,
       "order": 54,
@@ -2461,7 +2578,7 @@
       ],
       "heroImage": "/images/catalog/kitchens/king-k26-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k26-01-t.jpg",
-      "heroW": 800,
+      "heroW": 722,
       "heroH": 1000,
       "featured": false,
       "order": 55,
@@ -2497,15 +2614,11 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/kitchens/king-k27-01.jpg",
-        "/images/catalog/kitchens/king-k27-02.jpg",
-        "/images/catalog/kitchens/king-k27-03.jpg",
-        "/images/catalog/kitchens/king-k27-04.jpg",
-        "/images/catalog/kitchens/king-k27-05.jpg"
+        "/images/catalog/kitchens/king-k27-01.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k27-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k27-01-t.jpg",
-      "heroW": 800,
+      "heroW": 1000,
       "heroH": 1000,
       "featured": false,
       "order": 56,
@@ -2541,15 +2654,95 @@
       "height": "",
       "price": null,
       "images": [
-        "/images/catalog/kitchens/king-k28-01.jpg",
-        "/images/catalog/kitchens/king-k28-02.jpg"
+        "/images/catalog/kitchens/king-k28-01.jpg"
       ],
       "heroImage": "/images/catalog/kitchens/king-k28-01.jpg",
       "heroThumb": "/images/catalog/kitchens/king-k28-01-t.jpg",
-      "heroW": 801,
-      "heroH": 1000,
+      "heroW": 1000,
+      "heroH": 894,
       "featured": false,
       "order": 57,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "king-k29",
+      "slug": "king-k29",
+      "name": "KING K29",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k29-01.jpg",
+        "/images/catalog/kitchens/king-k29-02.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k29-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k29-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 889,
+      "featured": false,
+      "order": 58,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
+      "id": "king-k30",
+      "slug": "king-k30",
+      "name": "KING K30",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k30-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k30-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k30-01-t.jpg",
+      "heroW": 833,
+      "heroH": 1000,
+      "featured": false,
+      "order": 59,
       "shortSpecs": [],
       "specifications": [
         {
@@ -2599,6 +2792,48 @@
       ]
     },
     {
+      "id": "king-k31",
+      "slug": "king-k31",
+      "name": "KING K31",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k31-01.jpg",
+        "/images/catalog/kitchens/king-k31-02.jpg",
+        "/images/catalog/kitchens/king-k31-03.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k31-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k31-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 60,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a2",
       "slug": "king-a2",
       "name": "KING A2",
@@ -2631,6 +2866,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k32",
+      "slug": "king-k32",
+      "name": "KING K32",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k32-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k32-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k32-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 61,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -2671,6 +2946,46 @@
       ]
     },
     {
+      "id": "king-k33",
+      "slug": "king-k33",
+      "name": "KING K33",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k33-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k33-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k33-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 996,
+      "featured": false,
+      "order": 62,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a4",
       "slug": "king-a4",
       "name": "KING A4",
@@ -2703,6 +3018,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k34",
+      "slug": "king-k34",
+      "name": "KING K34",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k34-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k34-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k34-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 63,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -2743,6 +3098,46 @@
       ]
     },
     {
+      "id": "king-k35",
+      "slug": "king-k35",
+      "name": "KING K35",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k35-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k35-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k35-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 599,
+      "featured": false,
+      "order": 64,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a6",
       "slug": "king-a6",
       "name": "KING A6",
@@ -2775,6 +3170,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k36",
+      "slug": "king-k36",
+      "name": "KING K36",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k36-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k36-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k36-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 935,
+      "featured": false,
+      "order": 65,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -2815,6 +3250,46 @@
       ]
     },
     {
+      "id": "king-k37",
+      "slug": "king-k37",
+      "name": "KING K37",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k37-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k37-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k37-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 998,
+      "featured": false,
+      "order": 66,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a8",
       "slug": "king-a8",
       "name": "KING A8",
@@ -2847,6 +3322,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k38",
+      "slug": "king-k38",
+      "name": "KING K38",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k38-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k38-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k38-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 67,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -2887,6 +3402,46 @@
       ]
     },
     {
+      "id": "king-k39",
+      "slug": "king-k39",
+      "name": "KING K39",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k39-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k39-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k39-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 926,
+      "featured": false,
+      "order": 68,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a10",
       "slug": "king-a10",
       "name": "KING A10",
@@ -2919,6 +3474,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k40",
+      "slug": "king-k40",
+      "name": "KING K40",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k40-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k40-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k40-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 711,
+      "featured": false,
+      "order": 69,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -2959,6 +3554,46 @@
       ]
     },
     {
+      "id": "king-k41",
+      "slug": "king-k41",
+      "name": "KING K41",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k41-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k41-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k41-01-t.jpg",
+      "heroW": 666,
+      "heroH": 1000,
+      "featured": false,
+      "order": 70,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a12",
       "slug": "king-a12",
       "name": "KING A12",
@@ -2991,6 +3626,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k42",
+      "slug": "king-k42",
+      "name": "KING K42",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k42-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k42-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k42-01-t.jpg",
+      "heroW": 562,
+      "heroH": 1000,
+      "featured": false,
+      "order": 71,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3031,6 +3706,46 @@
       ]
     },
     {
+      "id": "king-k43",
+      "slug": "king-k43",
+      "name": "KING K43",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k43-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k43-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k43-01-t.jpg",
+      "heroW": 839,
+      "heroH": 1000,
+      "featured": false,
+      "order": 72,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a14",
       "slug": "king-a14",
       "name": "KING A14",
@@ -3063,6 +3778,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k44",
+      "slug": "king-k44",
+      "name": "KING K44",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k44-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k44-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k44-01-t.jpg",
+      "heroW": 539,
+      "heroH": 1000,
+      "featured": false,
+      "order": 73,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3103,6 +3858,46 @@
       ]
     },
     {
+      "id": "king-k45",
+      "slug": "king-k45",
+      "name": "KING K45",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k45-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k45-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k45-01-t.jpg",
+      "heroW": 993,
+      "heroH": 1000,
+      "featured": false,
+      "order": 74,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a16",
       "slug": "king-a16",
       "name": "KING A16",
@@ -3135,6 +3930,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k46",
+      "slug": "king-k46",
+      "name": "KING K46",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k46-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k46-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k46-01-t.jpg",
+      "heroW": 666,
+      "heroH": 1000,
+      "featured": false,
+      "order": 75,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3175,6 +4010,46 @@
       ]
     },
     {
+      "id": "king-k47",
+      "slug": "king-k47",
+      "name": "KING K47",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k47-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k47-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k47-01-t.jpg",
+      "heroW": 883,
+      "heroH": 1000,
+      "featured": false,
+      "order": 76,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a18",
       "slug": "king-a18",
       "name": "KING A18",
@@ -3207,6 +4082,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k48",
+      "slug": "king-k48",
+      "name": "KING K48",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k48-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k48-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k48-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 704,
+      "featured": false,
+      "order": 77,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3247,6 +4162,46 @@
       ]
     },
     {
+      "id": "king-k49",
+      "slug": "king-k49",
+      "name": "KING K49",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k49-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k49-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k49-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 646,
+      "featured": false,
+      "order": 78,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a20",
       "slug": "king-a20",
       "name": "KING A20",
@@ -3279,6 +4234,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k50",
+      "slug": "king-k50",
+      "name": "KING K50",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k50-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k50-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k50-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 79,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3319,6 +4314,50 @@
       ]
     },
     {
+      "id": "king-k51",
+      "slug": "king-k51",
+      "name": "KING K51",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k51-01.jpg",
+        "/images/catalog/kitchens/king-k51-02.jpg",
+        "/images/catalog/kitchens/king-k51-03.jpg",
+        "/images/catalog/kitchens/king-k51-04.jpg",
+        "/images/catalog/kitchens/king-k51-05.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k51-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k51-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 80,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a22",
       "slug": "king-a22",
       "name": "KING A22",
@@ -3351,6 +4390,48 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k52",
+      "slug": "king-k52",
+      "name": "KING K52",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k52-01.jpg",
+        "/images/catalog/kitchens/king-k52-02.jpg",
+        "/images/catalog/kitchens/king-k52-03.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k52-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k52-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 81,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3391,6 +4472,48 @@
       ]
     },
     {
+      "id": "king-k53",
+      "slug": "king-k53",
+      "name": "KING K53",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k53-01.jpg",
+        "/images/catalog/kitchens/king-k53-02.jpg",
+        "/images/catalog/kitchens/king-k53-03.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k53-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k53-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 666,
+      "featured": false,
+      "order": 82,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a24",
       "slug": "king-a24",
       "name": "KING A24",
@@ -3423,6 +4546,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k54",
+      "slug": "king-k54",
+      "name": "KING K54",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k54-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k54-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k54-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 666,
+      "featured": false,
+      "order": 83,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3463,6 +4626,46 @@
       ]
     },
     {
+      "id": "king-k55",
+      "slug": "king-k55",
+      "name": "KING K55",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k55-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k55-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k55-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 666,
+      "featured": false,
+      "order": 84,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a26",
       "slug": "king-a26",
       "name": "KING A26",
@@ -3495,6 +4698,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k56",
+      "slug": "king-k56",
+      "name": "KING K56",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k56-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k56-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k56-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 666,
+      "featured": false,
+      "order": 85,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3535,6 +4778,47 @@
       ]
     },
     {
+      "id": "king-k57",
+      "slug": "king-k57",
+      "name": "KING K57",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k57-01.jpg",
+        "/images/catalog/kitchens/king-k57-02.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k57-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k57-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 666,
+      "featured": false,
+      "order": 86,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a28",
       "slug": "king-a28",
       "name": "KING A28",
@@ -3567,6 +4851,52 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k58",
+      "slug": "king-k58",
+      "name": "KING K58",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k58-01.jpg",
+        "/images/catalog/kitchens/king-k58-02.jpg",
+        "/images/catalog/kitchens/king-k58-03.jpg",
+        "/images/catalog/kitchens/king-k58-04.jpg",
+        "/images/catalog/kitchens/king-k58-05.jpg",
+        "/images/catalog/kitchens/king-k58-06.jpg",
+        "/images/catalog/kitchens/king-k58-07.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k58-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k58-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 665,
+      "featured": false,
+      "order": 87,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3607,6 +4937,73 @@
       ]
     },
     {
+      "id": "king-k59",
+      "slug": "king-k59",
+      "name": "KING K59",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k59-01.jpg",
+        "/images/catalog/kitchens/king-k59-02.jpg",
+        "/images/catalog/kitchens/king-k59-03.jpg",
+        "/images/catalog/kitchens/king-k59-04.jpg",
+        "/images/catalog/kitchens/king-k59-05.jpg",
+        "/images/catalog/kitchens/king-k59-06.jpg",
+        "/images/catalog/kitchens/king-k59-07.jpg",
+        "/images/catalog/kitchens/king-k59-08.jpg",
+        "/images/catalog/kitchens/king-k59-09.jpg",
+        "/images/catalog/kitchens/king-k59-10.jpg",
+        "/images/catalog/kitchens/king-k59-11.jpg",
+        "/images/catalog/kitchens/king-k59-12.jpg",
+        "/images/catalog/kitchens/king-k59-13.jpg",
+        "/images/catalog/kitchens/king-k59-14.jpg",
+        "/images/catalog/kitchens/king-k59-15.jpg",
+        "/images/catalog/kitchens/king-k59-16.jpg",
+        "/images/catalog/kitchens/king-k59-17.jpg",
+        "/images/catalog/kitchens/king-k59-18.jpg",
+        "/images/catalog/kitchens/king-k59-19.jpg",
+        "/images/catalog/kitchens/king-k59-20.jpg",
+        "/images/catalog/kitchens/king-k59-21.jpg",
+        "/images/catalog/kitchens/king-k59-22.jpg",
+        "/images/catalog/kitchens/king-k59-23.jpg",
+        "/images/catalog/kitchens/king-k59-24.jpg",
+        "/images/catalog/kitchens/king-k59-25.jpg",
+        "/images/catalog/kitchens/king-k59-26.jpg",
+        "/images/catalog/kitchens/king-k59-27.jpg",
+        "/images/catalog/kitchens/king-k59-28.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k59-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k59-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 667,
+      "featured": false,
+      "order": 88,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a30",
       "slug": "king-a30",
       "name": "KING A30",
@@ -3639,6 +5036,56 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k60",
+      "slug": "king-k60",
+      "name": "KING K60",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k60-01.jpg",
+        "/images/catalog/kitchens/king-k60-02.jpg",
+        "/images/catalog/kitchens/king-k60-03.jpg",
+        "/images/catalog/kitchens/king-k60-04.jpg",
+        "/images/catalog/kitchens/king-k60-05.jpg",
+        "/images/catalog/kitchens/king-k60-06.jpg",
+        "/images/catalog/kitchens/king-k60-07.jpg",
+        "/images/catalog/kitchens/king-k60-08.jpg",
+        "/images/catalog/kitchens/king-k60-09.jpg",
+        "/images/catalog/kitchens/king-k60-10.jpg",
+        "/images/catalog/kitchens/king-k60-11.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k60-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k60-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 89,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3679,6 +5126,47 @@
       ]
     },
     {
+      "id": "king-k61",
+      "slug": "king-k61",
+      "name": "KING K61",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k61-01.jpg",
+        "/images/catalog/kitchens/king-k61-02.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k61-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k61-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 90,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a32",
       "slug": "king-a32",
       "name": "KING A32",
@@ -3711,6 +5199,48 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k62",
+      "slug": "king-k62",
+      "name": "KING K62",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k62-01.jpg",
+        "/images/catalog/kitchens/king-k62-02.jpg",
+        "/images/catalog/kitchens/king-k62-03.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k62-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k62-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 91,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -3751,6 +5281,54 @@
       ]
     },
     {
+      "id": "king-k63",
+      "slug": "king-k63",
+      "name": "KING K63",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k63-01.jpg",
+        "/images/catalog/kitchens/king-k63-02.jpg",
+        "/images/catalog/kitchens/king-k63-03.jpg",
+        "/images/catalog/kitchens/king-k63-04.jpg",
+        "/images/catalog/kitchens/king-k63-05.jpg",
+        "/images/catalog/kitchens/king-k63-06.jpg",
+        "/images/catalog/kitchens/king-k63-07.jpg",
+        "/images/catalog/kitchens/king-k63-08.jpg",
+        "/images/catalog/kitchens/king-k63-09.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k63-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k63-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 92,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
+        }
+      ]
+    },
+    {
       "id": "king-a34",
       "slug": "king-a34",
       "name": "KING A34",
@@ -3783,6 +5361,46 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-k64",
+      "slug": "king-k64",
+      "name": "KING K64",
+      "category": "kitchens",
+      "collection": "",
+      "subtitle": "Кухня на заказ по индивидуальному проекту",
+      "intro": "Кухня на заказ по индивидуальному проекту",
+      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+      "color": "wood",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/kitchens/king-k64-01.jpg"
+      ],
+      "heroImage": "/images/catalog/kitchens/king-k64-01.jpg",
+      "heroThumb": "/images/catalog/kitchens/king-k64-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 93,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кухня"
+        },
+        {
+          "label": "Цвет",
+          "value": "wood"
         }
       ]
     },
@@ -12076,2482 +13694,6 @@
         {
           "label": "Категория",
           "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-k29",
-      "slug": "king-k29",
-      "name": "KING K29",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k29-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k29-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k29-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 600,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k30",
-      "slug": "king-k30",
-      "name": "KING K30",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k30-01.jpg",
-        "/images/catalog/kitchens/king-k30-02.jpg",
-        "/images/catalog/kitchens/king-k30-03.jpg",
-        "/images/catalog/kitchens/king-k30-04.jpg",
-        "/images/catalog/kitchens/king-k30-05.jpg",
-        "/images/catalog/kitchens/king-k30-06.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k30-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k30-01-t.jpg",
-      "heroW": 722,
-      "heroH": 1000,
-      "featured": false,
-      "order": 601,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k31",
-      "slug": "king-k31",
-      "name": "KING K31",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k31-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k31-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k31-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 602,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k32",
-      "slug": "king-k32",
-      "name": "KING K32",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k32-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k32-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k32-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 894,
-      "featured": false,
-      "order": 603,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k33",
-      "slug": "king-k33",
-      "name": "KING K33",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k33-01.jpg",
-        "/images/catalog/kitchens/king-k33-02.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k33-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k33-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 889,
-      "featured": false,
-      "order": 604,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k34",
-      "slug": "king-k34",
-      "name": "KING K34",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k34-01.jpg",
-        "/images/catalog/kitchens/king-k34-02.jpg",
-        "/images/catalog/kitchens/king-k34-03.jpg",
-        "/images/catalog/kitchens/king-k34-04.jpg",
-        "/images/catalog/kitchens/king-k34-05.jpg",
-        "/images/catalog/kitchens/king-k34-06.jpg",
-        "/images/catalog/kitchens/king-k34-07.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k34-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k34-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 629,
-      "featured": false,
-      "order": 605,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k35",
-      "slug": "king-k35",
-      "name": "KING K35",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k35-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k35-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k35-01-t.jpg",
-      "heroW": 833,
-      "heroH": 1000,
-      "featured": false,
-      "order": 606,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k36",
-      "slug": "king-k36",
-      "name": "KING K36",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k36-01.jpg",
-        "/images/catalog/kitchens/king-k36-02.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k36-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k36-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 607,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k37",
-      "slug": "king-k37",
-      "name": "KING K37",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k37-01.jpg",
-        "/images/catalog/kitchens/king-k37-02.jpg",
-        "/images/catalog/kitchens/king-k37-03.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k37-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k37-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 608,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k38",
-      "slug": "king-k38",
-      "name": "KING K38",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k38-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k38-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k38-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 609,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k39",
-      "slug": "king-k39",
-      "name": "KING K39",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k39-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k39-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k39-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 996,
-      "featured": false,
-      "order": 610,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k40",
-      "slug": "king-k40",
-      "name": "KING K40",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k40-01.jpg",
-        "/images/catalog/kitchens/king-k40-02.jpg",
-        "/images/catalog/kitchens/king-k40-03.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k40-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k40-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 787,
-      "featured": false,
-      "order": 611,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k41",
-      "slug": "king-k41",
-      "name": "KING K41",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k41-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k41-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k41-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 612,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k42",
-      "slug": "king-k42",
-      "name": "KING K42",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k42-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k42-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k42-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 599,
-      "featured": false,
-      "order": 613,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k43",
-      "slug": "king-k43",
-      "name": "KING K43",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k43-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k43-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k43-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 935,
-      "featured": false,
-      "order": 614,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k44",
-      "slug": "king-k44",
-      "name": "KING K44",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k44-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k44-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k44-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 998,
-      "featured": false,
-      "order": 615,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k45",
-      "slug": "king-k45",
-      "name": "KING K45",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k45-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k45-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k45-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 616,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k46",
-      "slug": "king-k46",
-      "name": "KING K46",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k46-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k46-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k46-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 926,
-      "featured": false,
-      "order": 617,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k47",
-      "slug": "king-k47",
-      "name": "KING K47",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k47-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k47-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k47-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 711,
-      "featured": false,
-      "order": 618,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k48",
-      "slug": "king-k48",
-      "name": "KING K48",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k48-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k48-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k48-01-t.jpg",
-      "heroW": 666,
-      "heroH": 1000,
-      "featured": false,
-      "order": 619,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k49",
-      "slug": "king-k49",
-      "name": "KING K49",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k49-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k49-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k49-01-t.jpg",
-      "heroW": 562,
-      "heroH": 1000,
-      "featured": false,
-      "order": 620,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k50",
-      "slug": "king-k50",
-      "name": "KING K50",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k50-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k50-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k50-01-t.jpg",
-      "heroW": 839,
-      "heroH": 1000,
-      "featured": false,
-      "order": 621,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k51",
-      "slug": "king-k51",
-      "name": "KING K51",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k51-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k51-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k51-01-t.jpg",
-      "heroW": 539,
-      "heroH": 1000,
-      "featured": false,
-      "order": 622,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k52",
-      "slug": "king-k52",
-      "name": "KING K52",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k52-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k52-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k52-01-t.jpg",
-      "heroW": 993,
-      "heroH": 1000,
-      "featured": false,
-      "order": 623,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k53",
-      "slug": "king-k53",
-      "name": "KING K53",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k53-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k53-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k53-01-t.jpg",
-      "heroW": 666,
-      "heroH": 1000,
-      "featured": false,
-      "order": 624,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k54",
-      "slug": "king-k54",
-      "name": "KING K54",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k54-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k54-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k54-01-t.jpg",
-      "heroW": 883,
-      "heroH": 1000,
-      "featured": false,
-      "order": 625,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k55",
-      "slug": "king-k55",
-      "name": "KING K55",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k55-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k55-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k55-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 704,
-      "featured": false,
-      "order": 626,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k56",
-      "slug": "king-k56",
-      "name": "KING K56",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k56-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k56-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k56-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 646,
-      "featured": false,
-      "order": 627,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k57",
-      "slug": "king-k57",
-      "name": "KING K57",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k57-01.jpg",
-        "/images/catalog/kitchens/king-k57-02.jpg",
-        "/images/catalog/kitchens/king-k57-03.jpg",
-        "/images/catalog/kitchens/king-k57-04.jpg",
-        "/images/catalog/kitchens/king-k57-05.jpg",
-        "/images/catalog/kitchens/king-k57-06.jpg",
-        "/images/catalog/kitchens/king-k57-07.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k57-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k57-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 628,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k58",
-      "slug": "king-k58",
-      "name": "KING K58",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k58-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k58-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k58-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 629,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k59",
-      "slug": "king-k59",
-      "name": "KING K59",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k59-01.jpg",
-        "/images/catalog/kitchens/king-k59-02.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k59-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k59-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 630,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k60",
-      "slug": "king-k60",
-      "name": "KING K60",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k60-01.jpg",
-        "/images/catalog/kitchens/king-k60-02.jpg",
-        "/images/catalog/kitchens/king-k60-03.jpg",
-        "/images/catalog/kitchens/king-k60-04.jpg",
-        "/images/catalog/kitchens/king-k60-05.jpg",
-        "/images/catalog/kitchens/king-k60-06.jpg",
-        "/images/catalog/kitchens/king-k60-07.jpg",
-        "/images/catalog/kitchens/king-k60-08.jpg",
-        "/images/catalog/kitchens/king-k60-09.jpg",
-        "/images/catalog/kitchens/king-k60-10.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k60-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k60-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 665,
-      "featured": false,
-      "order": 631,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k61",
-      "slug": "king-k61",
-      "name": "KING K61",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k61-01.jpg",
-        "/images/catalog/kitchens/king-k61-02.jpg",
-        "/images/catalog/kitchens/king-k61-03.jpg",
-        "/images/catalog/kitchens/king-k61-04.jpg",
-        "/images/catalog/kitchens/king-k61-05.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k61-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k61-01-t.jpg",
-      "heroW": 750,
-      "heroH": 1000,
-      "featured": false,
-      "order": 632,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k62",
-      "slug": "king-k62",
-      "name": "KING K62",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k62-01.jpg",
-        "/images/catalog/kitchens/king-k62-02.jpg",
-        "/images/catalog/kitchens/king-k62-03.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k62-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k62-01-t.jpg",
-      "heroW": 750,
-      "heroH": 1000,
-      "featured": false,
-      "order": 633,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k63",
-      "slug": "king-k63",
-      "name": "KING K63",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k63-01.jpg",
-        "/images/catalog/kitchens/king-k63-02.jpg",
-        "/images/catalog/kitchens/king-k63-03.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k63-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k63-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 666,
-      "featured": false,
-      "order": 634,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k64",
-      "slug": "king-k64",
-      "name": "KING K64",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k64-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k64-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k64-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 666,
-      "featured": false,
-      "order": 635,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k65",
-      "slug": "king-k65",
-      "name": "KING K65",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k65-01.jpg",
-        "/images/catalog/kitchens/king-k65-02.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k65-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k65-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 666,
-      "featured": false,
-      "order": 636,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k66",
-      "slug": "king-k66",
-      "name": "KING K66",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k66-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k66-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k66-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 666,
-      "featured": false,
-      "order": 637,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k67",
-      "slug": "king-k67",
-      "name": "KING K67",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k67-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k67-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k67-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 666,
-      "featured": false,
-      "order": 638,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k68",
-      "slug": "king-k68",
-      "name": "KING K68",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k68-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k68-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k68-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 666,
-      "featured": false,
-      "order": 639,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k69",
-      "slug": "king-k69",
-      "name": "KING K69",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k69-01.jpg",
-        "/images/catalog/kitchens/king-k69-02.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k69-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k69-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 666,
-      "featured": false,
-      "order": 640,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k70",
-      "slug": "king-k70",
-      "name": "KING K70",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k70-01.jpg",
-        "/images/catalog/kitchens/king-k70-02.jpg",
-        "/images/catalog/kitchens/king-k70-03.jpg",
-        "/images/catalog/kitchens/king-k70-04.jpg",
-        "/images/catalog/kitchens/king-k70-05.jpg",
-        "/images/catalog/kitchens/king-k70-06.jpg",
-        "/images/catalog/kitchens/king-k70-07.jpg",
-        "/images/catalog/kitchens/king-k70-08.jpg",
-        "/images/catalog/kitchens/king-k70-09.jpg",
-        "/images/catalog/kitchens/king-k70-10.jpg",
-        "/images/catalog/kitchens/king-k70-11.jpg",
-        "/images/catalog/kitchens/king-k70-12.jpg",
-        "/images/catalog/kitchens/king-k70-13.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k70-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k70-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 641,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k71",
-      "slug": "king-k71",
-      "name": "KING K71",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k71-01.jpg",
-        "/images/catalog/kitchens/king-k71-02.jpg",
-        "/images/catalog/kitchens/king-k71-03.jpg",
-        "/images/catalog/kitchens/king-k71-04.jpg",
-        "/images/catalog/kitchens/king-k71-05.jpg",
-        "/images/catalog/kitchens/king-k71-06.jpg",
-        "/images/catalog/kitchens/king-k71-07.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k71-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k71-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 665,
-      "featured": false,
-      "order": 642,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k72",
-      "slug": "king-k72",
-      "name": "KING K72",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k72-01.jpg",
-        "/images/catalog/kitchens/king-k72-02.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k72-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k72-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 749,
-      "featured": false,
-      "order": 643,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k73",
-      "slug": "king-k73",
-      "name": "KING K73",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k73-01.jpg",
-        "/images/catalog/kitchens/king-k73-02.jpg",
-        "/images/catalog/kitchens/king-k73-03.jpg",
-        "/images/catalog/kitchens/king-k73-04.jpg",
-        "/images/catalog/kitchens/king-k73-05.jpg",
-        "/images/catalog/kitchens/king-k73-06.jpg",
-        "/images/catalog/kitchens/king-k73-07.jpg",
-        "/images/catalog/kitchens/king-k73-08.jpg",
-        "/images/catalog/kitchens/king-k73-09.jpg",
-        "/images/catalog/kitchens/king-k73-10.jpg",
-        "/images/catalog/kitchens/king-k73-11.jpg",
-        "/images/catalog/kitchens/king-k73-12.jpg",
-        "/images/catalog/kitchens/king-k73-13.jpg",
-        "/images/catalog/kitchens/king-k73-14.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k73-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k73-01-t.jpg",
-      "heroW": 751,
-      "heroH": 1000,
-      "featured": false,
-      "order": 644,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k74",
-      "slug": "king-k74",
-      "name": "KING K74",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k74-01.jpg",
-        "/images/catalog/kitchens/king-k74-02.jpg",
-        "/images/catalog/kitchens/king-k74-03.jpg",
-        "/images/catalog/kitchens/king-k74-04.jpg",
-        "/images/catalog/kitchens/king-k74-05.jpg",
-        "/images/catalog/kitchens/king-k74-06.jpg",
-        "/images/catalog/kitchens/king-k74-07.jpg",
-        "/images/catalog/kitchens/king-k74-08.jpg",
-        "/images/catalog/kitchens/king-k74-09.jpg",
-        "/images/catalog/kitchens/king-k74-10.jpg",
-        "/images/catalog/kitchens/king-k74-11.jpg",
-        "/images/catalog/kitchens/king-k74-12.jpg",
-        "/images/catalog/kitchens/king-k74-13.jpg",
-        "/images/catalog/kitchens/king-k74-14.jpg",
-        "/images/catalog/kitchens/king-k74-15.jpg",
-        "/images/catalog/kitchens/king-k74-16.jpg",
-        "/images/catalog/kitchens/king-k74-17.jpg",
-        "/images/catalog/kitchens/king-k74-18.jpg",
-        "/images/catalog/kitchens/king-k74-19.jpg",
-        "/images/catalog/kitchens/king-k74-20.jpg",
-        "/images/catalog/kitchens/king-k74-21.jpg",
-        "/images/catalog/kitchens/king-k74-22.jpg",
-        "/images/catalog/kitchens/king-k74-23.jpg",
-        "/images/catalog/kitchens/king-k74-24.jpg",
-        "/images/catalog/kitchens/king-k74-25.jpg",
-        "/images/catalog/kitchens/king-k74-26.jpg",
-        "/images/catalog/kitchens/king-k74-27.jpg",
-        "/images/catalog/kitchens/king-k74-28.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k74-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k74-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 667,
-      "featured": false,
-      "order": 645,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k75",
-      "slug": "king-k75",
-      "name": "KING K75",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k75-01.jpg",
-        "/images/catalog/kitchens/king-k75-02.jpg",
-        "/images/catalog/kitchens/king-k75-03.jpg",
-        "/images/catalog/kitchens/king-k75-04.jpg",
-        "/images/catalog/kitchens/king-k75-05.jpg",
-        "/images/catalog/kitchens/king-k75-06.jpg",
-        "/images/catalog/kitchens/king-k75-07.jpg",
-        "/images/catalog/kitchens/king-k75-08.jpg",
-        "/images/catalog/kitchens/king-k75-09.jpg",
-        "/images/catalog/kitchens/king-k75-10.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k75-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k75-01-t.jpg",
-      "heroW": 750,
-      "heroH": 1000,
-      "featured": false,
-      "order": 646,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k76",
-      "slug": "king-k76",
-      "name": "KING K76",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k76-01.jpg",
-        "/images/catalog/kitchens/king-k76-02.jpg",
-        "/images/catalog/kitchens/king-k76-03.jpg",
-        "/images/catalog/kitchens/king-k76-04.jpg",
-        "/images/catalog/kitchens/king-k76-05.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k76-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k76-01-t.jpg",
-      "heroW": 751,
-      "heroH": 1000,
-      "featured": false,
-      "order": 647,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k77",
-      "slug": "king-k77",
-      "name": "KING K77",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k77-01.jpg",
-        "/images/catalog/kitchens/king-k77-02.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k77-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k77-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 648,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k78",
-      "slug": "king-k78",
-      "name": "KING K78",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k78-01.jpg",
-        "/images/catalog/kitchens/king-k78-02.jpg",
-        "/images/catalog/kitchens/king-k78-03.jpg",
-        "/images/catalog/kitchens/king-k78-04.jpg",
-        "/images/catalog/kitchens/king-k78-05.jpg",
-        "/images/catalog/kitchens/king-k78-06.jpg",
-        "/images/catalog/kitchens/king-k78-07.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k78-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k78-01-t.jpg",
-      "heroW": 750,
-      "heroH": 1000,
-      "featured": false,
-      "order": 649,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k79",
-      "slug": "king-k79",
-      "name": "KING K79",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k79-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k79-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k79-01-t.jpg",
-      "heroW": 750,
-      "heroH": 1000,
-      "featured": false,
-      "order": 650,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k80",
-      "slug": "king-k80",
-      "name": "KING K80",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k80-01.jpg",
-        "/images/catalog/kitchens/king-k80-02.jpg",
-        "/images/catalog/kitchens/king-k80-03.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k80-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k80-01-t.jpg",
-      "heroW": 750,
-      "heroH": 1000,
-      "featured": false,
-      "order": 651,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k81",
-      "slug": "king-k81",
-      "name": "KING K81",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k81-01.jpg",
-        "/images/catalog/kitchens/king-k81-02.jpg",
-        "/images/catalog/kitchens/king-k81-03.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k81-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k81-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 666,
-      "featured": false,
-      "order": 652,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k82",
-      "slug": "king-k82",
-      "name": "KING K82",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k82-01.jpg",
-        "/images/catalog/kitchens/king-k82-02.jpg",
-        "/images/catalog/kitchens/king-k82-03.jpg",
-        "/images/catalog/kitchens/king-k82-04.jpg",
-        "/images/catalog/kitchens/king-k82-05.jpg",
-        "/images/catalog/kitchens/king-k82-06.jpg",
-        "/images/catalog/kitchens/king-k82-07.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k82-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k82-01-t.jpg",
-      "heroW": 750,
-      "heroH": 1000,
-      "featured": false,
-      "order": 653,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k83",
-      "slug": "king-k83",
-      "name": "KING K83",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k83-01.jpg",
-        "/images/catalog/kitchens/king-k83-02.jpg",
-        "/images/catalog/kitchens/king-k83-03.jpg",
-        "/images/catalog/kitchens/king-k83-04.jpg",
-        "/images/catalog/kitchens/king-k83-05.jpg",
-        "/images/catalog/kitchens/king-k83-06.jpg",
-        "/images/catalog/kitchens/king-k83-07.jpg",
-        "/images/catalog/kitchens/king-k83-08.jpg",
-        "/images/catalog/kitchens/king-k83-09.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k83-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k83-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 654,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k84",
-      "slug": "king-k84",
-      "name": "KING K84",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k84-01.jpg",
-        "/images/catalog/kitchens/king-k84-02.jpg",
-        "/images/catalog/kitchens/king-k84-03.jpg",
-        "/images/catalog/kitchens/king-k84-04.jpg",
-        "/images/catalog/kitchens/king-k84-05.jpg",
-        "/images/catalog/kitchens/king-k84-06.jpg",
-        "/images/catalog/kitchens/king-k84-07.jpg",
-        "/images/catalog/kitchens/king-k84-08.jpg",
-        "/images/catalog/kitchens/king-k84-09.jpg",
-        "/images/catalog/kitchens/king-k84-10.jpg",
-        "/images/catalog/kitchens/king-k84-11.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k84-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k84-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 655,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k85",
-      "slug": "king-k85",
-      "name": "KING K85",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k85-01.jpg",
-        "/images/catalog/kitchens/king-k85-02.jpg",
-        "/images/catalog/kitchens/king-k85-03.jpg",
-        "/images/catalog/kitchens/king-k85-04.jpg",
-        "/images/catalog/kitchens/king-k85-05.jpg",
-        "/images/catalog/kitchens/king-k85-06.jpg",
-        "/images/catalog/kitchens/king-k85-07.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k85-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k85-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 656,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
-        }
-      ]
-    },
-    {
-      "id": "king-k86",
-      "slug": "king-k86",
-      "name": "KING K86",
-      "category": "kitchens",
-      "collection": "",
-      "subtitle": "Кухня на заказ по индивидуальному проекту",
-      "intro": "Кухня на заказ по индивидуальному проекту",
-      "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
-      "color": "wood",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/kitchens/king-k86-01.jpg"
-      ],
-      "heroImage": "/images/catalog/kitchens/king-k86-01.jpg",
-      "heroThumb": "/images/catalog/kitchens/king-k86-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 657,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Кухня"
-        },
-        {
-          "label": "Цвет",
-          "value": "wood"
         }
       ]
     }
