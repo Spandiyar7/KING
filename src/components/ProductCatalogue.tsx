@@ -106,8 +106,8 @@ export function ProductCatalogue() {
                       />
                     </div>
                     <div className="pt-4">
-                      <div className="flex items-baseline justify-between gap-3">
-                        <h3 className="text-base font-medium leading-snug">{product.subtitle || product.name}</h3>
+                      <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
+                        <h3 className="min-w-0 text-base font-medium leading-snug">{product.subtitle || product.name}</h3>
                         <p className="shrink-0 text-base font-medium text-black/80">{priceLabel(product)}</p>
                       </div>
                       <div className="mt-2 space-y-1 text-xs uppercase tracking-[0.16em] text-black/45">

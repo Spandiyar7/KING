@@ -129,8 +129,8 @@ export default async function ProductPage({ params }: ProductPageProps) {
                     />
                   </div>
                   <div className="pt-4">
-                    <div className="flex items-baseline justify-between gap-3">
-                      <h3 className="text-sm font-medium leading-snug">{item.subtitle || item.name}</h3>
+                    <div className="flex flex-wrap items-baseline justify-between gap-x-3 gap-y-1">
+                      <h3 className="min-w-0 text-sm font-medium leading-snug">{item.subtitle || item.name}</h3>
                       <p className="shrink-0 text-sm font-medium text-black/75">{priceLabel(item)}</p>
                     </div>
                     <p className="mt-2 text-xs uppercase tracking-[0.16em] text-black/40">Артикул: {item.name}</p>
