@@ -1,0 +1,27 @@
+{
+  "name": "KING K57",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Кухня на заказ по индивидуальному проекту",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 628,
+  "images": [
+    "/images/catalog/kitchens/king-k57-01.jpg",
+    "/images/catalog/kitchens/king-k57-02.jpg",
+    "/images/catalog/kitchens/king-k57-03.jpg",
+    "/images/catalog/kitchens/king-k57-04.jpg",
+    "/images/catalog/kitchens/king-k57-05.jpg",
+    "/images/catalog/kitchens/king-k57-06.jpg",
+    "/images/catalog/kitchens/king-k57-07.jpg"
+  ]
+}

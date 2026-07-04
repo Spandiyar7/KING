@@ -1,0 +1,26 @@
+{
+  "name": "KING K30",
+  "category": "kitchens",
+  "collection": "",
+  "subtitle": "Кухня на заказ по индивидуальному проекту",
+  "description": "Кухня, изготовленная по индивидуальному проекту KING ATELIER: премиальные материалы, точный раскрой, фасады, столешницы и системы хранения под ваш интерьер. Стоимость рассчитывается индивидуально по размерам и конфигурации проекта.",
+  "material": "",
+  "softness": "",
+  "color": "wood",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 601,
+  "images": [
+    "/images/catalog/kitchens/king-k30-01.jpg",
+    "/images/catalog/kitchens/king-k30-02.jpg",
+    "/images/catalog/kitchens/king-k30-03.jpg",
+    "/images/catalog/kitchens/king-k30-04.jpg",
+    "/images/catalog/kitchens/king-k30-05.jpg",
+    "/images/catalog/kitchens/king-k30-06.jpg"
+  ]
+}
