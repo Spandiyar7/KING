@@ -11593,7 +11593,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 580000,
       "images": [
         "/images/catalog/sofas/king-s15-01.jpg",
         "/images/catalog/sofas/king-s15-02.jpg",
@@ -11632,7 +11632,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1280000,
       "images": [
         "/images/catalog/sofas/king-s16-01.jpg",
         "/images/catalog/sofas/king-s16-02.jpg"
@@ -11669,7 +11669,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1320000,
       "images": [
         "/images/catalog/sofas/king-s17-01.jpg"
       ],
@@ -11705,7 +11705,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 950000,
       "images": [
         "/images/catalog/sofas/king-s18-01.jpg",
         "/images/catalog/sofas/king-s18-02.jpg",
@@ -11747,7 +11747,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1180000,
       "images": [
         "/images/catalog/sofas/king-s19-01.jpg",
         "/images/catalog/sofas/king-s19-02.jpg",
@@ -11791,7 +11791,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 2650000,
       "images": [
         "/images/catalog/sofas/king-s20-01.jpg",
         "/images/catalog/sofas/king-s20-02.jpg",
@@ -11835,7 +11835,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 870000,
       "images": [
         "/images/catalog/sofas/king-s21-01.jpg",
         "/images/catalog/sofas/king-s21-02.jpg",
@@ -11876,7 +11876,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 560000,
       "images": [
         "/images/catalog/sofas/king-s22-01.jpg",
         "/images/catalog/sofas/king-s22-02.jpg",
@@ -11914,7 +11914,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 740000,
       "images": [
         "/images/catalog/sofas/king-s23-01.jpg",
         "/images/catalog/sofas/king-s23-02.jpg",
@@ -11952,7 +11952,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1670000,
       "images": [
         "/images/catalog/sofas/king-s24-01.jpg",
         "/images/catalog/sofas/king-s24-02.jpg",
@@ -11994,7 +11994,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1350000,
       "images": [
         "/images/catalog/sofas/king-s25-01.jpg",
         "/images/catalog/sofas/king-s25-02.jpg",
@@ -12009,47 +12009,6 @@
       "heroH": 562,
       "featured": false,
       "order": 410,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s26",
-      "slug": "king-s26",
-      "name": "KING S26",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "Диван",
-      "intro": "Диван",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s26-01.jpg",
-        "/images/catalog/sofas/king-s26-02.jpg",
-        "/images/catalog/sofas/king-s26-03.jpg",
-        "/images/catalog/sofas/king-s26-04.jpg",
-        "/images/catalog/sofas/king-s26-05.jpg",
-        "/images/catalog/sofas/king-s26-06.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s26-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s26-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 411,
       "shortSpecs": [],
       "specifications": [
         {
@@ -12076,7 +12035,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1560000,
       "images": [
         "/images/catalog/sofas/king-s27-01.jpg",
         "/images/catalog/sofas/king-s27-02.jpg",
@@ -12121,7 +12080,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1200000,
       "images": [
         "/images/catalog/sofas/king-s28-01.jpg",
         "/images/catalog/sofas/king-s28-02.jpg",
@@ -12166,7 +12125,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 670000,
       "images": [
         "/images/catalog/sofas/king-s29-01.jpg",
         "/images/catalog/sofas/king-s29-02.jpg",
@@ -12206,7 +12165,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 890000,
       "images": [
         "/images/catalog/sofas/king-s30-01.jpg",
         "/images/catalog/sofas/king-s30-02.jpg",
@@ -12248,7 +12207,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1550000,
       "images": [
         "/images/catalog/sofas/king-s31-01.jpg",
         "/images/catalog/sofas/king-s31-02.jpg",
@@ -12292,7 +12251,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 890000,
       "images": [
         "/images/catalog/sofas/king-s32-01.jpg",
         "/images/catalog/sofas/king-s32-02.jpg",
@@ -12332,7 +12291,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 2300000,
       "images": [
         "/images/catalog/sofas/king-s33-01.jpg",
         "/images/catalog/sofas/king-s33-02.jpg",
@@ -12375,7 +12334,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 830000,
       "images": [
         "/images/catalog/sofas/king-s34-01.jpg",
         "/images/catalog/sofas/king-s34-02.jpg",
@@ -12418,7 +12377,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 830000,
       "images": [
         "/images/catalog/sofas/king-s35-01.jpg",
         "/images/catalog/sofas/king-s35-02.jpg",
@@ -12469,7 +12428,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 720000,
       "images": [
         "/images/catalog/sofas/king-s36-01.jpg",
         "/images/catalog/sofas/king-s36-02.jpg",
@@ -12509,7 +12468,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1540000,
       "images": [
         "/images/catalog/sofas/king-s37-01.jpg",
         "/images/catalog/sofas/king-s37-02.jpg",
@@ -12547,7 +12506,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1230000,
       "images": [
         "/images/catalog/sofas/king-s38-01.jpg",
         "/images/catalog/sofas/king-s38-02.jpg"
@@ -12584,7 +12543,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1720000,
       "images": [
         "/images/catalog/sofas/king-s39-01.jpg",
         "/images/catalog/sofas/king-s39-02.jpg"
@@ -12621,7 +12580,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1150000,
       "images": [
         "/images/catalog/sofas/king-s40-01.jpg"
       ],
@@ -12729,7 +12688,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1230000,
       "images": [
         "/images/catalog/sofas/king-s43-01.jpg",
         "/images/catalog/sofas/king-s43-02.jpg"
@@ -12766,7 +12725,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1300000,
       "images": [
         "/images/catalog/sofas/king-s44-01.jpg",
         "/images/catalog/sofas/king-s44-02.jpg",
@@ -12804,7 +12763,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1570000,
       "images": [
         "/images/catalog/sofas/king-s45-01.jpg",
         "/images/catalog/sofas/king-s45-02.jpg",
@@ -12842,7 +12801,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 2100000,
       "images": [
         "/images/catalog/sofas/king-s46-01.jpg",
         "/images/catalog/sofas/king-s46-02.jpg",
@@ -12880,7 +12839,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 3200000,
       "images": [
         "/images/catalog/sofas/king-s47-01.jpg"
       ],
@@ -12916,7 +12875,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 3500000,
       "images": [
         "/images/catalog/sofas/king-s48-01.jpg"
       ],
@@ -12952,7 +12911,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 2800000,
       "images": [
         "/images/catalog/sofas/king-s49-01.jpg",
         "/images/catalog/sofas/king-s49-02.jpg",
@@ -12990,7 +12949,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 6700000,
       "images": [
         "/images/catalog/sofas/king-s50-01.jpg",
         "/images/catalog/sofas/king-s50-02.jpg"
@@ -13027,7 +12986,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 8000000,
       "images": [
         "/images/catalog/sofas/king-s51-01.jpg"
       ],
@@ -13063,7 +13022,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1800000,
       "images": [
         "/images/catalog/sofas/king-s52-01.jpg"
       ],
@@ -13099,7 +13058,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1600000,
       "images": [
         "/images/catalog/sofas/king-s53-01.jpg",
         "/images/catalog/sofas/king-s53-02.jpg"
@@ -13136,7 +13095,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 2500000,
       "images": [
         "/images/catalog/sofas/king-s54-01.jpg",
         "/images/catalog/sofas/king-s54-02.jpg"
@@ -13247,7 +13206,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 4200000,
       "images": [
         "/images/catalog/sofas/king-s57-01.jpg",
         "/images/catalog/sofas/king-s57-02.jpg"
@@ -13284,7 +13243,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1980000,
       "images": [
         "/images/catalog/sofas/king-s58-01.jpg",
         "/images/catalog/sofas/king-s58-02.jpg",
@@ -13323,7 +13282,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1300000,
       "images": [
         "/images/catalog/sofas/king-s59-01.jpg",
         "/images/catalog/sofas/king-s59-02.jpg",
@@ -13400,7 +13359,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 1890000,
       "images": [
         "/images/catalog/sofas/king-s61-01.jpg",
         "/images/catalog/sofas/king-s61-02.jpg",
