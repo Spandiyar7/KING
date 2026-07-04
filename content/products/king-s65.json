@@ -1,0 +1,27 @@
+{
+  "name": "KING S65",
+  "category": "sofas",
+  "collection": "",
+  "subtitle": "S65",
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 703,
+  "images": [
+    "/images/catalog/sofas/king-s65-01.jpg",
+    "/images/catalog/sofas/king-s65-02.jpg",
+    "/images/catalog/sofas/king-s65-03.jpg",
+    "/images/catalog/sofas/king-s65-04.jpg",
+    "/images/catalog/sofas/king-s65-05.jpg",
+    "/images/catalog/sofas/king-s65-06.jpg",
+    "/images/catalog/sofas/king-s65-07.jpg"
+  ]
+}

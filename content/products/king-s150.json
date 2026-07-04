@@ -1,0 +1,31 @@
+{
+  "name": "KING S150",
+  "category": "sofas",
+  "collection": "",
+  "subtitle": "S150",
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 788,
+  "images": [
+    "/images/catalog/sofas/king-s150-01.jpg",
+    "/images/catalog/sofas/king-s150-02.jpg",
+    "/images/catalog/sofas/king-s150-03.jpg",
+    "/images/catalog/sofas/king-s150-04.jpg",
+    "/images/catalog/sofas/king-s150-05.jpg",
+    "/images/catalog/sofas/king-s150-06.jpg",
+    "/images/catalog/sofas/king-s150-07.jpg",
+    "/images/catalog/sofas/king-s150-08.jpg",
+    "/images/catalog/sofas/king-s150-09.jpg",
+    "/images/catalog/sofas/king-s150-10.jpg",
+    "/images/catalog/sofas/king-s150-11.jpg"
+  ]
+}

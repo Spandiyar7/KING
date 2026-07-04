@@ -1,0 +1,24 @@
+{
+  "name": "KING S113",
+  "category": "sofas",
+  "collection": "",
+  "subtitle": "S113",
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 751,
+  "images": [
+    "/images/catalog/sofas/king-s113-01.jpg",
+    "/images/catalog/sofas/king-s113-02.jpg",
+    "/images/catalog/sofas/king-s113-03.jpg",
+    "/images/catalog/sofas/king-s113-04.jpg"
+  ]
+}

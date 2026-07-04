@@ -1,0 +1,24 @@
+{
+  "name": "KING S148",
+  "category": "sofas",
+  "collection": "",
+  "subtitle": "S148",
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 786,
+  "images": [
+    "/images/catalog/sofas/king-s148-01.jpg",
+    "/images/catalog/sofas/king-s148-02.jpg",
+    "/images/catalog/sofas/king-s148-03.jpg",
+    "/images/catalog/sofas/king-s148-04.jpg"
+  ]
+}

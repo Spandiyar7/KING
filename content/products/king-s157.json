@@ -1,0 +1,24 @@
+{
+  "name": "KING S157",
+  "category": "sofas",
+  "collection": "",
+  "subtitle": "S157",
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 795,
+  "images": [
+    "/images/catalog/sofas/king-s157-01.jpg",
+    "/images/catalog/sofas/king-s157-02.jpg",
+    "/images/catalog/sofas/king-s157-03.jpg",
+    "/images/catalog/sofas/king-s157-04.jpg"
+  ]
+}
