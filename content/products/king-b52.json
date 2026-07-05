@@ -1,0 +1,27 @@
+{
+  "name": "KING B52",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B52",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 67,
+  "images": [
+    "/images/catalog/beds/king-b52-01.jpg",
+    "/images/catalog/beds/king-b52-02.jpg",
+    "/images/catalog/beds/king-b52-03.jpg",
+    "/images/catalog/beds/king-b52-04.jpg",
+    "/images/catalog/beds/king-b52-05.jpg",
+    "/images/catalog/beds/king-b52-06.jpg",
+    "/images/catalog/beds/king-b52-07.jpg"
+  ]
+}

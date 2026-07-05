@@ -1,0 +1,23 @@
+{
+  "name": "KING B66",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B66",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 81,
+  "images": [
+    "/images/catalog/beds/king-b66-01.jpg",
+    "/images/catalog/beds/king-b66-02.jpg",
+    "/images/catalog/beds/king-b66-03.jpg"
+  ]
+}

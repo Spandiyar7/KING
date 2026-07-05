@@ -1,0 +1,24 @@
+{
+  "name": "KING B62",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B62",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 77,
+  "images": [
+    "/images/catalog/beds/king-b62-01.jpg",
+    "/images/catalog/beds/king-b62-02.jpg",
+    "/images/catalog/beds/king-b62-03.jpg",
+    "/images/catalog/beds/king-b62-04.jpg"
+  ]
+}

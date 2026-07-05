@@ -1,0 +1,25 @@
+{
+  "name": "KING B55",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B55",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 70,
+  "images": [
+    "/images/catalog/beds/king-b55-01.jpg",
+    "/images/catalog/beds/king-b55-02.jpg",
+    "/images/catalog/beds/king-b55-03.jpg",
+    "/images/catalog/beds/king-b55-04.jpg",
+    "/images/catalog/beds/king-b55-05.jpg"
+  ]
+}

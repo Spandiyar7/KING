@@ -1,0 +1,26 @@
+{
+  "name": "KING B56",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B56",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 71,
+  "images": [
+    "/images/catalog/beds/king-b56-01.jpg",
+    "/images/catalog/beds/king-b56-02.jpg",
+    "/images/catalog/beds/king-b56-03.jpg",
+    "/images/catalog/beds/king-b56-04.jpg",
+    "/images/catalog/beds/king-b56-05.jpg",
+    "/images/catalog/beds/king-b56-06.jpg"
+  ]
+}

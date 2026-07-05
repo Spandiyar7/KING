@@ -1,0 +1,26 @@
+{
+  "name": "KING B49",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B49",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 64,
+  "images": [
+    "/images/catalog/beds/king-b49-01.jpg",
+    "/images/catalog/beds/king-b49-02.jpg",
+    "/images/catalog/beds/king-b49-03.jpg",
+    "/images/catalog/beds/king-b49-04.jpg",
+    "/images/catalog/beds/king-b49-05.jpg",
+    "/images/catalog/beds/king-b49-06.jpg"
+  ]
+}

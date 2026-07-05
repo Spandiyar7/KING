@@ -1,0 +1,26 @@
+{
+  "name": "KING B61",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B61",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 76,
+  "images": [
+    "/images/catalog/beds/king-b61-01.jpg",
+    "/images/catalog/beds/king-b61-02.jpg",
+    "/images/catalog/beds/king-b61-03.jpg",
+    "/images/catalog/beds/king-b61-04.jpg",
+    "/images/catalog/beds/king-b61-05.jpg",
+    "/images/catalog/beds/king-b61-06.jpg"
+  ]
+}

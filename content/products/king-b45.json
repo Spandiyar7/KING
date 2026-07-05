@@ -1,0 +1,25 @@
+{
+  "name": "KING B45",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B45",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 60,
+  "images": [
+    "/images/catalog/beds/king-b45-01.jpg",
+    "/images/catalog/beds/king-b45-02.jpg",
+    "/images/catalog/beds/king-b45-03.jpg",
+    "/images/catalog/beds/king-b45-04.jpg",
+    "/images/catalog/beds/king-b45-05.jpg"
+  ]
+}

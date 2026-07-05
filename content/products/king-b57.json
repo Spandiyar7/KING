@@ -1,0 +1,28 @@
+{
+  "name": "KING B57",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B57",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 72,
+  "images": [
+    "/images/catalog/beds/king-b57-01.jpg",
+    "/images/catalog/beds/king-b57-02.jpg",
+    "/images/catalog/beds/king-b57-03.jpg",
+    "/images/catalog/beds/king-b57-04.jpg",
+    "/images/catalog/beds/king-b57-05.jpg",
+    "/images/catalog/beds/king-b57-06.jpg",
+    "/images/catalog/beds/king-b57-07.jpg",
+    "/images/catalog/beds/king-b57-08.jpg"
+  ]
+}

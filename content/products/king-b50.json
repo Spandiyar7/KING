@@ -1,0 +1,28 @@
+{
+  "name": "KING B50",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B50",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 65,
+  "images": [
+    "/images/catalog/beds/king-b50-01.jpg",
+    "/images/catalog/beds/king-b50-02.jpg",
+    "/images/catalog/beds/king-b50-03.jpg",
+    "/images/catalog/beds/king-b50-04.jpg",
+    "/images/catalog/beds/king-b50-05.jpg",
+    "/images/catalog/beds/king-b50-06.jpg",
+    "/images/catalog/beds/king-b50-07.jpg",
+    "/images/catalog/beds/king-b50-08.jpg"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "KING B46",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B46",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 61,
+  "images": [
+    "/images/catalog/beds/king-b46-01.jpg",
+    "/images/catalog/beds/king-b46-02.jpg",
+    "/images/catalog/beds/king-b46-03.jpg",
+    "/images/catalog/beds/king-b46-04.jpg",
+    "/images/catalog/beds/king-b46-05.jpg",
+    "/images/catalog/beds/king-b46-06.jpg",
+    "/images/catalog/beds/king-b46-07.jpg",
+    "/images/catalog/beds/king-b46-08.jpg"
+  ]
+}

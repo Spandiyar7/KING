@@ -1,0 +1,24 @@
+{
+  "name": "KING B47",
+  "category": "beds",
+  "collection": "",
+  "subtitle": "B47",
+  "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+  "material": "",
+  "softness": "",
+  "color": "",
+  "tone": "",
+  "form": "",
+  "seats": "",
+  "width": "",
+  "depth": "",
+  "height": "",
+  "featured": false,
+  "order": 62,
+  "images": [
+    "/images/catalog/beds/king-b47-01.jpg",
+    "/images/catalog/beds/king-b47-02.jpg",
+    "/images/catalog/beds/king-b47-03.jpg",
+    "/images/catalog/beds/king-b47-04.jpg"
+  ]
+}

@@ -4207,6 +4207,46 @@
       ]
     },
     {
+      "id": "king-b45",
+      "slug": "king-b45",
+      "name": "KING B45",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B45",
+      "intro": "B45",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b45-01.jpg",
+        "/images/catalog/beds/king-b45-02.jpg",
+        "/images/catalog/beds/king-b45-03.jpg",
+        "/images/catalog/beds/king-b45-04.jpg",
+        "/images/catalog/beds/king-b45-05.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b45-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b45-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 60,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k31",
       "slug": "king-k31",
       "name": "KING K31",
@@ -4279,6 +4319,49 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b46",
+      "slug": "king-b46",
+      "name": "KING B46",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B46",
+      "intro": "B46",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b46-01.jpg",
+        "/images/catalog/beds/king-b46-02.jpg",
+        "/images/catalog/beds/king-b46-03.jpg",
+        "/images/catalog/beds/king-b46-04.jpg",
+        "/images/catalog/beds/king-b46-05.jpg",
+        "/images/catalog/beds/king-b46-06.jpg",
+        "/images/catalog/beds/king-b46-07.jpg",
+        "/images/catalog/beds/king-b46-08.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b46-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b46-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 61,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -4359,6 +4442,45 @@
       ]
     },
     {
+      "id": "king-b47",
+      "slug": "king-b47",
+      "name": "KING B47",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B47",
+      "intro": "B47",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b47-01.jpg",
+        "/images/catalog/beds/king-b47-02.jpg",
+        "/images/catalog/beds/king-b47-03.jpg",
+        "/images/catalog/beds/king-b47-04.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b47-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b47-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 62,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k33",
       "slug": "king-k33",
       "name": "KING K33",
@@ -4431,6 +4553,45 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b48",
+      "slug": "king-b48",
+      "name": "KING B48",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B48",
+      "intro": "B48",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b48-01.jpg",
+        "/images/catalog/beds/king-b48-02.jpg",
+        "/images/catalog/beds/king-b48-03.jpg",
+        "/images/catalog/beds/king-b48-04.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b48-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b48-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 63,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -4511,6 +4672,47 @@
       ]
     },
     {
+      "id": "king-b49",
+      "slug": "king-b49",
+      "name": "KING B49",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B49",
+      "intro": "B49",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b49-01.jpg",
+        "/images/catalog/beds/king-b49-02.jpg",
+        "/images/catalog/beds/king-b49-03.jpg",
+        "/images/catalog/beds/king-b49-04.jpg",
+        "/images/catalog/beds/king-b49-05.jpg",
+        "/images/catalog/beds/king-b49-06.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b49-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b49-01-t.jpg",
+      "heroW": 808,
+      "heroH": 1000,
+      "featured": false,
+      "order": 64,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k35",
       "slug": "king-k35",
       "name": "KING K35",
@@ -4583,6 +4785,49 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b50",
+      "slug": "king-b50",
+      "name": "KING B50",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B50",
+      "intro": "B50",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b50-01.jpg",
+        "/images/catalog/beds/king-b50-02.jpg",
+        "/images/catalog/beds/king-b50-03.jpg",
+        "/images/catalog/beds/king-b50-04.jpg",
+        "/images/catalog/beds/king-b50-05.jpg",
+        "/images/catalog/beds/king-b50-06.jpg",
+        "/images/catalog/beds/king-b50-07.jpg",
+        "/images/catalog/beds/king-b50-08.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b50-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b50-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 65,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -4663,6 +4908,43 @@
       ]
     },
     {
+      "id": "king-b51",
+      "slug": "king-b51",
+      "name": "KING B51",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B51",
+      "intro": "B51",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b51-01.jpg",
+        "/images/catalog/beds/king-b51-02.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b51-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b51-01-t.jpg",
+      "heroW": 800,
+      "heroH": 1000,
+      "featured": false,
+      "order": 66,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k37",
       "slug": "king-k37",
       "name": "KING K37",
@@ -4735,6 +5017,48 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b52",
+      "slug": "king-b52",
+      "name": "KING B52",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B52",
+      "intro": "B52",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b52-01.jpg",
+        "/images/catalog/beds/king-b52-02.jpg",
+        "/images/catalog/beds/king-b52-03.jpg",
+        "/images/catalog/beds/king-b52-04.jpg",
+        "/images/catalog/beds/king-b52-05.jpg",
+        "/images/catalog/beds/king-b52-06.jpg",
+        "/images/catalog/beds/king-b52-07.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b52-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b52-01-t.jpg",
+      "heroW": 897,
+      "heroH": 1000,
+      "featured": false,
+      "order": 67,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -4815,6 +5139,44 @@
       ]
     },
     {
+      "id": "king-b53",
+      "slug": "king-b53",
+      "name": "KING B53",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B53",
+      "intro": "B53",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b53-01.jpg",
+        "/images/catalog/beds/king-b53-02.jpg",
+        "/images/catalog/beds/king-b53-03.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b53-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b53-01-t.jpg",
+      "heroW": 812,
+      "heroH": 1000,
+      "featured": false,
+      "order": 68,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k39",
       "slug": "king-k39",
       "name": "KING K39",
@@ -4887,6 +5249,45 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b54",
+      "slug": "king-b54",
+      "name": "KING B54",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B54",
+      "intro": "B54",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b54-01.jpg",
+        "/images/catalog/beds/king-b54-02.jpg",
+        "/images/catalog/beds/king-b54-03.jpg",
+        "/images/catalog/beds/king-b54-04.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b54-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b54-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 69,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -4967,6 +5368,46 @@
       ]
     },
     {
+      "id": "king-b55",
+      "slug": "king-b55",
+      "name": "KING B55",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B55",
+      "intro": "B55",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b55-01.jpg",
+        "/images/catalog/beds/king-b55-02.jpg",
+        "/images/catalog/beds/king-b55-03.jpg",
+        "/images/catalog/beds/king-b55-04.jpg",
+        "/images/catalog/beds/king-b55-05.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b55-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b55-01-t.jpg",
+      "heroW": 777,
+      "heroH": 1000,
+      "featured": false,
+      "order": 70,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k41",
       "slug": "king-k41",
       "name": "KING K41",
@@ -5039,6 +5480,47 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b56",
+      "slug": "king-b56",
+      "name": "KING B56",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B56",
+      "intro": "B56",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b56-01.jpg",
+        "/images/catalog/beds/king-b56-02.jpg",
+        "/images/catalog/beds/king-b56-03.jpg",
+        "/images/catalog/beds/king-b56-04.jpg",
+        "/images/catalog/beds/king-b56-05.jpg",
+        "/images/catalog/beds/king-b56-06.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b56-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b56-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 71,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -5119,6 +5601,49 @@
       ]
     },
     {
+      "id": "king-b57",
+      "slug": "king-b57",
+      "name": "KING B57",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B57",
+      "intro": "B57",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b57-01.jpg",
+        "/images/catalog/beds/king-b57-02.jpg",
+        "/images/catalog/beds/king-b57-03.jpg",
+        "/images/catalog/beds/king-b57-04.jpg",
+        "/images/catalog/beds/king-b57-05.jpg",
+        "/images/catalog/beds/king-b57-06.jpg",
+        "/images/catalog/beds/king-b57-07.jpg",
+        "/images/catalog/beds/king-b57-08.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b57-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b57-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 72,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k43",
       "slug": "king-k43",
       "name": "KING K43",
@@ -5191,6 +5716,43 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b58",
+      "slug": "king-b58",
+      "name": "KING B58",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B58",
+      "intro": "B58",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b58-01.jpg",
+        "/images/catalog/beds/king-b58-02.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b58-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b58-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 73,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -5271,6 +5833,45 @@
       ]
     },
     {
+      "id": "king-b59",
+      "slug": "king-b59",
+      "name": "KING B59",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B59",
+      "intro": "B59",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b59-01.jpg",
+        "/images/catalog/beds/king-b59-02.jpg",
+        "/images/catalog/beds/king-b59-03.jpg",
+        "/images/catalog/beds/king-b59-04.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b59-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b59-01-t.jpg",
+      "heroW": 750,
+      "heroH": 1000,
+      "featured": false,
+      "order": 74,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k45",
       "slug": "king-k45",
       "name": "KING K45",
@@ -5343,6 +5944,43 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b60",
+      "slug": "king-b60",
+      "name": "KING B60",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B60",
+      "intro": "B60",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b60-01.jpg",
+        "/images/catalog/beds/king-b60-02.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b60-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b60-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 75,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -5423,6 +6061,47 @@
       ]
     },
     {
+      "id": "king-b61",
+      "slug": "king-b61",
+      "name": "KING B61",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B61",
+      "intro": "B61",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b61-01.jpg",
+        "/images/catalog/beds/king-b61-02.jpg",
+        "/images/catalog/beds/king-b61-03.jpg",
+        "/images/catalog/beds/king-b61-04.jpg",
+        "/images/catalog/beds/king-b61-05.jpg",
+        "/images/catalog/beds/king-b61-06.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b61-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b61-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 560,
+      "featured": false,
+      "order": 76,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k47",
       "slug": "king-k47",
       "name": "KING K47",
@@ -5499,6 +6178,45 @@
       ]
     },
     {
+      "id": "king-b62",
+      "slug": "king-b62",
+      "name": "KING B62",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B62",
+      "intro": "B62",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b62-01.jpg",
+        "/images/catalog/beds/king-b62-02.jpg",
+        "/images/catalog/beds/king-b62-03.jpg",
+        "/images/catalog/beds/king-b62-04.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b62-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b62-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 580,
+      "featured": false,
+      "order": 77,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k48",
       "slug": "king-k48",
       "name": "KING K48",
@@ -5571,6 +6289,43 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b63",
+      "slug": "king-b63",
+      "name": "KING B63",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B63",
+      "intro": "B63",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b63-01.jpg",
+        "/images/catalog/beds/king-b63-02.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b63-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b63-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 78,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -5655,6 +6410,42 @@
       ]
     },
     {
+      "id": "king-b64",
+      "slug": "king-b64",
+      "name": "KING B64",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B64",
+      "intro": "B64",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b64-01.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b64-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b64-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 1000,
+      "featured": false,
+      "order": 79,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k50",
       "slug": "king-k50",
       "name": "KING K50",
@@ -5727,6 +6518,44 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b65",
+      "slug": "king-b65",
+      "name": "KING B65",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B65",
+      "intro": "B65",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b65-01.jpg",
+        "/images/catalog/beds/king-b65-02.jpg",
+        "/images/catalog/beds/king-b65-03.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b65-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b65-01-t.jpg",
+      "heroW": 1000,
+      "heroH": 800,
+      "featured": false,
+      "order": 80,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -5807,6 +6636,44 @@
       ]
     },
     {
+      "id": "king-b66",
+      "slug": "king-b66",
+      "name": "KING B66",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B66",
+      "intro": "B66",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b66-01.jpg",
+        "/images/catalog/beds/king-b66-02.jpg",
+        "/images/catalog/beds/king-b66-03.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b66-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b66-01-t.jpg",
+      "heroW": 826,
+      "heroH": 1000,
+      "featured": false,
+      "order": 81,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
+        }
+      ]
+    },
+    {
       "id": "king-k52",
       "slug": "king-k52",
       "name": "KING K52",
@@ -5879,6 +6746,42 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b67",
+      "slug": "king-b67",
+      "name": "KING B67",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B67",
+      "intro": "B67",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b67-01.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b67-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b67-01-t.jpg",
+      "heroW": 821,
+      "heroH": 1000,
+      "featured": false,
+      "order": 82,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
@@ -5961,6 +6864,43 @@
         {
           "label": "Категория",
           "value": "Кресло"
+        }
+      ]
+    },
+    {
+      "id": "king-b68",
+      "slug": "king-b68",
+      "name": "KING B68",
+      "category": "beds",
+      "collection": "",
+      "subtitle": "B68",
+      "intro": "B68",
+      "description": "Дизайнерская кровать KING ATELIER. Изготовим в вашей ткани и размере.",
+      "color": "",
+      "tone": "",
+      "material": "",
+      "softness": "",
+      "form": "",
+      "seats": "",
+      "width": "",
+      "depth": "",
+      "height": "",
+      "price": null,
+      "images": [
+        "/images/catalog/beds/king-b68-01.jpg",
+        "/images/catalog/beds/king-b68-02.jpg"
+      ],
+      "heroImage": "/images/catalog/beds/king-b68-01.jpg",
+      "heroThumb": "/images/catalog/beds/king-b68-01-t.jpg",
+      "heroW": 801,
+      "heroH": 1000,
+      "featured": false,
+      "order": 83,
+      "shortSpecs": [],
+      "specifications": [
+        {
+          "label": "Категория",
+          "value": "Кровать"
         }
       ]
     },
