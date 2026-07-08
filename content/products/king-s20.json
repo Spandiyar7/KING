@@ -1,20 +1,18 @@
 {
+  "softness": "Средняя",
+  "depth": "190",
+  "color": "white",
+  "form": "Радиус",
+  "width": "400",
+  "height": "80",
+  "material": "Ткань",
+  "price": 1590000,
   "name": "KING S20",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S20",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "7",
   "order": 405,
+  "tone": "Молочный",
+  "subtitle": "S20",
   "images": [
     "/images/catalog/sofas/king-s20-01.jpg",
     "/images/catalog/sofas/king-s20-02.jpg",
@@ -26,5 +24,7 @@
     "/images/catalog/sofas/king-s20-08.jpg",
     "/images/catalog/sofas/king-s20-09.jpg"
   ],
-  "price": 2650000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
