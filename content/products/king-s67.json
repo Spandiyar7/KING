@@ -1,21 +1,22 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "green",
+  "form": "Прямой",
+  "width": "200",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 500000,
   "name": "KING S67",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S67",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "2",
   "order": 705,
+  "tone": "Зеленный",
+  "subtitle": "S67",
   "images": [
     "/images/catalog/sofas/king-s67-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
