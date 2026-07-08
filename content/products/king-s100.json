@@ -1,21 +1,22 @@
 {
-  "name": "KING S100",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S100",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
   "softness": "",
+  "depth": "100",
   "color": "",
-  "tone": "",
   "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
+  "width": "280",
+  "height": "78",
+  "material": "",
+  "price": 690000,
+  "name": "KING S100",
   "featured": false,
+  "seats": "",
   "order": 738,
+  "tone": "",
+  "subtitle": "S100",
   "images": [
     "/images/catalog/sofas/king-s100-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
