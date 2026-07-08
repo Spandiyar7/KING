@@ -1,21 +1,22 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "green",
+  "form": "Прямой",
+  "width": "200",
+  "height": "80",
+  "material": "Ткань",
+  "price": 450000,
   "name": "KING S73",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S73",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "2",
   "order": 711,
+  "tone": "Зеленый",
+  "subtitle": "S73",
   "images": [
     "/images/catalog/sofas/king-s73-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
