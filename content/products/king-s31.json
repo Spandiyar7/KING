@@ -1,20 +1,18 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "white",
+  "form": "Прямой",
+  "width": "250",
+  "height": "80",
+  "material": "Ткань",
+  "price": 590000,
   "name": "KING S31",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S31",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "3",
   "order": 416,
+  "tone": "Белый",
+  "subtitle": "S31",
   "images": [
     "/images/catalog/sofas/king-s31-01.jpg",
     "/images/catalog/sofas/king-s31-02.jpg",
@@ -26,5 +24,7 @@
     "/images/catalog/sofas/king-s31-08.jpg",
     "/images/catalog/sofas/king-s31-09.jpg"
   ],
-  "price": 1550000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
