@@ -1,22 +1,23 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "green",
+  "form": "Прямой",
+  "width": "280",
+  "height": "80",
+  "material": "Кожа",
+  "price": 1500000,
   "name": "KING S108",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S108",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "3",
   "order": 746,
+  "tone": "Зеленый",
+  "subtitle": "S108",
   "images": [
     "/images/catalog/sofas/king-s108-01.jpg",
     "/images/catalog/sofas/king-s108-02.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
