@@ -1,23 +1,24 @@
 {
+  "softness": "Очень мягкий",
+  "depth": "150",
+  "color": "blue",
+  "form": "Угловой",
+  "width": "210",
+  "height": "80",
+  "material": "Ткань",
+  "price": 550000,
   "name": "KING S68",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S68",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "3",
   "order": 706,
+  "tone": "Голубой",
+  "subtitle": "S68",
   "images": [
     "/images/catalog/sofas/king-s68-01.jpg",
     "/images/catalog/sofas/king-s68-02.jpg",
     "/images/catalog/sofas/king-s68-03.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
