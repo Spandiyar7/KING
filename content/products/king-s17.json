@@ -1,22 +1,22 @@
 {
+  "softness": "Очень мягкий",
+  "depth": "230",
+  "color": "white",
+  "form": "Угловой",
+  "width": "440",
+  "height": "80",
+  "material": "Ткань",
+  "price": 890000,
   "name": "KING S17",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S17",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "6",
   "order": 402,
+  "tone": "Молочный",
+  "subtitle": "S17",
   "images": [
     "/images/catalog/sofas/king-s17-01.jpg"
   ],
-  "price": 1320000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
