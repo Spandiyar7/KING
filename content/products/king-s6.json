@@ -1,22 +1,22 @@
 {
-  "name": "KING S6",
-  "category": "sofas",
-  "collection": "soft",
-  "subtitle": "S6",
-  "description": "Прямой диван с плотной фактурной обивкой оливкового тона и деревянными опорами. Тёплый природный характер для гостиной в духе Organic Modern.",
-  "material": "Рогожка",
   "softness": "средняя",
+  "depth": "80",
   "color": "olive",
-  "tone": "оливковый",
   "form": "прямой",
-  "seats": "4",
-  "width": "260",
-  "depth": "98",
+  "width": "210",
   "height": "80",
-  "price": 740000,
+  "material": "Рогожка",
+  "price": 600000,
+  "name": "KING S6",
   "featured": false,
+  "seats": "4",
   "order": 6,
+  "tone": "оливковый",
+  "subtitle": "S6",
   "images": [
     "/images/catalog/sofas/kings6.jpg"
-  ]
+  ],
+  "description": "Прямой диван с плотной фактурной обивкой оливкового тона и деревянными опорами. Тёплый природный характер для гостиной в духе Organic Modern.",
+  "category": "sofas",
+  "collection": "soft"
 }
