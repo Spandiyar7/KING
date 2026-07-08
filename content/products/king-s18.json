@@ -1,20 +1,18 @@
 {
+  "softness": "Средняя",
+  "depth": "90",
+  "color": "white",
+  "form": "Модульный",
+  "width": "450",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 800000,
   "name": "KING S18",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S18",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "4",
   "order": 403,
+  "tone": "Бежевый",
+  "subtitle": "S18",
   "images": [
     "/images/catalog/sofas/king-s18-01.jpg",
     "/images/catalog/sofas/king-s18-02.jpg",
@@ -24,5 +22,7 @@
     "/images/catalog/sofas/king-s18-06.jpg",
     "/images/catalog/sofas/king-s18-07.jpg"
   ],
-  "price": 950000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
