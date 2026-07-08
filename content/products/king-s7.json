@@ -1,23 +1,23 @@
 {
-  "name": "KING S7",
-  "category": "sofas",
-  "collection": "soft",
-  "subtitle": "S7",
-  "description": "Прямой диван со спокойным пыльно-голубым велюром и чистой геометрией. Сдержанный акцент для современного интерьера.",
-  "material": "Велюр",
   "softness": "средняя",
+  "depth": "130",
   "color": "blue",
-  "tone": "пыльно-голубой",
   "form": "прямой",
-  "seats": "4",
-  "width": "300",
-  "depth": "100",
+  "width": "200",
   "height": "78",
-  "price": 820000,
+  "material": "Велюр",
+  "price": 490000,
+  "name": "KING S7",
   "featured": false,
+  "seats": "4",
   "order": 7,
+  "tone": "пыльно-голубой",
+  "subtitle": "S7",
   "images": [
     "/images/catalog/sofas/kings7-1.jpg",
     "/images/catalog/sofas/kings7-2.jpg"
-  ]
+  ],
+  "description": "Прямой диван со спокойным пыльно-голубым велюром и чистой геометрией. Сдержанный акцент для современного интерьера.",
+  "category": "sofas",
+  "collection": "soft"
 }
