@@ -1,22 +1,22 @@
 {
-  "name": "KING S3",
-  "category": "sofas",
-  "collection": "terra",
-  "subtitle": "S3",
-  "description": "Радиусный модульный диван в тёплом терракотовом тоне с мягкой фактурой букле. Становится выразительным центром гостиной, дополняется пуфом из той же коллекции.",
-  "material": "Boucle",
   "softness": "средняя",
+  "depth": "200",
   "color": "terracotta",
-  "tone": "терракотовый",
   "form": "модульный",
-  "seats": "6",
-  "width": "430",
-  "depth": "115",
+  "width": "410",
   "height": "80",
+  "material": "Boucle",
   "price": 1290000,
+  "name": "KING S3",
   "featured": false,
+  "seats": "6",
   "order": 3,
+  "tone": "терракотовый",
+  "subtitle": "S3",
   "images": [
     "/images/catalog/sofas/kings3.jpg"
-  ]
+  ],
+  "description": "Радиусный модульный диван в тёплом терракотовом тоне с мягкой фактурой букле. Становится выразительным центром гостиной, дополняется пуфом из той же коллекции.",
+  "category": "sofas",
+  "collection": "terra"
 }
