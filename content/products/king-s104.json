@@ -1,22 +1,23 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "white",
+  "form": "Изогнутый",
+  "width": "350",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 890000,
   "name": "KING S104",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S104",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "4",
   "order": 742,
+  "tone": "Бежевый",
+  "subtitle": "S104",
   "images": [
     "/images/catalog/sofas/king-s104-01.jpg",
     "/images/catalog/sofas/king-s104-02.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
