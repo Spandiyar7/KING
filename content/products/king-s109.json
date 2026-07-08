@@ -1,22 +1,23 @@
 {
+  "softness": "Очень мягкий",
+  "depth": "150",
+  "color": "white",
+  "form": "Угловой",
+  "width": "300",
+  "height": "80",
+  "material": "Ткань",
+  "price": 890000,
   "name": "KING S109",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S109",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "3",
   "order": 747,
+  "tone": "Молочный",
+  "subtitle": "S109",
   "images": [
     "/images/catalog/sofas/king-s109-01.jpg",
     "/images/catalog/sofas/king-s109-02.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
