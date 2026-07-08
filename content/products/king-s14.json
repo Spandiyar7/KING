@@ -1,22 +1,22 @@
 {
-  "name": "KING S14",
-  "category": "sofas",
-  "collection": "savoy",
-  "subtitle": "S14",
-  "description": "Модульный диван с мягкими объёмами и тёплой шоколадной обивкой букле. Глубокая посадка и уютная пластика для большой гостиной.",
-  "material": "Boucle",
   "softness": "мягкая",
+  "depth": "90",
   "color": "brown",
-  "tone": "шоколадный",
   "form": "модульный",
-  "seats": "6",
-  "width": "415",
-  "depth": "108",
+  "width": "280",
   "height": "78",
-  "price": 1290000,
+  "material": "Boucle",
+  "price": 650000,
+  "name": "KING S14",
   "featured": false,
+  "seats": "6",
   "order": 14,
+  "tone": "шоколадный",
+  "subtitle": "S14",
   "images": [
     "/images/catalog/sofas/kings14.jpg"
-  ]
+  ],
+  "description": "Модульный диван с мягкими объёмами и тёплой шоколадной обивкой букле. Глубокая посадка и уютная пластика для большой гостиной.",
+  "category": "sofas",
+  "collection": "savoy"
 }
