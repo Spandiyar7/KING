@@ -1,20 +1,18 @@
 {
+  "softness": "Средняя",
+  "depth": "90",
+  "color": "white",
+  "form": "Прямой",
+  "width": "300",
+  "height": "80",
+  "material": "Ткань",
+  "price": 700000,
   "name": "KING S28",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S28",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "4",
   "order": 413,
+  "tone": "Молочный",
+  "subtitle": "S28",
   "images": [
     "/images/catalog/sofas/king-s28-01.jpg",
     "/images/catalog/sofas/king-s28-02.jpg",
@@ -27,5 +25,7 @@
     "/images/catalog/sofas/king-s28-09.jpg",
     "/images/catalog/sofas/king-s28-10.jpg"
   ],
-  "price": 1200000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
