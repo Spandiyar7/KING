@@ -1,16 +1,17 @@
 {
-  "softness": "",
+  "softness": "Очень мягкая",
   "depth": "90",
-  "color": "",
-  "form": "",
+  "color": "brown",
+  "form": "Прямой",
   "width": "350",
   "height": "80",
   "material": "",
+  "price": 790000,
   "name": "KING S103",
   "featured": false,
-  "seats": "",
+  "seats": "4",
   "order": 741,
-  "tone": "",
+  "tone": "Коффейный",
   "subtitle": "S103",
   "images": [
     "/images/catalog/sofas/king-s103-01.jpg"
