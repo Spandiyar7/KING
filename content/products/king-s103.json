@@ -1,21 +1,21 @@
 {
-  "name": "KING S103",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S103",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
   "softness": "",
+  "depth": "90",
   "color": "",
-  "tone": "",
   "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
+  "width": "350",
+  "height": "80",
+  "material": "",
+  "name": "KING S103",
   "featured": false,
+  "seats": "",
   "order": 741,
+  "tone": "",
+  "subtitle": "S103",
   "images": [
     "/images/catalog/sofas/king-s103-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
