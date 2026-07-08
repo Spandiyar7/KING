@@ -1,23 +1,23 @@
 {
+  "softness": "Средняя",
+  "depth": "230",
+  "color": "white",
+  "form": "Угловой",
+  "width": "440",
+  "height": "80",
+  "material": "Ткань",
+  "price": 890000,
   "name": "KING S16",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S16",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "6",
   "order": 401,
+  "tone": "Белый",
+  "subtitle": "S16",
   "images": [
     "/images/catalog/sofas/king-s16-01.jpg",
     "/images/catalog/sofas/king-s16-02.jpg"
   ],
-  "price": 1280000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
