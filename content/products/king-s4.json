@@ -1,21 +1,18 @@
 {
-  "name": "KING S4",
-  "category": "sofas",
-  "collection": "terra",
-  "subtitle": "S4",
-  "description": "Крупный модульный диван со скульптурными стёгаными объёмами и бархатистым велюром терракотового оттенка. Глубокая мягкая посадка и интегрированные подлокотники.",
-  "material": "Велюр",
   "softness": "мягкая",
+  "depth": "200",
   "color": "terracotta",
-  "tone": "терракотовый",
   "form": "модульный",
-  "seats": "8",
-  "width": "470",
-  "depth": "120",
+  "width": "360",
   "height": "80",
-  "price": 1850000,
+  "material": "Велюр",
+  "price": 950000,
+  "name": "KING S4",
   "featured": true,
+  "seats": "8",
   "order": 4,
+  "tone": "терракотовый",
+  "subtitle": "S4",
   "images": [
     "/images/catalog/sofas/kings4-1.jpg",
     "/images/catalog/sofas/kings4-2.jpg",
@@ -23,5 +20,8 @@
     "/images/catalog/sofas/kings4-4.jpg",
     "/images/catalog/sofas/kings4-5.jpg",
     "/images/catalog/sofas/kings4-6.jpg"
-  ]
+  ],
+  "description": "Крупный модульный диван со скульптурными стёгаными объёмами и бархатистым велюром терракотового оттенка. Глубокая мягкая посадка и интегрированные подлокотники.",
+  "category": "sofas",
+  "collection": "terra"
 }
