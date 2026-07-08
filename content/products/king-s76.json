@@ -1,21 +1,22 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "yellow",
+  "form": "Прямой",
+  "width": "200",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 500000,
   "name": "KING S76",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S76",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "2",
   "order": 714,
+  "tone": "Горчичный",
+  "subtitle": "S76",
   "images": [
     "/images/catalog/sofas/king-s76-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
