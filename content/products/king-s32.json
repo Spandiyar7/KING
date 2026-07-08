@@ -1,20 +1,18 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "white",
+  "form": "Прямой",
+  "width": "250",
+  "height": "80",
+  "material": "Ткань",
+  "price": 500000,
   "name": "KING S32",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S32",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "3",
   "order": 417,
+  "tone": "Белый",
+  "subtitle": "S32",
   "images": [
     "/images/catalog/sofas/king-s32-01.jpg",
     "/images/catalog/sofas/king-s32-02.jpg",
@@ -22,5 +20,7 @@
     "/images/catalog/sofas/king-s32-04.jpg",
     "/images/catalog/sofas/king-s32-05.jpg"
   ],
-  "price": 890000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
