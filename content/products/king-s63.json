@@ -1,23 +1,24 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "white",
+  "form": "Прямой",
+  "width": "200",
+  "height": "80",
+  "material": "Ткань",
+  "price": 670000,
   "name": "KING S63",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S63",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "2",
   "order": 701,
+  "tone": "Белый",
+  "subtitle": "S63",
   "images": [
     "/images/catalog/sofas/king-s63-01.jpg",
     "/images/catalog/sofas/king-s63-02.jpg",
     "/images/catalog/sofas/king-s63-03.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
