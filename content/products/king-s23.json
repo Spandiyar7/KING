@@ -1,24 +1,24 @@
 {
+  "softness": "Средняя",
+  "depth": "200",
+  "color": "green",
+  "form": "Угловой",
+  "width": "270",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 670000,
   "name": "KING S23",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S23",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "4",
   "order": 408,
+  "tone": "Зеленный",
+  "subtitle": "S23",
   "images": [
     "/images/catalog/sofas/king-s23-01.jpg",
     "/images/catalog/sofas/king-s23-02.jpg",
     "/images/catalog/sofas/king-s23-03.jpg"
   ],
-  "price": 740000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
