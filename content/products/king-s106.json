@@ -1,21 +1,22 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "blue",
+  "form": "Прямой",
+  "width": "280",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 750000,
   "name": "KING S106",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S106",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "3",
   "order": 744,
+  "tone": "Голубой",
+  "subtitle": "S106",
   "images": [
     "/images/catalog/sofas/king-s106-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
