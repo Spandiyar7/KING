@@ -1,21 +1,22 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "terracotta",
+  "form": "Прямой",
+  "width": "280",
+  "height": "80",
+  "material": "Велюр",
+  "price": 690000,
   "name": "KING S107",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S107",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "3",
   "order": 745,
+  "tone": "Терракоттовый",
+  "subtitle": "S107",
   "images": [
     "/images/catalog/sofas/king-s107-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
