@@ -1,20 +1,18 @@
 {
+  "softness": "Средняя",
+  "depth": "110",
+  "color": "white",
+  "form": "Прямой",
+  "width": "200",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 550000,
   "name": "KING S29",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S29",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "2",
   "order": 414,
+  "tone": "Молочный",
+  "subtitle": "S29",
   "images": [
     "/images/catalog/sofas/king-s29-01.jpg",
     "/images/catalog/sofas/king-s29-02.jpg",
@@ -22,5 +20,7 @@
     "/images/catalog/sofas/king-s29-04.jpg",
     "/images/catalog/sofas/king-s29-05.jpg"
   ],
-  "price": 670000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
