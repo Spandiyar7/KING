@@ -1,21 +1,22 @@
 {
-  "name": "KING A1",
-  "category": "armchairs",
-  "collection": "",
-  "subtitle": "Кресло",
-  "description": "Дизайнерское кресло KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
   "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
   "depth": "",
+  "color": "",
+  "form": "",
+  "width": "",
   "height": "",
+  "material": "",
+  "price": 350000,
+  "name": "KING A1",
   "featured": false,
+  "seats": "",
   "order": 60,
+  "tone": "",
+  "subtitle": "Кресло",
   "images": [
     "/images/catalog/armchairs/king-a1-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерское кресло KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "armchairs",
+  "collection": ""
 }
