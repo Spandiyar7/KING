@@ -1,21 +1,22 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "white",
+  "form": "Прямой",
+  "width": "200",
+  "height": "80",
+  "material": "Ткань",
+  "price": 650000,
   "name": "KING S62",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S62",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "2",
   "order": 700,
+  "tone": "Белый",
+  "subtitle": "S62",
   "images": [
     "/images/catalog/sofas/king-s62-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
