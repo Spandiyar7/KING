@@ -1,20 +1,18 @@
 {
+  "softness": "Очень мягкий",
+  "depth": "300",
+  "color": "white",
+  "form": "Угловой",
+  "width": "440",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 1350000,
   "name": "KING S25",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S25",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "6",
   "order": 410,
+  "tone": "Белый",
+  "subtitle": "S25",
   "images": [
     "/images/catalog/sofas/king-s25-01.jpg",
     "/images/catalog/sofas/king-s25-02.jpg",
@@ -23,5 +21,7 @@
     "/images/catalog/sofas/king-s25-05.jpg",
     "/images/catalog/sofas/king-s25-06.jpg"
   ],
-  "price": 1350000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
