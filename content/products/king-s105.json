@@ -1,21 +1,22 @@
 {
+  "softness": "Очень мягкий",
+  "depth": "80",
+  "color": "terracota",
+  "form": "Угловой",
+  "width": "350",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 690000,
   "name": "KING S105",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S105",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "4",
   "order": 743,
+  "tone": "Терракотовый",
+  "subtitle": "S105",
   "images": [
     "/images/catalog/sofas/king-s105-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
