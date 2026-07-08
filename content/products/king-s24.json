@@ -1,20 +1,18 @@
 {
+  "softness": "Средняя",
+  "depth": "250",
+  "color": "brown",
+  "form": "Угловой",
+  "width": "350",
+  "height": "80",
+  "material": "Кожа",
+  "price": 2490000,
   "name": "KING S24",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S24",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "5",
   "order": 409,
+  "tone": "Коричневый",
+  "subtitle": "S24",
   "images": [
     "/images/catalog/sofas/king-s24-01.jpg",
     "/images/catalog/sofas/king-s24-02.jpg",
@@ -24,5 +22,7 @@
     "/images/catalog/sofas/king-s24-06.jpg",
     "/images/catalog/sofas/king-s24-07.jpg"
   ],
-  "price": 1670000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
