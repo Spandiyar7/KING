@@ -1,22 +1,22 @@
 {
-  "name": "KING S10",
-  "category": "sofas",
-  "collection": "terra",
-  "subtitle": "S10",
-  "description": "Модульный диван с мягкими стёгаными секциями и тёплой терракотовой обивкой букле. Свободная компоновка для больших пространств.",
-  "material": "Boucle",
   "softness": "мягкая",
+  "depth": "100",
   "color": "terracotta",
-  "tone": "терракотовый",
   "form": "модульный",
-  "seats": "6",
-  "width": "410",
-  "depth": "110",
+  "width": "280",
   "height": "78",
-  "price": 1240000,
+  "material": "Boucle",
+  "price": 690000,
+  "name": "KING S10",
   "featured": false,
+  "seats": "6",
   "order": 10,
+  "tone": "терракотовый",
+  "subtitle": "S10",
   "images": [
     "/images/catalog/sofas/kings10.jpg"
-  ]
+  ],
+  "description": "Модульный диван с мягкими стёгаными секциями и тёплой терракотовой обивкой букле. Свободная компоновка для больших пространств.",
+  "category": "sofas",
+  "collection": "terra"
 }
