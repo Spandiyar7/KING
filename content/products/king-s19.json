@@ -1,20 +1,18 @@
 {
+  "softness": "Очень Мягкий",
+  "depth": "220",
+  "color": "white",
+  "form": "Угловой",
+  "width": "370",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 790000,
   "name": "KING S19",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S19",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "6",
   "order": 404,
+  "tone": "Молочный",
+  "subtitle": "S19",
   "images": [
     "/images/catalog/sofas/king-s19-01.jpg",
     "/images/catalog/sofas/king-s19-02.jpg",
@@ -26,5 +24,7 @@
     "/images/catalog/sofas/king-s19-08.jpg",
     "/images/catalog/sofas/king-s19-09.jpg"
   ],
-  "price": 1180000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
