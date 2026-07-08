@@ -1,20 +1,18 @@
 {
+  "softness": "Средняя",
+  "depth": "80",
+  "color": "white",
+  "form": "Прямой",
+  "width": "300",
+  "height": "80",
+  "material": "Ткань",
+  "price": 890000,
   "name": "KING S30",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S30",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "4",
   "order": 415,
+  "tone": "Белый",
+  "subtitle": "S30",
   "images": [
     "/images/catalog/sofas/king-s30-01.jpg",
     "/images/catalog/sofas/king-s30-02.jpg",
@@ -24,5 +22,7 @@
     "/images/catalog/sofas/king-s30-06.jpg",
     "/images/catalog/sofas/king-s30-07.jpg"
   ],
-  "price": 890000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
