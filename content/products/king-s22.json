@@ -1,24 +1,24 @@
 {
+  "softness": "Очень мягкий",
+  "depth": "80",
+  "color": "white",
+  "form": "Прямой",
+  "width": "160",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 500000,
   "name": "KING S22",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S22",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "2",
   "order": 407,
+  "tone": "Белый",
+  "subtitle": "S22",
   "images": [
     "/images/catalog/sofas/king-s22-01.jpg",
     "/images/catalog/sofas/king-s22-02.jpg",
     "/images/catalog/sofas/king-s22-03.jpg"
   ],
-  "price": 560000
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
