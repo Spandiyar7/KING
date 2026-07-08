@@ -1,21 +1,22 @@
 {
-  "name": "KING S102",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S102",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
+  "softness": "Средняя",
+  "depth": "80",
   "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
+  "form": "Прямой",
+  "width": "300",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 1120000,
+  "name": "KING S102",
   "featured": false,
+  "seats": "4",
   "order": 740,
+  "tone": "Бежевый",
+  "subtitle": "S102",
   "images": [
     "/images/catalog/sofas/king-s102-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
