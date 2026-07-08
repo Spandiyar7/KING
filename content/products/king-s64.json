@@ -1,21 +1,22 @@
 {
+  "softness": "Очень мягкий",
+  "depth": "200",
+  "color": "terracotta",
+  "form": "Угловой",
+  "width": "300",
+  "height": "80",
+  "material": "Рогожка",
+  "price": 730000,
   "name": "KING S64",
-  "category": "sofas",
-  "collection": "",
-  "subtitle": "S64",
-  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-  "material": "",
-  "softness": "",
-  "color": "",
-  "tone": "",
-  "form": "",
-  "seats": "",
-  "width": "",
-  "depth": "",
-  "height": "",
   "featured": false,
+  "seats": "190",
   "order": 702,
+  "tone": "Терракоттовый",
+  "subtitle": "S64",
   "images": [
     "/images/catalog/sofas/king-s64-01.jpg"
-  ]
+  ],
+  "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
+  "category": "sofas",
+  "collection": ""
 }
