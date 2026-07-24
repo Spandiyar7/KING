@@ -28,6 +28,7 @@ export const homeContent = {
 
 export const navigation = [
   { label: "Главная", href: "/" },
+  { label: "Стили", href: "/styles" },
   { label: "Продукция", href: "/products" },
   { label: "Коллекции", href: "/collections" },
   { label: "Диваны", href: "/products?category=sofas" },
@@ -42,6 +43,7 @@ export const navigation = [
 ];
 
 export const footerNavigation = [
+  { label: "Стили", href: "/styles" },
   { label: "Коллекции", href: "/collections" },
   { label: "Продукция", href: "/products" },
   { label: "Для дизайнеров", href: "/contract" },
