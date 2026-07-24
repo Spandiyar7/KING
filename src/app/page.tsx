@@ -89,7 +89,7 @@ export default function HomePage() {
               <div className="relative aspect-[3/4] overflow-hidden">
                 <Image
                   src={assetPath("/images/categories/styles.jpg")}
-                  alt="Стили"
+                  alt="Дизайн интерьера"
                   fill
                   sizes="(min-width: 1024px) 32vw, (min-width: 640px) 48vw, 100vw"
                   className="object-cover opacity-90 transition-transform duration-[1400ms] ease-luxury group-hover:scale-105"
@@ -97,8 +97,8 @@ export default function HomePage() {
                 <div className="absolute inset-0 bg-gradient-to-t from-black/78 via-black/15 to-transparent" />
                 <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-4 p-6 md:p-7">
                   <div>
-                    <h3 className="text-[clamp(2rem,2.8vw,3rem)] font-semibold leading-none tracking-[0.02em] text-white">
-                      Стили
+                    <h3 className="text-[clamp(2rem,2.8vw,3rem)] font-semibold leading-[1.05] tracking-[0.02em] text-white">
+                      Дизайн интерьера
                     </h3>
                   </div>
                   <ArrowRight className="mb-1 h-6 w-6 shrink-0 text-white/80 transition-transform duration-500 ease-luxury group-hover:translate-x-1.5" strokeWidth={1.3} />

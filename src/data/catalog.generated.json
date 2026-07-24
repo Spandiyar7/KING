@@ -80,10 +80,10 @@
       "softness": "средне-мягкая",
       "form": "модульный",
       "seats": "6-7",
-      "width": "420",
-      "depth": "105",
+      "width": "220",
+      "depth": "80",
       "height": "78",
-      "price": 1180000,
+      "price": 550000,
       "images": [
         "/images/catalog/sofas/kings2-1.jpg",
         "/images/catalog/sofas/kings2-2.jpg",
@@ -99,7 +99,7 @@
         "Boucle",
         "6-7 мест",
         "модульный",
-        "420×105 см"
+        "220×80 см"
       ],
       "specifications": [
         {
@@ -128,7 +128,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "420 × 105 × 78"
+          "value": "220 × 80 × 78"
         }
       ]
     },
@@ -147,8 +147,8 @@
       "softness": "средняя",
       "form": "модульный",
       "seats": "6",
-      "width": "430",
-      "depth": "115",
+      "width": "410",
+      "depth": "200",
       "height": "80",
       "price": 1290000,
       "images": [
@@ -164,7 +164,7 @@
         "Boucle",
         "6 мест",
         "модульный",
-        "430×115 см"
+        "410×200 см"
       ],
       "specifications": [
         {
@@ -193,7 +193,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "430 × 115 × 80"
+          "value": "410 × 200 × 80"
         }
       ]
     },
@@ -212,10 +212,10 @@
       "softness": "мягкая",
       "form": "модульный",
       "seats": "8",
-      "width": "470",
-      "depth": "120",
+      "width": "360",
+      "depth": "200",
       "height": "80",
-      "price": 1850000,
+      "price": 950000,
       "images": [
         "/images/catalog/sofas/kings4-1.jpg",
         "/images/catalog/sofas/kings4-2.jpg",
@@ -234,7 +234,7 @@
         "Велюр",
         "8 мест",
         "модульный",
-        "470×120 см"
+        "360×200 см"
       ],
       "specifications": [
         {
@@ -263,7 +263,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "470 × 120 × 80"
+          "value": "360 × 200 × 80"
         }
       ]
     },
@@ -282,10 +282,10 @@
       "softness": "средне-мягкая",
       "form": "радиусный",
       "seats": "5",
-      "width": "360",
-      "depth": "110",
-      "height": "75",
-      "price": 980000,
+      "width": "230",
+      "depth": "150",
+      "height": "80",
+      "price": 600000,
       "images": [
         "/images/catalog/sofas/kings5.jpg"
       ],
@@ -299,7 +299,7 @@
         "Boucle",
         "5 мест",
         "радиусный",
-        "360×110 см"
+        "230×150 см"
       ],
       "specifications": [
         {
@@ -328,7 +328,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "360 × 110 × 75"
+          "value": "230 × 150 × 80"
         }
       ]
     },
@@ -347,10 +347,10 @@
       "softness": "средняя",
       "form": "прямой",
       "seats": "4",
-      "width": "260",
-      "depth": "98",
+      "width": "210",
+      "depth": "80",
       "height": "80",
-      "price": 740000,
+      "price": 450000,
       "images": [
         "/images/catalog/sofas/kings6.jpg"
       ],
@@ -364,7 +364,7 @@
         "Рогожка",
         "4 мест",
         "прямой",
-        "260×98 см"
+        "210×80 см"
       ],
       "specifications": [
         {
@@ -393,7 +393,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "260 × 98 × 80"
+          "value": "210 × 80 × 80"
         }
       ]
     },
@@ -412,10 +412,10 @@
       "softness": "средняя",
       "form": "прямой",
       "seats": "4",
-      "width": "300",
-      "depth": "100",
+      "width": "200",
+      "depth": "130",
       "height": "78",
-      "price": 820000,
+      "price": 490000,
       "images": [
         "/images/catalog/sofas/kings7-1.jpg",
         "/images/catalog/sofas/kings7-2.jpg"
@@ -430,7 +430,7 @@
         "Велюр",
         "4 мест",
         "прямой",
-        "300×100 см"
+        "200×130 см"
       ],
       "specifications": [
         {
@@ -459,7 +459,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "300 × 100 × 78"
+          "value": "200 × 130 × 78"
         }
       ]
     },
@@ -478,10 +478,10 @@
       "softness": "средне-мягкая",
       "form": "радиусный",
       "seats": "5",
-      "width": "340",
-      "depth": "110",
-      "height": "76",
-      "price": 1090000,
+      "width": "280",
+      "depth": "100",
+      "height": "80",
+      "price": 690000,
       "images": [
         "/images/catalog/sofas/kings8-1.jpg"
       ],
@@ -495,7 +495,7 @@
         "Велюр",
         "5 мест",
         "радиусный",
-        "340×110 см"
+        "280×100 см"
       ],
       "specifications": [
         {
@@ -524,7 +524,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "340 × 110 × 76"
+          "value": "280 × 100 × 80"
         }
       ]
     },
@@ -545,7 +545,7 @@
       "seats": "5",
       "width": "350",
       "depth": "110",
-      "height": "75",
+      "height": "80",
       "price": 1040000,
       "images": [
         "/images/catalog/sofas/kings9-1-copy.jpg",
@@ -590,7 +590,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "350 × 110 × 75"
+          "value": "350 × 110 × 80"
         }
       ]
     },
@@ -609,10 +609,10 @@
       "softness": "мягкая",
       "form": "модульный",
       "seats": "6",
-      "width": "410",
-      "depth": "110",
+      "width": "280",
+      "depth": "100",
       "height": "78",
-      "price": 1240000,
+      "price": 690000,
       "images": [
         "/images/catalog/sofas/kings10.jpg"
       ],
@@ -626,7 +626,7 @@
         "Boucle",
         "6 мест",
         "модульный",
-        "410×110 см"
+        "280×100 см"
       ],
       "specifications": [
         {
@@ -655,7 +655,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "410 × 110 × 78"
+          "value": "280 × 100 × 78"
         }
       ]
     },
@@ -739,10 +739,10 @@
       "softness": "средняя",
       "form": "модульный",
       "seats": "5",
-      "width": "380",
-      "depth": "105",
+      "width": "210",
+      "depth": "90",
       "height": "78",
-      "price": 1120000,
+      "price": 480000,
       "images": [
         "/images/catalog/sofas/kings12.jpg"
       ],
@@ -756,7 +756,7 @@
         "Велюр",
         "5 мест",
         "модульный",
-        "380×105 см"
+        "210×90 см"
       ],
       "specifications": [
         {
@@ -785,7 +785,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "380 × 105 × 78"
+          "value": "210 × 90 × 78"
         }
       ]
     },
@@ -804,10 +804,10 @@
       "softness": "средне-мягкая",
       "form": "модульный",
       "seats": "6",
-      "width": "420",
+      "width": "250",
       "depth": "110",
       "height": "78",
-      "price": 1360000,
+      "price": 550000,
       "images": [
         "/images/catalog/sofas/kings13-1.jpg",
         "/images/catalog/sofas/kings13-2.jpg"
@@ -822,7 +822,7 @@
         "Велюр",
         "6 мест",
         "модульный",
-        "420×110 см"
+        "250×110 см"
       ],
       "specifications": [
         {
@@ -851,7 +851,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "420 × 110 × 78"
+          "value": "250 × 110 × 78"
         }
       ]
     },
@@ -870,10 +870,10 @@
       "softness": "мягкая",
       "form": "модульный",
       "seats": "6",
-      "width": "415",
-      "depth": "108",
+      "width": "280",
+      "depth": "90",
       "height": "78",
-      "price": 1290000,
+      "price": 650000,
       "images": [
         "/images/catalog/sofas/kings14.jpg"
       ],
@@ -887,7 +887,7 @@
         "Boucle",
         "6 мест",
         "модульный",
-        "415×108 см"
+        "280×90 см"
       ],
       "specifications": [
         {
@@ -916,7 +916,7 @@
         },
         {
           "label": "Габариты (Ш×Г×В), см",
-          "value": "415 × 108 × 78"
+          "value": "280 × 90 × 78"
         }
       ]
     },
@@ -4188,7 +4188,7 @@
       "width": "",
       "depth": "",
       "height": "",
-      "price": null,
+      "price": 350000,
       "images": [
         "/images/catalog/armchairs/king-a1-01.jpg"
       ],
@@ -11118,16 +11118,16 @@
       "subtitle": "S15",
       "intro": "S15",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 580000,
+      "color": "brown",
+      "tone": "Шоколадный",
+      "material": "Ткань",
+      "softness": "Очень мягкий",
+      "form": "Прямой",
+      "seats": "3",
+      "width": "200",
+      "depth": "80",
+      "height": "80",
+      "price": 350000,
       "images": [
         "/images/catalog/sofas/king-s15-01.jpg",
         "/images/catalog/sofas/king-s15-02.jpg",
@@ -11140,11 +11140,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 400,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "3 мест",
+        "Прямой",
+        "200×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Шоколадный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "200 × 80 × 80"
         }
       ]
     },
@@ -11157,16 +11186,16 @@
       "subtitle": "S16",
       "intro": "S16",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 1280000,
+      "color": "white",
+      "tone": "Белый",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Угловой",
+      "seats": "6",
+      "width": "440",
+      "depth": "230",
+      "height": "80",
+      "price": 890000,
       "images": [
         "/images/catalog/sofas/king-s16-01.jpg",
         "/images/catalog/sofas/king-s16-02.jpg"
@@ -11177,11 +11206,40 @@
       "heroH": 561,
       "featured": false,
       "order": 401,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "6 мест",
+        "Угловой",
+        "440×230 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Белый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "6"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "440 × 230 × 80"
         }
       ]
     },
@@ -11194,16 +11252,16 @@
       "subtitle": "S17",
       "intro": "S17",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 1320000,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Ткань",
+      "softness": "Очень мягкий",
+      "form": "Угловой",
+      "seats": "6",
+      "width": "440",
+      "depth": "230",
+      "height": "80",
+      "price": 890000,
       "images": [
         "/images/catalog/sofas/king-s17-01.jpg"
       ],
@@ -11213,11 +11271,40 @@
       "heroH": 562,
       "featured": false,
       "order": 402,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "6 мест",
+        "Угловой",
+        "440×230 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "6"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "440 × 230 × 80"
         }
       ]
     },
@@ -11230,16 +11317,16 @@
       "subtitle": "S18",
       "intro": "S18",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 950000,
+      "color": "white",
+      "tone": "Бежевый",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Модульный",
+      "seats": "4",
+      "width": "450",
+      "depth": "90",
+      "height": "80",
+      "price": 800000,
       "images": [
         "/images/catalog/sofas/king-s18-01.jpg",
         "/images/catalog/sofas/king-s18-02.jpg",
@@ -11255,11 +11342,40 @@
       "heroH": 799,
       "featured": false,
       "order": 403,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "4 мест",
+        "Модульный",
+        "450×90 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Модульный"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Бежевый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "450 × 90 × 80"
         }
       ]
     },
@@ -11272,16 +11388,16 @@
       "subtitle": "S19",
       "intro": "S19",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 1180000,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Рогожка",
+      "softness": "Очень Мягкий",
+      "form": "Угловой",
+      "seats": "6",
+      "width": "370",
+      "depth": "220",
+      "height": "80",
+      "price": 790000,
       "images": [
         "/images/catalog/sofas/king-s19-01.jpg",
         "/images/catalog/sofas/king-s19-02.jpg",
@@ -11299,11 +11415,40 @@
       "heroH": 750,
       "featured": false,
       "order": 404,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "6 мест",
+        "Угловой",
+        "370×220 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень Мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "6"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "370 × 220 × 80"
         }
       ]
     },
@@ -11316,16 +11461,16 @@
       "subtitle": "S20",
       "intro": "S20",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 2650000,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Радиус",
+      "seats": "7",
+      "width": "400",
+      "depth": "190",
+      "height": "80",
+      "price": 1590000,
       "images": [
         "/images/catalog/sofas/king-s20-01.jpg",
         "/images/catalog/sofas/king-s20-02.jpg",
@@ -11343,11 +11488,40 @@
       "heroH": 643,
       "featured": false,
       "order": 405,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "7 мест",
+        "Радиус",
+        "400×190 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Радиус"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "7"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "400 × 190 × 80"
         }
       ]
     },
@@ -11360,16 +11534,16 @@
       "subtitle": "S21",
       "intro": "S21",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 870000,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Угловой",
+      "seats": "3",
+      "width": "200",
+      "depth": "150",
+      "height": "80",
+      "price": 650000,
       "images": [
         "/images/catalog/sofas/king-s21-01.jpg",
         "/images/catalog/sofas/king-s21-02.jpg",
@@ -11384,11 +11558,40 @@
       "heroH": 977,
       "featured": false,
       "order": 406,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "3 мест",
+        "Угловой",
+        "200×150 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "200 × 150 × 80"
         }
       ]
     },
@@ -11401,16 +11604,16 @@
       "subtitle": "S22",
       "intro": "S22",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 560000,
+      "color": "white",
+      "tone": "Белый",
+      "material": "Рогожка",
+      "softness": "Очень мягкий",
+      "form": "Прямой",
+      "seats": "2",
+      "width": "160",
+      "depth": "80",
+      "height": "80",
+      "price": 500000,
       "images": [
         "/images/catalog/sofas/king-s22-01.jpg",
         "/images/catalog/sofas/king-s22-02.jpg",
@@ -11422,11 +11625,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 407,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "2 мест",
+        "Прямой",
+        "160×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Белый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "2"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "160 × 80 × 80"
         }
       ]
     },
@@ -11439,16 +11671,16 @@
       "subtitle": "S23",
       "intro": "S23",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 740000,
+      "color": "green",
+      "tone": "Зеленный",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Угловой",
+      "seats": "4",
+      "width": "270",
+      "depth": "200",
+      "height": "80",
+      "price": 670000,
       "images": [
         "/images/catalog/sofas/king-s23-01.jpg",
         "/images/catalog/sofas/king-s23-02.jpg",
@@ -11460,11 +11692,40 @@
       "heroH": 562,
       "featured": false,
       "order": 408,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "4 мест",
+        "Угловой",
+        "270×200 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Зеленный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "270 × 200 × 80"
         }
       ]
     },
@@ -11477,16 +11738,16 @@
       "subtitle": "S24",
       "intro": "S24",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 1670000,
+      "color": "brown",
+      "tone": "Коричневый",
+      "material": "Кожа",
+      "softness": "Средняя",
+      "form": "Угловой",
+      "seats": "5",
+      "width": "350",
+      "depth": "250",
+      "height": "80",
+      "price": 2490000,
       "images": [
         "/images/catalog/sofas/king-s24-01.jpg",
         "/images/catalog/sofas/king-s24-02.jpg",
@@ -11502,11 +11763,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 409,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Кожа",
+        "5 мест",
+        "Угловой",
+        "350×250 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Кожа"
+        },
+        {
+          "label": "Цвет",
+          "value": "Коричневый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "5"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "350 × 250 × 80"
         }
       ]
     },
@@ -11519,15 +11809,15 @@
       "subtitle": "S25",
       "intro": "S25",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
+      "color": "white",
+      "tone": "Белый",
+      "material": "Рогожка",
+      "softness": "Очень мягкий",
+      "form": "Угловой",
+      "seats": "6",
+      "width": "440",
+      "depth": "300",
+      "height": "80",
       "price": 1350000,
       "images": [
         "/images/catalog/sofas/king-s25-01.jpg",
@@ -11543,11 +11833,40 @@
       "heroH": 562,
       "featured": false,
       "order": 410,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "6 мест",
+        "Угловой",
+        "440×300 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Белый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "6"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "440 × 300 × 80"
         }
       ]
     },
@@ -11560,16 +11879,16 @@
       "subtitle": "S27",
       "intro": "S27",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 1560000,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Ткань",
+      "softness": "Очень мягкий",
+      "form": "Угловой",
+      "seats": "4",
+      "width": "360",
+      "depth": "220",
+      "height": "80",
+      "price": 950000,
       "images": [
         "/images/catalog/sofas/king-s27-01.jpg",
         "/images/catalog/sofas/king-s27-02.jpg",
@@ -11588,11 +11907,40 @@
       "heroH": 750,
       "featured": false,
       "order": 412,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "4 мест",
+        "Угловой",
+        "360×220 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "360 × 220 × 80"
         }
       ]
     },
@@ -11605,16 +11953,16 @@
       "subtitle": "S28",
       "intro": "S28",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 1200000,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "4",
+      "width": "300",
+      "depth": "90",
+      "height": "80",
+      "price": 700000,
       "images": [
         "/images/catalog/sofas/king-s28-01.jpg",
         "/images/catalog/sofas/king-s28-02.jpg",
@@ -11633,11 +11981,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 413,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "4 мест",
+        "Прямой",
+        "300×90 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "300 × 90 × 80"
         }
       ]
     },
@@ -11650,16 +12027,16 @@
       "subtitle": "S29",
       "intro": "S29",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 670000,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "2",
+      "width": "200",
+      "depth": "110",
+      "height": "80",
+      "price": 550000,
       "images": [
         "/images/catalog/sofas/king-s29-01.jpg",
         "/images/catalog/sofas/king-s29-02.jpg",
@@ -11673,11 +12050,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 414,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "2 мест",
+        "Прямой",
+        "200×110 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "2"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "200 × 110 × 80"
         }
       ]
     },
@@ -11690,15 +12096,15 @@
       "subtitle": "S30",
       "intro": "S30",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
+      "color": "white",
+      "tone": "Белый",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "4",
+      "width": "300",
+      "depth": "80",
+      "height": "80",
       "price": 890000,
       "images": [
         "/images/catalog/sofas/king-s30-01.jpg",
@@ -11715,11 +12121,40 @@
       "heroH": 800,
       "featured": false,
       "order": 415,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "4 мест",
+        "Прямой",
+        "300×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Белый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "300 × 80 × 80"
         }
       ]
     },
@@ -11732,16 +12167,16 @@
       "subtitle": "S31",
       "intro": "S31",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 1550000,
+      "color": "white",
+      "tone": "Белый",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "3",
+      "width": "250",
+      "depth": "80",
+      "height": "80",
+      "price": 590000,
       "images": [
         "/images/catalog/sofas/king-s31-01.jpg",
         "/images/catalog/sofas/king-s31-02.jpg",
@@ -11759,11 +12194,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 416,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "3 мест",
+        "Прямой",
+        "250×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Белый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "250 × 80 × 80"
         }
       ]
     },
@@ -11776,16 +12240,16 @@
       "subtitle": "S32",
       "intro": "S32",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": 890000,
+      "color": "white",
+      "tone": "Белый",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "3",
+      "width": "250",
+      "depth": "80",
+      "height": "80",
+      "price": 500000,
       "images": [
         "/images/catalog/sofas/king-s32-01.jpg",
         "/images/catalog/sofas/king-s32-02.jpg",
@@ -11799,11 +12263,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 417,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "3 мест",
+        "Прямой",
+        "250×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Белый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "250 × 80 × 80"
         }
       ]
     },
@@ -12681,16 +13174,16 @@
       "subtitle": "S62",
       "intro": "S62",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "white",
+      "tone": "Белый",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "2",
+      "width": "200",
+      "depth": "80",
+      "height": "80",
+      "price": 650000,
       "images": [
         "/images/catalog/sofas/king-s62-01.jpg"
       ],
@@ -12700,11 +13193,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 700,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "2 мест",
+        "Прямой",
+        "200×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Белый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "2"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "200 × 80 × 80"
         }
       ]
     },
@@ -12717,16 +13239,16 @@
       "subtitle": "S63",
       "intro": "S63",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "white",
+      "tone": "Белый",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "2",
+      "width": "200",
+      "depth": "80",
+      "height": "80",
+      "price": 670000,
       "images": [
         "/images/catalog/sofas/king-s63-01.jpg",
         "/images/catalog/sofas/king-s63-02.jpg",
@@ -12738,11 +13260,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 701,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "2 мест",
+        "Прямой",
+        "200×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Белый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "2"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "200 × 80 × 80"
         }
       ]
     },
@@ -12755,16 +13306,16 @@
       "subtitle": "S64",
       "intro": "S64",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "terracotta",
+      "tone": "Терракоттовый",
+      "material": "Рогожка",
+      "softness": "Очень мягкий",
+      "form": "Угловой",
+      "seats": "190",
+      "width": "300",
+      "depth": "200",
+      "height": "80",
+      "price": 730000,
       "images": [
         "/images/catalog/sofas/king-s64-01.jpg"
       ],
@@ -12774,89 +13325,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 702,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s65",
-      "slug": "king-s65",
-      "name": "KING S65",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S65",
-      "intro": "S65",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s65-01.jpg",
-        "/images/catalog/sofas/king-s65-02.jpg",
-        "/images/catalog/sofas/king-s65-03.jpg",
-        "/images/catalog/sofas/king-s65-04.jpg",
-        "/images/catalog/sofas/king-s65-05.jpg",
-        "/images/catalog/sofas/king-s65-06.jpg",
-        "/images/catalog/sofas/king-s65-07.jpg"
+      "shortSpecs": [
+        "Рогожка",
+        "190 мест",
+        "Угловой",
+        "300×200 см"
       ],
-      "heroImage": "/images/catalog/sofas/king-s65-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s65-01-t.jpg",
-      "heroW": 666,
-      "heroH": 1000,
-      "featured": false,
-      "order": 703,
-      "shortSpecs": [],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s66",
-      "slug": "king-s66",
-      "name": "KING S66",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S66",
-      "intro": "S66",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s66-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s66-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s66-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 704,
-      "shortSpecs": [],
-      "specifications": [
+        },
         {
-          "label": "Категория",
-          "value": "Диван"
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Терракоттовый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "190"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "300 × 200 × 80"
         }
       ]
     },
@@ -12869,16 +13371,16 @@
       "subtitle": "S67",
       "intro": "S67",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "green",
+      "tone": "Зеленный",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "2",
+      "width": "200",
+      "depth": "80",
+      "height": "80",
+      "price": 500000,
       "images": [
         "/images/catalog/sofas/king-s67-01.jpg"
       ],
@@ -12888,11 +13390,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 705,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "2 мест",
+        "Прямой",
+        "200×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Зеленный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "2"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "200 × 80 × 80"
         }
       ]
     },
@@ -12905,16 +13436,16 @@
       "subtitle": "S68",
       "intro": "S68",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "blue",
+      "tone": "Голубой",
+      "material": "Ткань",
+      "softness": "Очень мягкий",
+      "form": "Угловой",
+      "seats": "3",
+      "width": "210",
+      "depth": "150",
+      "height": "80",
+      "price": 550000,
       "images": [
         "/images/catalog/sofas/king-s68-01.jpg",
         "/images/catalog/sofas/king-s68-02.jpg",
@@ -12926,156 +13457,40 @@
       "heroH": 750,
       "featured": false,
       "order": 706,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s69",
-      "slug": "king-s69",
-      "name": "KING S69",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S69",
-      "intro": "S69",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s69-01.jpg"
+      "shortSpecs": [
+        "Ткань",
+        "3 мест",
+        "Угловой",
+        "210×150 см"
       ],
-      "heroImage": "/images/catalog/sofas/king-s69-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s69-01-t.jpg",
-      "heroW": 753,
-      "heroH": 1000,
-      "featured": false,
-      "order": 707,
-      "shortSpecs": [],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s70",
-      "slug": "king-s70",
-      "name": "KING S70",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S70",
-      "intro": "S70",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s70-01.jpg",
-        "/images/catalog/sofas/king-s70-02.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s70-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s70-01-t.jpg",
-      "heroW": 800,
-      "heroH": 1000,
-      "featured": false,
-      "order": 708,
-      "shortSpecs": [],
-      "specifications": [
+        },
         {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s71",
-      "slug": "king-s71",
-      "name": "KING S71",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S71",
-      "intro": "S71",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s71-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s71-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s71-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 1000,
-      "featured": false,
-      "order": 709,
-      "shortSpecs": [],
-      "specifications": [
+          "label": "Форма",
+          "value": "Угловой"
+        },
         {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s72",
-      "slug": "king-s72",
-      "name": "KING S72",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S72",
-      "intro": "S72",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s72-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s72-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s72-01-t.jpg",
-      "heroW": 750,
-      "heroH": 1000,
-      "featured": false,
-      "order": 710,
-      "shortSpecs": [],
-      "specifications": [
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
         {
-          "label": "Категория",
-          "value": "Диван"
+          "label": "Цвет",
+          "value": "Голубой"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "210 × 150 × 80"
         }
       ]
     },
@@ -13088,16 +13503,16 @@
       "subtitle": "S73",
       "intro": "S73",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "green",
+      "tone": "Зеленый",
+      "material": "Ткань",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "2",
+      "width": "200",
+      "depth": "80",
+      "height": "80",
+      "price": 450000,
       "images": [
         "/images/catalog/sofas/king-s73-01.jpg"
       ],
@@ -13107,84 +13522,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 711,
-      "shortSpecs": [],
-      "specifications": [
-        {
-          "label": "Категория",
-          "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s74",
-      "slug": "king-s74",
-      "name": "KING S74",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S74",
-      "intro": "S74",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s74-01.jpg",
-        "/images/catalog/sofas/king-s74-02.jpg"
+      "shortSpecs": [
+        "Ткань",
+        "2 мест",
+        "Прямой",
+        "200×80 см"
       ],
-      "heroImage": "/images/catalog/sofas/king-s74-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s74-01-t.jpg",
-      "heroW": 1000,
-      "heroH": 750,
-      "featured": false,
-      "order": 712,
-      "shortSpecs": [],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
-        }
-      ]
-    },
-    {
-      "id": "king-s75",
-      "slug": "king-s75",
-      "name": "KING S75",
-      "category": "sofas",
-      "collection": "",
-      "subtitle": "S75",
-      "intro": "S75",
-      "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
-      "images": [
-        "/images/catalog/sofas/king-s75-01.jpg"
-      ],
-      "heroImage": "/images/catalog/sofas/king-s75-01.jpg",
-      "heroThumb": "/images/catalog/sofas/king-s75-01-t.jpg",
-      "heroW": 748,
-      "heroH": 1000,
-      "featured": false,
-      "order": 713,
-      "shortSpecs": [],
-      "specifications": [
+        },
         {
-          "label": "Категория",
-          "value": "Диван"
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Зеленый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "2"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "200 × 80 × 80"
         }
       ]
     },
@@ -13197,16 +13568,16 @@
       "subtitle": "S76",
       "intro": "S76",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "yellow",
+      "tone": "Горчичный",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "2",
+      "width": "200",
+      "depth": "80",
+      "height": "80",
+      "price": 500000,
       "images": [
         "/images/catalog/sofas/king-s76-01.jpg"
       ],
@@ -13216,11 +13587,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 714,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "2 мест",
+        "Прямой",
+        "200×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Горчичный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "2"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "200 × 80 × 80"
         }
       ]
     },
@@ -14045,10 +14445,10 @@
       "softness": "",
       "form": "",
       "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "width": "280",
+      "depth": "100",
+      "height": "78",
+      "price": 690000,
       "images": [
         "/images/catalog/sofas/king-s100-01.jpg"
       ],
@@ -14058,11 +14458,17 @@
       "heroH": 1000,
       "featured": false,
       "order": 738,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "280×100 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "280 × 100 × 78"
         }
       ]
     },
@@ -14076,15 +14482,15 @@
       "intro": "S101",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
       "color": "",
-      "tone": "",
+      "tone": "бежевый",
       "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "softness": "Очень мягкий",
+      "form": "Прямой",
+      "seats": "3",
+      "width": "280",
+      "depth": "100",
+      "height": "78",
+      "price": 690000,
       "images": [
         "/images/catalog/sofas/king-s101-01.jpg"
       ],
@@ -14094,11 +14500,35 @@
       "heroH": 1000,
       "featured": false,
       "order": 739,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "3 мест",
+        "Прямой",
+        "280×100 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Цвет",
+          "value": "бежевый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "280 × 100 × 78"
         }
       ]
     },
@@ -14112,15 +14542,15 @@
       "intro": "S102",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
       "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "tone": "Бежевый",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "4",
+      "width": "300",
+      "depth": "80",
+      "height": "80",
+      "price": 1120000,
       "images": [
         "/images/catalog/sofas/king-s102-01.jpg"
       ],
@@ -14130,11 +14560,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 740,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "4 мест",
+        "Прямой",
+        "300×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Бежевый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "300 × 80 × 80"
         }
       ]
     },
@@ -14147,16 +14606,16 @@
       "subtitle": "S103",
       "intro": "S103",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
+      "color": "brown",
+      "tone": "Коффейный",
       "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "softness": "Очень мягкая",
+      "form": "Прямой",
+      "seats": "4",
+      "width": "350",
+      "depth": "90",
+      "height": "80",
+      "price": 790000,
       "images": [
         "/images/catalog/sofas/king-s103-01.jpg"
       ],
@@ -14166,11 +14625,35 @@
       "heroH": 975,
       "featured": false,
       "order": 741,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "4 мест",
+        "Прямой",
+        "350×90 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Цвет",
+          "value": "Коффейный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкая"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "350 × 90 × 80"
         }
       ]
     },
@@ -14183,16 +14666,16 @@
       "subtitle": "S104",
       "intro": "S104",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "white",
+      "tone": "Бежевый",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Изогнутый",
+      "seats": "4",
+      "width": "350",
+      "depth": "80",
+      "height": "80",
+      "price": 750000,
       "images": [
         "/images/catalog/sofas/king-s104-01.jpg",
         "/images/catalog/sofas/king-s104-02.jpg"
@@ -14203,11 +14686,40 @@
       "heroH": 750,
       "featured": false,
       "order": 742,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "4 мест",
+        "Изогнутый",
+        "350×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Изогнутый"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Бежевый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "350 × 80 × 80"
         }
       ]
     },
@@ -14220,16 +14732,16 @@
       "subtitle": "S105",
       "intro": "S105",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "terracota",
+      "tone": "Терракотовый",
+      "material": "Рогожка",
+      "softness": "Очень мягкий",
+      "form": "Угловой",
+      "seats": "4",
+      "width": "350",
+      "depth": "80",
+      "height": "80",
+      "price": 690000,
       "images": [
         "/images/catalog/sofas/king-s105-01.jpg"
       ],
@@ -14239,11 +14751,40 @@
       "heroH": 750,
       "featured": false,
       "order": 743,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "4 мест",
+        "Угловой",
+        "350×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Терракотовый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "4"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "350 × 80 × 80"
         }
       ]
     },
@@ -14256,16 +14797,16 @@
       "subtitle": "S106",
       "intro": "S106",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "blue",
+      "tone": "Голубой",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "3",
+      "width": "280",
+      "depth": "80",
+      "height": "80",
+      "price": 750000,
       "images": [
         "/images/catalog/sofas/king-s106-01.jpg"
       ],
@@ -14275,11 +14816,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 744,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "3 мест",
+        "Прямой",
+        "280×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Голубой"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "280 × 80 × 80"
         }
       ]
     },
@@ -14292,16 +14862,16 @@
       "subtitle": "S107",
       "intro": "S107",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "terracotta",
+      "tone": "Терракоттовый",
+      "material": "Велюр",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "3",
+      "width": "280",
+      "depth": "80",
+      "height": "80",
+      "price": 690000,
       "images": [
         "/images/catalog/sofas/king-s107-01.jpg"
       ],
@@ -14311,11 +14881,40 @@
       "heroH": 936,
       "featured": false,
       "order": 745,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Велюр",
+        "3 мест",
+        "Прямой",
+        "280×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Велюр"
+        },
+        {
+          "label": "Цвет",
+          "value": "Терракоттовый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "280 × 80 × 80"
         }
       ]
     },
@@ -14328,16 +14927,16 @@
       "subtitle": "S108",
       "intro": "S108",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "green",
+      "tone": "Зеленый",
+      "material": "Кожа",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "3",
+      "width": "280",
+      "depth": "80",
+      "height": "80",
+      "price": 1500000,
       "images": [
         "/images/catalog/sofas/king-s108-01.jpg",
         "/images/catalog/sofas/king-s108-02.jpg"
@@ -14348,11 +14947,40 @@
       "heroH": 564,
       "featured": false,
       "order": 746,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Кожа",
+        "3 мест",
+        "Прямой",
+        "280×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Кожа"
+        },
+        {
+          "label": "Цвет",
+          "value": "Зеленый"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "280 × 80 × 80"
         }
       ]
     },
@@ -14365,16 +14993,16 @@
       "subtitle": "S109",
       "intro": "S109",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Ткань",
+      "softness": "Очень мягкий",
+      "form": "Угловой",
+      "seats": "3",
+      "width": "300",
+      "depth": "150",
+      "height": "80",
+      "price": 890000,
       "images": [
         "/images/catalog/sofas/king-s109-01.jpg",
         "/images/catalog/sofas/king-s109-02.jpg"
@@ -14385,11 +15013,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 747,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Ткань",
+        "3 мест",
+        "Угловой",
+        "300×150 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Угловой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Ткань"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Очень мягкий"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "300 × 150 × 80"
         }
       ]
     },
@@ -14402,16 +15059,16 @@
       "subtitle": "S110",
       "intro": "S110",
       "description": "Дизайнерский диван KING ATELIER. Изготовим в вашей ткани и размере.",
-      "color": "",
-      "tone": "",
-      "material": "",
-      "softness": "",
-      "form": "",
-      "seats": "",
-      "width": "",
-      "depth": "",
-      "height": "",
-      "price": null,
+      "color": "white",
+      "tone": "Молочный",
+      "material": "Рогожка",
+      "softness": "Средняя",
+      "form": "Прямой",
+      "seats": "3",
+      "width": "280",
+      "depth": "80",
+      "height": "80",
+      "price": 690000,
       "images": [
         "/images/catalog/sofas/king-s110-01.jpg"
       ],
@@ -14421,11 +15078,40 @@
       "heroH": 1000,
       "featured": false,
       "order": 748,
-      "shortSpecs": [],
+      "shortSpecs": [
+        "Рогожка",
+        "3 мест",
+        "Прямой",
+        "280×80 см"
+      ],
       "specifications": [
         {
           "label": "Категория",
           "value": "Диван"
+        },
+        {
+          "label": "Форма",
+          "value": "Прямой"
+        },
+        {
+          "label": "Материал обивки",
+          "value": "Рогожка"
+        },
+        {
+          "label": "Цвет",
+          "value": "Молочный"
+        },
+        {
+          "label": "Мягкость",
+          "value": "Средняя"
+        },
+        {
+          "label": "Посадочные места",
+          "value": "3"
+        },
+        {
+          "label": "Габариты (Ш×Г×В), см",
+          "value": "280 × 80 × 80"
         }
       ]
     },

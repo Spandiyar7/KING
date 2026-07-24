@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { notFound } from "next/navigation";
 import { LuxuryLink } from "@/components/LuxuryLink";
 import { PageHero } from "@/components/PageHero";
-import { assetPath } from "@/config/paths";
+import { StyleGalleryViewer } from "@/components/StyleGalleryViewer";
 import { getStyleBySlug, getStyleGroup, interiorStyles } from "@/data/styles";
 
 type StylePageProps = {
@@ -53,18 +52,8 @@ export default async function StylePage({ params }: StylePageProps) {
       />
 
       <section className="bg-[#f8f8f7] py-12 text-[#3f3f3f] md:py-20">
-        <div className="giorgio-container grid gap-5 sm:grid-cols-2 md:gap-6 lg:grid-cols-3">
-          {style.gallery.map((src, index) => (
-            <div key={src} className="relative aspect-[3/4] overflow-hidden bg-black" data-luxury-reveal>
-              <Image
-                src={assetPath(src)}
-                alt={`${style.title} — интерьер ${index + 1}`}
-                fill
-                sizes="(min-width: 1024px) 32vw, (min-width: 640px) 48vw, 100vw"
-                className="object-cover transition-transform duration-[1400ms] ease-luxury hover:scale-[1.03]"
-              />
-            </div>
-          ))}
+        <div className="giorgio-container">
+          <StyleGalleryViewer title={style.title} images={style.gallery} />
         </div>
       </section>
 
